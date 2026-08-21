@@ -1,0 +1,90 @@
+{
+  "build_id": "P24-12-WEB-V2-20260821-v1.2",
+  "version": "v1.2",
+  "date": "2026-08-21",
+  "status": "CANDIDATE_READY_FOR_WEB-V3B-R2",
+  "production_status": "METADATA_RECONCILED_CANDIDATE",
+  "parent_build": "P24-12-WEB-V2-20260821-v1.1",
+  "parent_production_folder_id": "13rxddkcBXhEr3eoabUSHe-rvN6F6P0-q",
+  "parent_site_folder_id": "1Egd8JBK9w7yyPLiDB9ZkIHGmbv3jjgiP",
+  "parent_zip_drive_id": "1pX4nMW-3xX7IAaFdcigIr5uyExgwbqud",
+  "parent_zip_sha256": "260de8bf0557184bd370ccf6f0e036f76a3e178fe31a436a6e9a58ae8f56ef2d",
+  "patch_id": "V3B-R1M",
+  "patch_scope": "RELEASE_METADATA_IDENTITY_RECONCILIATION_ONLY",
+  "original_functional_patch": {
+    "patch_id": "V3B-001",
+    "scope": "MOBILE_NAV_ACCESSIBILITY_STATE_ONLY",
+    "parent_candidate": "v1.1",
+    "status": "PRESERVED_BYTE_IDENTICAL_IN_INDEX_HTML_FROM_V1.1"
+  },
+  "release_identity_authority": "OUTER_V1_2_RELEASE_MANIFEST",
+  "self_reference_note": "Final persisted v1.2 production folder/site/ZIP IDs and ZIP SHA-256 are maintained by the authoritative outer v1.2 release manifest to avoid self-referential package churn.",
+  "v1g_authorities": {
+    "canonical_content_id": "1b7CwqKwM2V3t0uBBknx1biIGrZR9BU9O",
+    "asset_manifest_id": "1PYoSrPrQHh2RxuzgQ1hwRBQW05plPsAO",
+    "render_binding_map_id": "1XbxJRBZmXKjPyJpNSMesmb3GxzYegvhy"
+  },
+  "current_rpt4r2": {
+    "drive_id": "1k_TcJpQ3cjU8n1fuYJT6zBKiH8hDllw2pA0ZjIwv8dg",
+    "current_revision_id": "392",
+    "previous_revision_id": "389",
+    "report_delta_status": "NON_SEMANTIC_PUBLICATION_REMEDIATION_ONLY"
+  },
+  "counts": {
+    "section_count": 18,
+    "shortlist_count": 23,
+    "finalist_count": 10,
+    "deep_dive_count": 6,
+    "metric_count": 32,
+    "claim_count": 40,
+    "source_count": 35,
+    "direct_source_url_count": 34,
+    "component_count": 40,
+    "render_binding_count": 177,
+    "data_donor_binding_count": 57,
+    "asset_count": 21,
+    "production_svg_count": 14,
+    "context_image_count": 6,
+    "official_logo_count": 1
+  },
+  "official_logo_id": "1UR5a_dVTxS8khrHRWi9g9hrgM-dRrcLy",
+  "runtime_dependencies": [
+    "HTML5",
+    "CSS3",
+    "Vanilla JavaScript",
+    "SVG",
+    "local image files"
+  ],
+  "external_runtime_dependencies": [],
+  "production_hotlinks": 0,
+  "asset_qa": {
+    "production_svg_count": 14,
+    "context_image_count": 6,
+    "official_logo_present": true,
+    "official_logo_faithful_sha256_match": true,
+    "production_asset_hotlinks": 0,
+    "broken_production_assets": 0,
+    "svg_required_versions_present": true,
+    "svg_forbidden_visible_hits": [],
+    "pass": true
+  },
+  "future_github_target": {
+    "repository": "kavie-cmyk/savrse-report-2",
+    "url": "https://github.com/kavie-cmyk/savrse-report-2",
+    "publish_site_contents_at_repository_root": true
+  },
+  "deployable_file_count": 33,
+  "research_semantic_diff": "ZERO",
+  "content_diff": "ZERO",
+  "html_functional_diff": "ZERO",
+  "css_diff": "ZERO",
+  "javascript_diff": "ZERO",
+  "visual_asset_diff": "ZERO",
+  "github_write": "NO",
+  "deployment": "NO",
+  "new_research": "NO",
+  "rerank": "NO",
+  "v3a_inheritance": "PRESERVED_PENDING_R1M_BYTE_DIFF_AUDIT",
+  "next_required_phase": "WEB-V3B-R2",
+  "unresolved_blockers": 0
+}

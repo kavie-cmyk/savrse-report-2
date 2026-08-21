@@ -1,0 +1,1599 @@
+[
+  {
+    "source_id": "S01",
+    "title": "Intent to Sole Source Eyesi Surgical VR Training Simulator",
+    "organization": "SAM.gov",
+    "publication_date": "01/01/2025",
+    "source_type_vi": "Hồ sơ mua sắm công",
+    "evidence_class": "OFFICIAL PROCUREMENT",
+    "visible_evidence_label_vi": "MUA SẮM / HỢP ĐỒNG CHÍNH THỨC",
+    "url": "https://sam.gov/workspace/contract/opp/35b22482c04641bc84cacb25ac7dd101/view",
+    "report_sections": [
+      "Phần 4–6: B2B/Healthcare",
+      "Phần 20.1",
+      "Phụ lục H"
+    ],
+    "supports_claims": [
+      "CLM-WEB06-B2B-RANK-01",
+      "CLM-WEB10-HEALTHCARE-PROCUREMENT"
+    ],
+    "supports_metrics": [],
+    "use_context_vi": "Tín hiệu về đường mua sắm tổ chức cho mô phỏng phẫu thuật VR.",
+    "what_it_proves_vi": "Cho thấy có đường mua sắm tổ chức cho loại giải pháp mô phỏng phẫu thuật VR.",
+    "what_it_does_not_prove_vi": "Không chứng minh tổng thị trường có thể tiếp cận (TAM), giá trị trúng thầu, gia hạn hay khả năng bán của SAVA.",
+    "limitations_vi": "Không chứng minh TAM, giá trị trúng thầu, gia hạn hay khả năng bán của SAVA.",
+    "status": "OK",
+    "visible_status_vi": "Đủ tham chiếu trong báo cáo hiện tại",
+    "technical_trace_ids": [
+      "OPP-P2412-007"
+    ],
+    "origin_website_sections": [
+      "WEB-06",
+      "WEB-07",
+      "WEB-10",
+      "WEB-18"
+    ],
+    "release_website_sections": [
+      "WEB-06",
+      "WEB-10",
+      "WEB-18"
+    ],
+    "direct_url_resolvable": true,
+    "url_status": "DIRECT_LINK_PRESENT"
+  },
+  {
+    "source_id": "S02",
+    "title": "Notice of Intent to Sole Source Virtual Reality Surgical Simulator",
+    "organization": "SAM.gov",
+    "publication_date": "16/01/2025",
+    "source_type_vi": "Hồ sơ mua sắm công",
+    "evidence_class": "OFFICIAL PROCUREMENT",
+    "visible_evidence_label_vi": "MUA SẮM / HỢP ĐỒNG CHÍNH THỨC",
+    "url": "https://sam.gov/opp/9284cebec9634182a79f346b1039eb0a/view",
+    "report_sections": [
+      "Phần 4–6: B2B/Healthcare",
+      "Phần 20.1",
+      "Phụ lục H"
+    ],
+    "supports_claims": [
+      "CLM-WEB06-B2B-RANK-01",
+      "CLM-WEB10-HEALTHCARE-PROCUREMENT"
+    ],
+    "supports_metrics": [],
+    "use_context_vi": "Tín hiệu mua sắm công thứ hai trong nhóm mô phỏng phẫu thuật VR.",
+    "what_it_proves_vi": "Cho thấy có thêm một lần ghi nhận mua sắm chính thức trong nhóm mô phỏng phẫu thuật VR.",
+    "what_it_does_not_prove_vi": "Không chứng minh quy mô thị trường hay doanh thu lặp lại.",
+    "limitations_vi": "Không chứng minh quy mô thị trường hay doanh thu lặp lại.",
+    "status": "OK",
+    "visible_status_vi": "Đủ tham chiếu trong báo cáo hiện tại",
+    "technical_trace_ids": [
+      "OPP-P2412-007"
+    ],
+    "origin_website_sections": [
+      "WEB-06",
+      "WEB-07",
+      "WEB-10",
+      "WEB-18"
+    ],
+    "release_website_sections": [
+      "WEB-06",
+      "WEB-10",
+      "WEB-18"
+    ],
+    "direct_url_resolvable": true,
+    "url_status": "DIRECT_LINK_PRESENT"
+  },
+  {
+    "source_id": "S03",
+    "title": "The impact of simulation-based training in medical education",
+    "organization": "PubMed Central",
+    "publication_date": "2024",
+    "source_type_vi": "Tổng quan học thuật",
+    "evidence_class": "ACADEMIC",
+    "visible_evidence_label_vi": "BẰNG CHỨNG HỌC THUẬT",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11224887/",
+    "report_sections": [
+      "Phần 4–6: B2B/Healthcare",
+      "Phần 20.1",
+      "Phần 20.6",
+      "Phụ lục H"
+    ],
+    "supports_claims": [
+      "CLM-WEB01-HEALTHCARE-PRIORITY",
+      "CLM-WEB06-B2B-RANK-01",
+      "CLM-WEB07-HEALTHCARE-SAVA",
+      "CLM-WEB10-HEALTHCARE-ACADEMIC-CEILING",
+      "CLM-WEB10-HEALTHCARE-PARTNER-GATE"
+    ],
+    "supports_metrics": [],
+    "use_context_vi": "Bằng chứng học thuật về đào tạo dựa trên mô phỏng.",
+    "what_it_proves_vi": "Cho thấy các kết quả nghiên cứu trong phạm vi đào tạo dựa trên mô phỏng.",
+    "what_it_does_not_prove_vi": "Không phải chuẩn lợi tức đầu tư (ROI) phổ quát; hiệu quả phụ thuộc bối cảnh và thiết kế đào tạo.",
+    "limitations_vi": "Bằng chứng học thuật chỉ có giá trị trong phạm vi nghiên cứu; không tự chuyển thành bằng chứng thương mại.",
+    "status": "OK",
+    "visible_status_vi": "Đủ tham chiếu trong báo cáo hiện tại",
+    "technical_trace_ids": [
+      "OPP-P2412-007"
+    ],
+    "origin_website_sections": [
+      "WEB-06",
+      "WEB-07",
+      "WEB-10",
+      "WEB-15",
+      "WEB-18"
+    ],
+    "release_website_sections": [
+      "WEB-06",
+      "WEB-10",
+      "WEB-15",
+      "WEB-18"
+    ],
+    "direct_url_resolvable": true,
+    "url_status": "DIRECT_LINK_PRESENT"
+  },
+  {
+    "source_id": "S04",
+    "title": "Reviewing the current state of virtual reality integration in medical education",
+    "organization": "BMC Medical Education",
+    "publication_date": "2024",
+    "source_type_vi": "Tổng quan phạm vi học thuật",
+    "evidence_class": "ACADEMIC",
+    "visible_evidence_label_vi": "BẰNG CHỨNG HỌC THUẬT",
+    "url": "https://link.springer.com/article/10.1186/s12909-024-05777-5",
+    "report_sections": [
+      "Phần 4–6: B2B/Healthcare",
+      "Phần 20.1",
+      "Phần 20.6",
+      "Phụ lục H"
+    ],
+    "supports_claims": [
+      "CLM-WEB01-HEALTHCARE-PRIORITY",
+      "CLM-WEB06-B2B-RANK-01",
+      "CLM-WEB07-HEALTHCARE-SAVA",
+      "CLM-WEB10-HEALTHCARE-ACADEMIC-CEILING",
+      "CLM-WEB10-HEALTHCARE-PARTNER-GATE"
+    ],
+    "supports_metrics": [],
+    "use_context_vi": "Bối cảnh tích hợp VR trong giáo dục y khoa.",
+    "what_it_proves_vi": "Cho thấy VR đã được nghiên cứu hoặc tích hợp trong một số bối cảnh giáo dục y khoa.",
+    "what_it_does_not_prove_vi": "Không chứng minh mọi trường hợp sử dụng VR đều hiệu quả hoặc tồn tại người mua trả tiền.",
+    "limitations_vi": "Không được suy từ bằng chứng học tập sang nhu cầu mua, mức sẵn sàng trả tiền, ROI hay khả năng thắng của SAVA.",
+    "status": "OK",
+    "visible_status_vi": "Đủ tham chiếu trong báo cáo hiện tại",
+    "technical_trace_ids": [
+      "OPP-P2412-007"
+    ],
+    "origin_website_sections": [
+      "WEB-06",
+      "WEB-07",
+      "WEB-10",
+      "WEB-15",
+      "WEB-18"
+    ],
+    "release_website_sections": [
+      "WEB-06",
+      "WEB-10",
+      "WEB-15",
+      "WEB-18"
+    ],
+    "direct_url_resolvable": true,
+    "url_status": "DIRECT_LINK_PRESENT"
+  },
+  {
+    "source_id": "S05",
+    "title": "ECM Technologies - Emulate3D virtual commissioning case",
+    "organization": "Rockwell Automation",
+    "publication_date": "01/02/2024",
+    "source_type_vi": "Trường hợp khách hàng do nhà cung cấp công bố",
+    "evidence_class": "VENDOR CASE",
+    "visible_evidence_label_vi": "CASE DO NHÀ CUNG CẤP CÔNG BỐ",
+    "url": "https://www.rockwellautomation.com/en-us/company/news/case-studies/emulate3d-software-cuts-install-commission-time-up-to-50-percent.html",
+    "report_sections": [
+      "Phần 4/7: Virtual Commissioning",
+      "Phần 20.3",
+      "Phụ lục G",
+      "Phụ lục H"
+    ],
+    "supports_claims": [
+      "CLM-WEB06-B2B-RANK-02"
+    ],
+    "supports_metrics": [
+      "Q::S05::COMMISSION_TIME_REDUCTION",
+      "Q::S05::FOLLOW_ON_PROJECTS"
+    ],
+    "use_context_vi": "Case kiểm thử hệ thống điều khiển trên mô hình số (Virtual Commissioning); nguồn báo cáo mức giảm thời gian 'tới 50%' và 3 dự án đang triển khai.",
+    "what_it_proves_vi": "Cho thấy một trường hợp sử dụng cụ thể có giá trị vận hành và có tín hiệu dự án tiếp nối.",
+    "what_it_does_not_prove_vi": "Không phải chuẩn ROI độc lập; không cho biết giá trị hợp đồng thường niên, tỷ lệ mua lại, doanh thu hay biên lợi nhuận.",
+    "limitations_vi": "Case do nhà cung cấp công bố; phải giữ nguyên điều kiện 'tới 50%'.",
+    "status": "OK",
+    "visible_status_vi": "Đủ tham chiếu trong báo cáo hiện tại",
+    "technical_trace_ids": [
+      "OPP-P2412-077"
+    ],
+    "origin_website_sections": [
+      "WEB-06",
+      "WEB-07",
+      "WEB-18"
+    ],
+    "release_website_sections": [
+      "WEB-06",
+      "WEB-18"
+    ],
+    "direct_url_resolvable": true,
+    "url_status": "DIRECT_LINK_PRESENT"
+  },
+  {
+    "source_id": "S06",
+    "title": "Mahindra & Mahindra Enhances Space Utilization with Warehouse Simulation",
+    "organization": "AnyLogic",
+    "publication_date": "UNKNOWN",
+    "source_type_vi": "Trường hợp khách hàng chính thức",
+    "evidence_class": "VENDOR CASE",
+    "visible_evidence_label_vi": "CASE DO NHÀ CUNG CẤP CÔNG BỐ",
+    "url": "https://www.anylogic.com/resources/case-studies/warehouse-optimization-mahindra-mahindra-enhances-space-utilization/",
+    "report_sections": [
+      "Phần 4/8: Warehouse",
+      "Phần 20.3",
+      "Phụ lục H"
+    ],
+    "supports_claims": [
+      "CLM-WEB06-B2B-RANK-03"
+    ],
+    "supports_metrics": [],
+    "use_context_vi": "Case mô phỏng kho phục vụ quyết định sử dụng không gian.",
+    "what_it_proves_vi": "Cho thấy mô phỏng kho đã được áp dụng cho một quyết định vận hành thực tế.",
+    "what_it_does_not_prove_vi": "Không chứng minh hiệu quả phổ quát, khả năng sản phẩm hóa hay doanh thu của SAVA.",
+    "limitations_vi": "Case do nhà cung cấp công bố; không được suy thành chuẩn hiệu quả cho toàn thị trường.",
+    "status": "OK",
+    "visible_status_vi": "Đủ tham chiếu trong báo cáo hiện tại",
+    "technical_trace_ids": [
+      "OPP-P2412-018",
+      "018-A"
+    ],
+    "origin_website_sections": [
+      "WEB-06",
+      "WEB-07",
+      "WEB-11",
+      "WEB-18"
+    ],
+    "release_website_sections": [
+      "WEB-06",
+      "WEB-11",
+      "WEB-18"
+    ],
+    "direct_url_resolvable": true,
+    "url_status": "DIRECT_LINK_PRESENT"
+  },
+  {
+    "source_id": "S07",
+    "title": "Transportation provider optimizes warehouse layouts with simulation",
+    "organization": "AnyLogic / Delovye Linii",
+    "publication_date": "UNKNOWN",
+    "source_type_vi": "Trường hợp khách hàng do nhà cung cấp công bố",
+    "evidence_class": "VENDOR CASE",
+    "visible_evidence_label_vi": "CASE DO NHÀ CUNG CẤP CÔNG BỐ",
+    "url": "https://www.anylogic.com/resources/case-studies/transportation-provider-carries-out-warehouses-layout-optimization-with-simulation-software/",
+    "report_sections": [
+      "Phần 4/8: Warehouse",
+      "Phần 20.3",
+      "Phụ lục H"
+    ],
+    "supports_claims": [
+      "CLM-WEB06-B2B-RANK-03"
+    ],
+    "supports_metrics": [],
+    "use_context_vi": "Case tối ưu bố trí kho trong doanh nghiệp vận tải.",
+    "what_it_proves_vi": "Cho thấy mô phỏng bố trí kho đã được triển khai trong môi trường doanh nghiệp.",
+    "what_it_does_not_prove_vi": "Không chứng minh mô hình bán lặp lại hay biên lợi nhuận.",
+    "limitations_vi": "Không có bằng chứng trong nguồn này về doanh thu lặp lại hoặc biên lợi nhuận.",
+    "status": "OK",
+    "visible_status_vi": "Đủ tham chiếu trong báo cáo hiện tại",
+    "technical_trace_ids": [
+      "OPP-P2412-018",
+      "018-A"
+    ],
+    "origin_website_sections": [
+      "WEB-06",
+      "WEB-07",
+      "WEB-11",
+      "WEB-18"
+    ],
+    "release_website_sections": [
+      "WEB-06",
+      "WEB-11",
+      "WEB-18"
+    ],
+    "direct_url_resolvable": true,
+    "url_status": "DIRECT_LINK_PRESENT"
+  },
+  {
+    "source_id": "S08",
+    "title": "Adoption of discrete event simulation in manufacturing",
+    "organization": "Taylor & Francis / peer-reviewed authors",
+    "publication_date": "2026",
+    "source_type_vi": "Nghiên cứu học thuật bình duyệt",
+    "evidence_class": "ACADEMIC",
+    "visible_evidence_label_vi": "BẰNG CHỨNG HỌC THUẬT",
+    "url": "https://www.tandfonline.com/doi/full/10.1080/17477778.2026.2628033",
+    "report_sections": [
+      "Phần 4/8: Warehouse",
+      "Phần 20.3",
+      "Phụ lục H"
+    ],
+    "supports_claims": [
+      "CLM-WEB06-B2B-RANK-03"
+    ],
+    "supports_metrics": [],
+    "use_context_vi": "Bối cảnh áp dụng mô phỏng sự kiện rời rạc (Discrete-Event Simulation, DES) trong sản xuất.",
+    "what_it_proves_vi": "Cho thấy DES có phạm vi ứng dụng đã được nghiên cứu trong sản xuất.",
+    "what_it_does_not_prove_vi": "Không chứng minh riêng bài toán kho hoặc hiệu quả kinh tế thương mại của SAVA.",
+    "limitations_vi": "Bằng chứng học thuật theo phạm vi; không phải bằng chứng về người mua hoặc doanh thu.",
+    "status": "OK",
+    "visible_status_vi": "Đủ tham chiếu trong báo cáo hiện tại",
+    "technical_trace_ids": [
+      "OPP-P2412-018",
+      "018-A"
+    ],
+    "origin_website_sections": [
+      "WEB-06",
+      "WEB-07",
+      "WEB-11",
+      "WEB-18"
+    ],
+    "release_website_sections": [
+      "WEB-06",
+      "WEB-11",
+      "WEB-18"
+    ],
+    "direct_url_resolvable": true,
+    "url_status": "DIRECT_LINK_PRESENT"
+  },
+  {
+    "source_id": "S09",
+    "title": "ORF–Vizrt Enterprise Agreement extension 2026–2028",
+    "organization": "ORF / EU public procurement",
+    "publication_date": "2026",
+    "source_type_vi": "Hồ sơ hợp đồng mua sắm công",
+    "evidence_class": "OFFICIAL PROCUREMENT",
+    "visible_evidence_label_vi": "MUA SẮM / HỢP ĐỒNG CHÍNH THỨC",
+    "url": "https://op.europa.eu/en/web/public-procurement/procurement-details/-/procurement/1fef40b5-c7aa-44ea-a3dc-74b5b9babac3",
+    "report_sections": [
+      "Phần 4/9: Broadcast",
+      "Phần 20.5",
+      "Phụ lục G",
+      "Phụ lục H"
+    ],
+    "supports_claims": [
+      "CLM-WEB06-B2B-RANK-04"
+    ],
+    "supports_metrics": [
+      "Q::S09::ORF_VIZRT_CONTRACT_VALUE"
+    ],
+    "use_context_vi": "Thỏa thuận doanh nghiệp / mua sắm cho phần mềm và hỗ trợ truyền hình.",
+    "what_it_proves_vi": "Cho thấy tồn tại một đối tượng mua sắm tổ chức nhiều năm với giá trị hợp đồng cuối cùng EUR 3.485.539,20.",
+    "what_it_does_not_prove_vi": "Không phải giá trị hợp đồng thường niên của phần mềm thuần, khoản tiền thực nhận, quy mô thị trường hay doanh thu SAVA có thể đạt.",
+    "limitations_vi": "Giá trị áp dụng cho toàn thỏa thuận 2026–2028; không tách được phần mềm thuần.",
+    "status": "OK",
+    "visible_status_vi": "Đủ tham chiếu trong báo cáo hiện tại",
+    "technical_trace_ids": [
+      "OPP-P2412-034",
+      "034-A"
+    ],
+    "origin_website_sections": [
+      "WEB-06",
+      "WEB-07",
+      "WEB-18"
+    ],
+    "release_website_sections": [
+      "WEB-06",
+      "WEB-18"
+    ],
+    "direct_url_resolvable": true,
+    "url_status": "DIRECT_LINK_PRESENT"
+  },
+  {
+    "source_id": "S10",
+    "title": "NBC Sports selects Chyron PRIME CG for Milan Cortina 2026",
+    "organization": "NBC Sports",
+    "publication_date": "03/02/2026",
+    "source_type_vi": "Công bố triển khai của khách hàng",
+    "evidence_class": "COMPANY CLAIM",
+    "visible_evidence_label_vi": "SỐ LIỆU DO DOANH NGHIỆP CÔNG BỐ",
+    "url": "https://www.nbcsports.com/pressbox/press-releases/nbc-sports-selects-data-rich-graphics-and-virtual-sets-for-its-production-of-2026-milan-cortina-winter-olympics-and-paralympics",
+    "report_sections": [
+      "Phần 4/9: Broadcast",
+      "Phần 20.5",
+      "Phụ lục H"
+    ],
+    "supports_claims": [
+      "CLM-WEB06-B2B-RANK-04"
+    ],
+    "supports_metrics": [],
+    "use_context_vi": "Tín hiệu triển khai PRIME CG và quan hệ nhà cung cấp trong truyền hình.",
+    "what_it_proves_vi": "Cho thấy có triển khai / tham chiếu chính thức trong quy trình truyền hình.",
+    "what_it_does_not_prove_vi": "Không cho biết đầy đủ hiệu quả kinh tế hợp đồng hoặc khả năng gia nhập của SAVA.",
+    "limitations_vi": "Là công bố triển khai của doanh nghiệp; không phải bằng chứng độc lập về khả năng thắng của SAVA.",
+    "status": "OK",
+    "visible_status_vi": "Đủ tham chiếu trong báo cáo hiện tại",
+    "technical_trace_ids": [
+      "OPP-P2412-034",
+      "034-A"
+    ],
+    "origin_website_sections": [
+      "WEB-06",
+      "WEB-07",
+      "WEB-18"
+    ],
+    "release_website_sections": [
+      "WEB-06",
+      "WEB-18"
+    ],
+    "direct_url_resolvable": true,
+    "url_status": "DIRECT_LINK_PRESENT"
+  },
+  {
+    "source_id": "S11",
+    "title": "Reality Capture for Construction Progress",
+    "organization": "OpenSpace",
+    "publication_date": "24/04/2025",
+    "source_type_vi": "Bài viết doanh nghiệp / quy trình sản phẩm",
+    "evidence_class": "COMPANY CLAIM",
+    "visible_evidence_label_vi": "SỐ LIỆU DO DOANH NGHIỆP CÔNG BỐ",
+    "url": "https://www.openspace.ai/blog/from-groundbreaking-to-completion-using-reality-capture-software-to-track-construction-progress",
+    "report_sections": [
+      "Phần 4/10: Construction",
+      "Phần 20.5",
+      "Phụ lục H"
+    ],
+    "supports_claims": [
+      "CLM-WEB06-B2B-RANK-05"
+    ],
+    "supports_metrics": [],
+    "use_context_vi": "Quy trình thu nhận hiện trạng (reality capture) để theo dõi tiến độ công trường.",
+    "what_it_proves_vi": "Cho thấy quy trình thu dữ liệu hiện trường và theo dõi tiến độ đã được đóng gói thành sản phẩm.",
+    "what_it_does_not_prove_vi": "Không phải bằng chứng độc lập về ROI, gia hạn hay khả năng thắng của SAVA.",
+    "limitations_vi": "Nguồn do doanh nghiệp công bố; không chứng minh kinh tế lặp lại độc lập.",
+    "status": "OK",
+    "visible_status_vi": "Đủ tham chiếu trong báo cáo hiện tại",
+    "technical_trace_ids": [
+      "OPP-P2412-112",
+      "B3OPP-TMP-007"
+    ],
+    "origin_website_sections": [
+      "WEB-06",
+      "WEB-07",
+      "WEB-18"
+    ],
+    "release_website_sections": [
+      "WEB-06",
+      "WEB-18"
+    ],
+    "direct_url_resolvable": true,
+    "url_status": "DIRECT_LINK_PRESENT"
+  },
+  {
+    "source_id": "S12",
+    "title": "OpenSpace",
+    "organization": "OpenSpace",
+    "publication_date": "UNKNOWN",
+    "source_type_vi": "Trang sản phẩm chính thức",
+    "evidence_class": "COMPANY CLAIM",
+    "visible_evidence_label_vi": "SỐ LIỆU DO DOANH NGHIỆP CÔNG BỐ",
+    "url": "https://www.openspace.ai/",
+    "report_sections": [
+      "Phần 4/10: Construction",
+      "Phần 20.5",
+      "Phụ lục H"
+    ],
+    "supports_claims": [
+      "CLM-WEB06-B2B-RANK-05"
+    ],
+    "supports_metrics": [],
+    "use_context_vi": "Bối cảnh sản phẩm thu nhận hiện trạng cho xây dựng.",
+    "what_it_proves_vi": "Cho thấy tồn tại sản phẩm và quy trình làm việc trong nhóm này.",
+    "what_it_does_not_prove_vi": "Không chứng minh quy mô thị trường, kinh tế lặp lại hay quyền tiếp cận thương mại của SAVA.",
+    "limitations_vi": "Trang sản phẩm chính thức; không phải bằng chứng độc lập về thị trường.",
+    "status": "OK",
+    "visible_status_vi": "Đủ tham chiếu trong báo cáo hiện tại",
+    "technical_trace_ids": [
+      "OPP-P2412-112",
+      "B3OPP-TMP-007"
+    ],
+    "origin_website_sections": [
+      "WEB-06",
+      "WEB-07",
+      "WEB-18"
+    ],
+    "release_website_sections": [
+      "WEB-06",
+      "WEB-18"
+    ],
+    "direct_url_resolvable": true,
+    "url_status": "DIRECT_LINK_PRESENT"
+  },
+  {
+    "source_id": "S13",
+    "title": "GOLF+ store / Pass",
+    "organization": "GOLF+",
+    "publication_date": "UNKNOWN",
+    "source_type_vi": "Trang cửa hàng chính thức",
+    "evidence_class": "OFFICIAL PRICE",
+    "visible_evidence_label_vi": "GIÁ NIÊM YẾT CHÍNH THỨC",
+    "url": "https://store.golfplusvr.com/",
+    "report_sections": [
+      "Phần 11/12: Sports",
+      "Phụ lục G",
+      "Phụ lục H"
+    ],
+    "supports_claims": [
+      "CLM-WEB08-B2C-RANK-01"
+    ],
+    "supports_metrics": [
+      "Q::S13::GOLF_BASE_LIST_PRICE"
+    ],
+    "use_context_vi": "Cấu trúc sản phẩm trả phí và gói GOLF+ Pass.",
+    "what_it_proves_vi": "Cho thấy tồn tại sản phẩm VR thể thao trả phí và cấu trúc nội dung / thuê bao.",
+    "what_it_does_not_prove_vi": "Giá niêm yết không chứng minh số bản bán, doanh thu thực nhận, khả năng giữ chân hay mức sẵn sàng trả tiền của khách hàng cho SAVA.",
+    "limitations_vi": "Chỉ dùng để chứng minh cấu trúc trả phí; không dùng như bằng chứng nhu cầu thị trường.",
+    "status": "OK",
+    "visible_status_vi": "Đủ tham chiếu trong báo cáo hiện tại",
+    "technical_trace_ids": [
+      "OPP-P2412-044"
+    ],
+    "origin_website_sections": [
+      "WEB-08",
+      "WEB-09",
+      "WEB-18"
+    ],
+    "release_website_sections": [
+      "WEB-08",
+      "WEB-09",
+      "WEB-18"
+    ],
+    "direct_url_resolvable": true,
+    "url_status": "DIRECT_LINK_PRESENT"
+  },
+  {
+    "source_id": "S14",
+    "title": "GOLF+ setup and pricing",
+    "organization": "GOLF+",
+    "publication_date": "UNKNOWN",
+    "source_type_vi": "Trang giá/thiết lập chính thức",
+    "evidence_class": "OFFICIAL PRICE",
+    "visible_evidence_label_vi": "GIÁ NIÊM YẾT CHÍNH THỨC",
+    "url": "https://store.golfplusvr.com/pages/vr-golf-setup",
+    "report_sections": [
+      "Phần 11/12: Sports",
+      "Phụ lục G",
+      "Phụ lục H"
+    ],
+    "supports_claims": [
+      "CLM-WEB08-B2C-RANK-01"
+    ],
+    "supports_metrics": [
+      "Q::S14::GOLF_PASS_COURSES",
+      "Q::S14::GOLF_PASS_MONTHLY",
+      "Q::S14::GOLF_PASS_ANNUAL"
+    ],
+    "use_context_vi": "Giá niêm yết và cấu trúc truy cập nội dung GOLF+.",
+    "what_it_proves_vi": "Cho thấy tồn tại cấu trúc giá / thuê bao chính thức.",
+    "what_it_does_not_prove_vi": "Không chứng minh số người trả tiền, khả năng giữ chân, doanh thu bình quân mỗi người dùng (ARPU) hay lợi nhuận.",
+    "limitations_vi": "Giá niêm yết chính thức; không phải giá trị doanh thu thực nhận.",
+    "status": "OK",
+    "visible_status_vi": "Đủ tham chiếu trong báo cáo hiện tại",
+    "technical_trace_ids": [
+      "OPP-P2412-044"
+    ],
+    "origin_website_sections": [
+      "WEB-08",
+      "WEB-09",
+      "WEB-18"
+    ],
+    "release_website_sections": [
+      "WEB-08",
+      "WEB-09",
+      "WEB-18"
+    ],
+    "direct_url_resolvable": true,
+    "url_status": "DIRECT_LINK_PRESENT"
+  },
+  {
+    "source_id": "S15",
+    "title": "Racket Club",
+    "organization": "Resolution Games / Steam",
+    "publication_date": "UNKNOWN",
+    "source_type_vi": "Trang cửa hàng",
+    "evidence_class": "OFFICIAL PRICE",
+    "visible_evidence_label_vi": "GIÁ NIÊM YẾT CHÍNH THỨC",
+    "url": "https://store.steampowered.com/app/2407910",
+    "report_sections": [
+      "Phần 11/12: Sports",
+      "Phụ lục G",
+      "Phụ lục H"
+    ],
+    "supports_claims": [
+      "CLM-WEB08-B2C-RANK-01"
+    ],
+    "supports_metrics": [
+      "Q::S15::RACKET_CLUB_LIST_PRICE"
+    ],
+    "use_context_vi": "Giá niêm yết sản phẩm VR thể thao / kỹ năng.",
+    "what_it_proves_vi": "Cho thấy tồn tại một tựa VR thể thao / kỹ năng trả phí ở mức giá niêm yết quan sát được.",
+    "what_it_does_not_prove_vi": "Không chứng minh doanh số, doanh thu hay khả năng giữ chân.",
+    "limitations_vi": "Giá niêm yết trên cửa hàng; không phải bằng chứng về cầu.",
+    "status": "OK",
+    "visible_status_vi": "Đủ tham chiếu trong báo cáo hiện tại",
+    "technical_trace_ids": [
+      "OPP-P2412-044"
+    ],
+    "origin_website_sections": [
+      "WEB-08",
+      "WEB-09",
+      "WEB-18"
+    ],
+    "release_website_sections": [
+      "WEB-08",
+      "WEB-09",
+      "WEB-18"
+    ],
+    "direct_url_resolvable": true,
+    "url_status": "DIRECT_LINK_PRESENT"
+  },
+  {
+    "source_id": "S16",
+    "title": "Synth Riders Current Waves pack",
+    "organization": "Kluge Interactive",
+    "publication_date": "UNKNOWN",
+    "source_type_vi": "Trang nội dung chính thức",
+    "evidence_class": "OFFICIAL PRICE",
+    "visible_evidence_label_vi": "GIÁ NIÊM YẾT CHÍNH THỨC",
+    "url": "https://synthridersvr.com/current-waves/",
+    "report_sections": [
+      "Phần 11/13: Music",
+      "Phần 20.2",
+      "Phụ lục G",
+      "Phụ lục H"
+    ],
+    "supports_claims": [
+      "CLM-WEB08-B2C-RANK-02",
+      "CLM-WEB12-MUSIC-PAID-ARCHITECTURE"
+    ],
+    "supports_metrics": [
+      "Q::S16::SYNTH_RIDERS_PACK_PRICE"
+    ],
+    "use_context_vi": "Gói nhạc trả phí trong trò chơi VR hành động theo nhạc.",
+    "what_it_proves_vi": "Cho thấy tồn tại cấu trúc nội dung tải thêm (DLC) / gói nhạc trả phí.",
+    "what_it_does_not_prove_vi": "Không chứng minh tỷ lệ mua thêm, doanh thu, biên lợi nhuận hay kinh tế quyền âm nhạc.",
+    "limitations_vi": "Giá sản phẩm chính thức; không chứng minh mức sẵn sàng trả tiền cho sản phẩm SAVA.",
+    "status": "OK",
+    "visible_status_vi": "Đủ tham chiếu trong báo cáo hiện tại",
+    "technical_trace_ids": [
+      "OPP-P2412-055",
+      "OPP-P2412-063"
+    ],
+    "origin_website_sections": [
+      "WEB-08",
+      "WEB-12",
+      "WEB-18"
+    ],
+    "release_website_sections": [
+      "WEB-08",
+      "WEB-12",
+      "WEB-18"
+    ],
+    "direct_url_resolvable": true,
+    "url_status": "DIRECT_LINK_PRESENT"
+  },
+  {
+    "source_id": "S17",
+    "title": "Synth Riders music licensing",
+    "organization": "Kluge Interactive",
+    "publication_date": "UNKNOWN",
+    "source_type_vi": "Trang chính thức về quyền âm nhạc",
+    "evidence_class": "COMPANY CLAIM",
+    "visible_evidence_label_vi": "SỐ LIỆU DO DOANH NGHIỆP CÔNG BỐ",
+    "url": "https://synthridersvr.com/music-licensing/",
+    "report_sections": [
+      "Phần 11/13: Music",
+      "Phần 20.2",
+      "Phần 20.6",
+      "Phụ lục H"
+    ],
+    "supports_claims": [
+      "CLM-WEB08-B2C-RANK-02",
+      "CLM-WEB12-MUSIC-RIGHTS-LIFECYCLE"
+    ],
+    "supports_metrics": [],
+    "use_context_vi": "Quyền âm nhạc là một phần thực của vận hành sản phẩm hành động theo nhạc.",
+    "what_it_proves_vi": "Cho thấy cấp phép âm nhạc và vòng đời nội dung là phụ thuộc thực của nhóm sản phẩm.",
+    "what_it_does_not_prove_vi": "Không cung cấp chi phí quyền âm nhạc của SAVA hoặc mức sẵn sàng trả tiền cho sản phẩm SAVA.",
+    "limitations_vi": "Không được suy chi phí quyền nhạc cụ thể nếu nguồn không công bố.",
+    "status": "OK",
+    "visible_status_vi": "Đủ tham chiếu trong báo cáo hiện tại",
+    "technical_trace_ids": [
+      "OPP-P2412-055",
+      "OPP-P2412-063"
+    ],
+    "origin_website_sections": [
+      "WEB-08",
+      "WEB-12",
+      "WEB-14",
+      "WEB-18"
+    ],
+    "release_website_sections": [
+      "WEB-08",
+      "WEB-12",
+      "WEB-14",
+      "WEB-18"
+    ],
+    "direct_url_resolvable": true,
+    "url_status": "DIRECT_LINK_PRESENT"
+  },
+  {
+    "source_id": "S18",
+    "title": "Cubism Press Kit",
+    "organization": "Thomas Van Bouwel",
+    "publication_date": "UNKNOWN",
+    "source_type_vi": "Press kit chính thức",
+    "evidence_class": "OFFICIAL PRICE",
+    "visible_evidence_label_vi": "GIÁ NIÊM YẾT CHÍNH THỨC",
+    "url": "https://cubism-vr.com/presskit",
+    "report_sections": [
+      "Phần 11/14: Puzzle",
+      "Phụ lục G",
+      "Phụ lục H"
+    ],
+    "supports_claims": [
+      "CLM-WEB08-B2C-RANK-03"
+    ],
+    "supports_metrics": [
+      "Q::S18::CUBISM_LIST_PRICE"
+    ],
+    "use_context_vi": "Bằng chứng tồn tại sản phẩm giải đố VR trả phí.",
+    "what_it_proves_vi": "Cho thấy tồn tại cấu trúc sản phẩm giải đố VR cao cấp trả phí.",
+    "what_it_does_not_prove_vi": "Không chứng minh doanh số, khả năng giữ chân hoặc lý do bắt buộc phải dùng VR (WHY-VR) của ý tưởng SAVA.",
+    "limitations_vi": "Giá / press kit chỉ chứng minh cấu trúc sản phẩm, không chứng minh nhu cầu cho SAVA.",
+    "status": "OK",
+    "visible_status_vi": "Đủ tham chiếu trong báo cáo hiện tại",
+    "technical_trace_ids": [
+      "OPP-P2412-045"
+    ],
+    "origin_website_sections": [
+      "WEB-08",
+      "WEB-13",
+      "WEB-18"
+    ],
+    "release_website_sections": [
+      "WEB-08",
+      "WEB-13",
+      "WEB-18"
+    ],
+    "direct_url_resolvable": true,
+    "url_status": "DIRECT_LINK_PRESENT"
+  },
+  {
+    "source_id": "S19",
+    "title": "Puzzling Places PlayStation",
+    "organization": "PlayStation / Realities.io",
+    "publication_date": "UNKNOWN",
+    "source_type_vi": "Trang cửa hàng chính thức",
+    "evidence_class": "OFFICIAL PRICE",
+    "visible_evidence_label_vi": "GIÁ NIÊM YẾT CHÍNH THỨC",
+    "url": "https://store.playstation.com/en-us/product/UP6978-PPSA14219_00-0930814246230118",
+    "report_sections": [
+      "Phần 11/14: Puzzle",
+      "Phụ lục G",
+      "Phụ lục H"
+    ],
+    "supports_claims": [
+      "CLM-WEB08-B2C-RANK-03"
+    ],
+    "supports_metrics": [
+      "Q::S19::PUZZLING_PLACES_LIST_PRICE"
+    ],
+    "use_context_vi": "Giá niêm yết sản phẩm giải đố VR cao cấp.",
+    "what_it_proves_vi": "Cho thấy tồn tại một mức giá trả phí khác trong nhóm giải đố VR.",
+    "what_it_does_not_prove_vi": "Không chứng minh doanh số, doanh thu, khả năng giữ chân hoặc nhu cầu đối với sản phẩm SAVA.",
+    "limitations_vi": "Giá niêm yết chính thức trên cửa hàng.",
+    "status": "OK",
+    "visible_status_vi": "Đủ tham chiếu trong báo cáo hiện tại",
+    "technical_trace_ids": [
+      "OPP-P2412-045"
+    ],
+    "origin_website_sections": [
+      "WEB-08",
+      "WEB-13",
+      "WEB-18"
+    ],
+    "release_website_sections": [
+      "WEB-08",
+      "WEB-13",
+      "WEB-18"
+    ],
+    "direct_url_resolvable": true,
+    "url_status": "DIRECT_LINK_PRESENT"
+  },
+  {
+    "source_id": "S20",
+    "title": "Noun Town",
+    "organization": "Noun Town",
+    "publication_date": "UNKNOWN",
+    "source_type_vi": "Trang sản phẩm chính thức",
+    "evidence_class": "MIXED",
+    "visible_evidence_label_vi": "BẰNG CHỨNG HỖN HỢP",
+    "url": "https://noun.town/",
+    "report_sections": [
+      "Phần 11/15: Language",
+      "Phụ lục G",
+      "Phụ lục H"
+    ],
+    "supports_claims": [
+      "CLM-WEB08-B2C-RANK-04"
+    ],
+    "supports_metrics": [
+      "Q::S20::NOUN_TOWN_LIST_PRICE",
+      "Q::S20::NOUN_TOWN_LANGUAGES",
+      "Q::S20::NOUN_TOWN_PLAYERS"
+    ],
+    "use_context_vi": "Giá mua một lần, 12 ngôn ngữ và công bố của doanh nghiệp về hơn 200 nghìn người chơi.",
+    "what_it_proves_vi": "Cho thấy cấu trúc sản phẩm học ngoại ngữ VR trả phí và một tín hiệu quy mô do doanh nghiệp công bố.",
+    "what_it_does_not_prove_vi": "Công bố hơn 200 nghìn người chơi không đồng nghĩa số người trả tiền, doanh thu hay khả năng giữ chân.",
+    "limitations_vi": "Giá là dữ liệu sản phẩm; số người chơi là số liệu do doanh nghiệp công bố.",
+    "status": "OK",
+    "visible_status_vi": "Đủ tham chiếu trong báo cáo hiện tại",
+    "technical_trace_ids": [
+      "OPP-P2412-105",
+      "PF23"
+    ],
+    "origin_website_sections": [
+      "WEB-08",
+      "WEB-18"
+    ],
+    "release_website_sections": [
+      "WEB-08",
+      "WEB-18"
+    ],
+    "direct_url_resolvable": true,
+    "url_status": "DIRECT_LINK_PRESENT"
+  },
+  {
+    "source_id": "S21",
+    "title": "Zero Latency VR Licensing FAQ - system price, ongoing license options and venue operating model",
+    "organization": "Zero Latency VR",
+    "publication_date": "UNKNOWN",
+    "source_type_vi": "Tài liệu cấp phép/giá chính thức",
+    "evidence_class": "OFFICIAL PRICE",
+    "visible_evidence_label_vi": "GIÁ NIÊM YẾT CHÍNH THỨC",
+    "url": "https://invest.zerolatencyvr.com/zero-latency-vr-faq",
+    "report_sections": [
+      "Phần 11/16: LBE",
+      "Phụ lục G",
+      "Phụ lục H"
+    ],
+    "supports_claims": [
+      "CLM-WEB08-B2C-RANK-05"
+    ],
+    "supports_metrics": [
+      "Q::S21::ZERO_LATENCY_SYSTEM_PRICE",
+      "Q::S21::ZERO_LATENCY_REVENUE_SHARE"
+    ],
+    "use_context_vi": "Giá hệ thống và cấu trúc chia sẻ doanh thu của mô hình VR tại địa điểm vật lý.",
+    "what_it_proves_vi": "Cho thấy tồn tại cấu trúc thương mại giữa nhà cung cấp và đơn vị vận hành, gồm giá hệ thống và điều khoản chia sẻ doanh thu.",
+    "what_it_does_not_prove_vi": "Không chứng minh lợi nhuận của đơn vị vận hành, thời gian hoàn vốn hay kinh tế điểm bán phổ quát.",
+    "limitations_vi": "Điều khoản thương mại chính thức; không phải biên lợi nhuận hay hiệu quả điểm bán.",
+    "status": "OK",
+    "visible_status_vi": "Đủ tham chiếu trong báo cáo hiện tại",
+    "technical_trace_ids": [
+      "OPP-P2412-030"
+    ],
+    "origin_website_sections": [
+      "WEB-08",
+      "WEB-18"
+    ],
+    "release_website_sections": [
+      "WEB-08",
+      "WEB-18"
+    ],
+    "direct_url_resolvable": true,
+    "url_status": "DIRECT_LINK_PRESENT"
+  },
+  {
+    "source_id": "S22",
+    "title": "Zero Latency celebrates 10 years",
+    "organization": "Zero Latency",
+    "publication_date": "2025",
+    "source_type_vi": "Trang nhà đầu tư/tin doanh nghiệp",
+    "evidence_class": "COMPANY CLAIM",
+    "visible_evidence_label_vi": "SỐ LIỆU DO DOANH NGHIỆP CÔNG BỐ",
+    "url": "https://invest.zerolatencyvr.com/news-and-events/zero-latency-celebrates-10-years-of-world-leading-vr-with-over-5-million-plays-30-countries-and-one-epic-party",
+    "report_sections": [
+      "Phần 11/16: LBE",
+      "Phụ lục G",
+      "Phụ lục H"
+    ],
+    "supports_claims": [
+      "CLM-WEB08-B2C-RANK-05"
+    ],
+    "supports_metrics": [
+      "Q::S22::ZERO_LATENCY_VENUES",
+      "Q::S22::ZERO_LATENCY_PLAYS"
+    ],
+    "use_context_vi": "Quy mô địa điểm / lượt chơi do doanh nghiệp công bố.",
+    "what_it_proves_vi": "Cho thấy doanh nghiệp công bố mạng lưới hơn 120 địa điểm và hơn 5 triệu lượt chơi.",
+    "what_it_does_not_prove_vi": "Không chứng minh số địa điểm có lãi, quy mô độc lập của thị trường hoặc kinh tế của SAVA.",
+    "limitations_vi": "Số liệu do doanh nghiệp công bố; giữ nguyên dấu 'hơn'.",
+    "status": "OK",
+    "visible_status_vi": "Đủ tham chiếu trong báo cáo hiện tại",
+    "technical_trace_ids": [
+      "OPP-P2412-030"
+    ],
+    "origin_website_sections": [
+      "WEB-08",
+      "WEB-18"
+    ],
+    "release_website_sections": [
+      "WEB-08",
+      "WEB-18"
+    ],
+    "direct_url_resolvable": true,
+    "url_status": "DIRECT_LINK_PRESENT"
+  },
+  {
+    "source_id": "S23",
+    "title": "Beat Saber FAQ / PlayStation support sunset",
+    "organization": "Beat Games",
+    "publication_date": "2026",
+    "source_type_vi": "FAQ chính thức",
+    "evidence_class": "COMPANY CLAIM",
+    "visible_evidence_label_vi": "SỐ LIỆU DO DOANH NGHIỆP CÔNG BỐ",
+    "url": "https://beatsaber.com/faq.html",
+    "report_sections": [
+      "Phần 11/13: Music",
+      "Phần 20.2",
+      "Phần 20.6",
+      "Phụ lục H"
+    ],
+    "supports_claims": [
+      "CLM-WEB01-MUSIC-PRIORITY",
+      "CLM-WEB08-B2C-RANK-02",
+      "CLM-WEB12-MUSIC-SAVA",
+      "CLM-WEB12-MUSIC-RIGHTS-LIFECYCLE",
+      "CLM-WEB12-MUSIC-PROTOTYPE-GATE",
+      "CLM-WEB14-MUSICWORLD-PAUSE",
+      "CLM-WEB15-COUNTER-EVIDENCE-ACCESS"
+    ],
+    "supports_metrics": [],
+    "use_context_vi": "Bằng chứng phản biện về phụ thuộc nền tảng và vòng đời của nhóm trò chơi hành động theo nhạc.",
+    "what_it_proves_vi": "Cho thấy hỗ trợ nền tảng và vòng đời nội dung có thể ảnh hưởng đáng kể tới kinh tế và tuổi thọ dịch vụ.",
+    "what_it_does_not_prove_vi": "Không chứng minh toàn bộ nhóm trò chơi hành động theo nhạc thất bại.",
+    "limitations_vi": "Là bằng chứng phản biện theo một trường hợp / nền tảng, không phải tỷ lệ thất bại của toàn nhóm.",
+    "status": "OK",
+    "visible_status_vi": "Đủ tham chiếu trong báo cáo hiện tại",
+    "technical_trace_ids": [
+      "OPP-P2412-055",
+      "OPP-P2412-063"
+    ],
+    "origin_website_sections": [
+      "WEB-08",
+      "WEB-12",
+      "WEB-14",
+      "WEB-15",
+      "WEB-18"
+    ],
+    "release_website_sections": [
+      "WEB-08",
+      "WEB-12",
+      "WEB-14",
+      "WEB-15",
+      "WEB-18"
+    ],
+    "direct_url_resolvable": true,
+    "url_status": "DIRECT_LINK_PRESENT"
+  },
+  {
+    "source_id": "S24",
+    "title": "Meta-analyses of VR-assisted language education",
+    "organization": "Foreign Language Annals",
+    "publication_date": "22/01/2024",
+    "source_type_vi": "Nghiên cứu học thuật",
+    "evidence_class": "ACADEMIC",
+    "visible_evidence_label_vi": "BẰNG CHỨNG HỌC THUẬT",
+    "url": "https://doi.org/10.1111/flan.12748",
+    "report_sections": [
+      "Phần 11/15: Language",
+      "Phần 20.6",
+      "Phụ lục G",
+      "Phụ lục H"
+    ],
+    "supports_claims": [
+      "CLM-WEB08-B2C-RANK-04",
+      "CLM-WEB08-LANGUAGE-SAVA"
+    ],
+    "supports_metrics": [
+      "Q::S24::LANGUAGE_RCT_COUNT"
+    ],
+    "use_context_vi": "Phân tích gộp gồm 41 thử nghiệm đối chứng ngẫu nhiên (RCT) về giáo dục ngôn ngữ có hỗ trợ VR.",
+    "what_it_proves_vi": "Cho thấy có nền tảng nghiên cứu gồm 41 RCT cho các kết quả được nghiên cứu.",
+    "what_it_does_not_prove_vi": "Không chứng minh hiệu quả phổ quát, khả năng giữ chân người dùng trả phí hoặc ưu thế thương mại.",
+    "limitations_vi": "Bằng chứng học thuật có trần diễn giải thương mại rõ ràng.",
+    "status": "OK",
+    "visible_status_vi": "Đủ tham chiếu trong báo cáo hiện tại",
+    "technical_trace_ids": [
+      "OPP-P2412-105",
+      "PF23"
+    ],
+    "origin_website_sections": [
+      "WEB-08",
+      "WEB-15",
+      "WEB-18"
+    ],
+    "release_website_sections": [
+      "WEB-08",
+      "WEB-15",
+      "WEB-18"
+    ],
+    "direct_url_resolvable": true,
+    "url_status": "DIRECT_LINK_PRESENT"
+  },
+  {
+    "source_id": "S25",
+    "title": "VR for K-12 foreign language learning systematic review",
+    "organization": "Frontiers in Psychology",
+    "publication_date": "2025",
+    "source_type_vi": "Tổng quan hệ thống học thuật",
+    "evidence_class": "ACADEMIC",
+    "visible_evidence_label_vi": "BẰNG CHỨNG HỌC THUẬT",
+    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1714481/full",
+    "report_sections": [
+      "Phần 11/15: Language",
+      "Phần 20.6",
+      "Phụ lục H"
+    ],
+    "supports_claims": [
+      "CLM-WEB08-B2C-RANK-04",
+      "CLM-WEB08-LANGUAGE-SAVA"
+    ],
+    "supports_metrics": [],
+    "use_context_vi": "Tổng quan hệ thống học thuật kèm giới hạn phương pháp.",
+    "what_it_proves_vi": "Cho thấy một số kết quả có tín hiệu hứa hẹn trong phạm vi nghiên cứu.",
+    "what_it_does_not_prove_vi": "Không chứng minh lợi ích tức thời nhất quán hoặc ưu thế thương mại của VR.",
+    "limitations_vi": "Không được chuyển kết quả học thuật thành bằng chứng về cầu, doanh thu hay khả năng giữ chân.",
+    "status": "OK",
+    "visible_status_vi": "Đủ tham chiếu trong báo cáo hiện tại",
+    "technical_trace_ids": [
+      "OPP-P2412-105",
+      "PF23"
+    ],
+    "origin_website_sections": [
+      "WEB-08",
+      "WEB-15",
+      "WEB-18"
+    ],
+    "release_website_sections": [
+      "WEB-08",
+      "WEB-15",
+      "WEB-18"
+    ],
+    "direct_url_resolvable": true,
+    "url_status": "DIRECT_LINK_PRESENT"
+  },
+  {
+    "source_id": "S26",
+    "title": "Zero Latency VR reopens Frisco location after 5-month closure",
+    "organization": "Community Impact / Zero Latency Frisco location owner",
+    "publication_date": "31/08/2024",
+    "source_type_vi": "Báo chí kinh doanh địa phương / phát biểu nhà vận hành",
+    "evidence_class": "COUNTER-CASE / THIRD-PARTY",
+    "visible_evidence_label_vi": "CASE PHẢN BIỆN / BÊN THỨ BA",
+    "url": "https://communityimpact.com/dallas-fort-worth/frisco/business/2024/08/31/zero-latency-vr-reopens-frisco-location-after-5-month-closure/",
+    "report_sections": [
+      "Phần 11/16: LBE",
+      "Phần 20.6",
+      "Phụ lục G",
+      "Phụ lục H"
+    ],
+    "supports_claims": [
+      "CLM-WEB08-B2C-RANK-05",
+      "CLM-WEB08-LBE-SAVA",
+      "CLM-WEB15-COUNTER-EVIDENCE-ACCESS"
+    ],
+    "supports_metrics": [
+      "Q::S26::FRISCO_CLOSURE_PERIOD"
+    ],
+    "use_context_vi": "Case phản biện về kinh tế của một địa điểm VR tại địa điểm vật lý.",
+    "what_it_proves_vi": "Cho thấy một trường hợp đóng cửa / mở lại ở cấp địa điểm, phản ánh kinh tế địa điểm có thể thay đổi nhanh.",
+    "what_it_does_not_prove_vi": "Không phải tỷ lệ thất bại của toàn ngành.",
+    "limitations_vi": "Một case địa phương đơn lẻ; không phải ước tính tần suất hay xác suất.",
+    "status": "OK",
+    "visible_status_vi": "Đủ tham chiếu trong báo cáo hiện tại",
+    "technical_trace_ids": [
+      "OPP-P2412-030"
+    ],
+    "origin_website_sections": [
+      "WEB-08",
+      "WEB-15",
+      "WEB-18"
+    ],
+    "release_website_sections": [
+      "WEB-08",
+      "WEB-15",
+      "WEB-18"
+    ],
+    "direct_url_resolvable": true,
+    "url_status": "DIRECT_LINK_PRESENT"
+  },
+  {
+    "source_id": "S27",
+    "title": "FitXR membership content",
+    "organization": "FitXR",
+    "publication_date": "UNKNOWN",
+    "source_type_vi": "Trang hỗ trợ chính thức",
+    "evidence_class": "COMPANY CLAIM",
+    "visible_evidence_label_vi": "SỐ LIỆU DO DOANH NGHIỆP CÔNG BỐ",
+    "url": "https://intercom.help/fitxr/en/articles/7883447-what-s-included-in-your-fitxr-membership",
+    "report_sections": [
+      "Phần 11: B2C eliminated comparators",
+      "Phần 20.6",
+      "Phụ lục G",
+      "Phụ lục H"
+    ],
+    "supports_claims": [],
+    "supports_metrics": [
+      "Q::S27::FITXR_WORKOUT_LIBRARY"
+    ],
+    "use_context_vi": "Bằng chứng bối cảnh / phản biện về gánh nặng nhịp độ nội dung ở VR fitness.",
+    "what_it_proves_vi": "Số liệu doanh nghiệp công bố về hơn 1.000 bài tập cho thấy quy mô vận hành nội dung có thể lớn.",
+    "what_it_does_not_prove_vi": "Không chứng minh khả năng giữ chân, số người đăng ký hoặc hiệu quả kinh tế.",
+    "limitations_vi": "Số liệu quy mô nội dung do doanh nghiệp công bố.",
+    "status": "OK",
+    "visible_status_vi": "Đủ tham chiếu trong báo cáo hiện tại",
+    "technical_trace_ids": [],
+    "origin_website_sections": [
+      "WEB-08",
+      "WEB-15",
+      "WEB-18"
+    ],
+    "release_website_sections": [
+      "WEB-08",
+      "WEB-15",
+      "WEB-18"
+    ],
+    "direct_url_resolvable": true,
+    "url_status": "DIRECT_LINK_PRESENT"
+  },
+  {
+    "source_id": "S28",
+    "title": "Immersed investor traction disclosure",
+    "organization": "Immersed",
+    "publication_date": "2026",
+    "source_type_vi": "Công bố nhà đầu tư chính thức",
+    "evidence_class": "COMPANY CLAIM",
+    "visible_evidence_label_vi": "SỐ LIỆU DO DOANH NGHIỆP CÔNG BỐ",
+    "url": "https://invest.immersed.com/",
+    "report_sections": [
+      "Phần 11: B2C eliminated comparators",
+      "Phần 20.6",
+      "Phụ lục G",
+      "Phụ lục H"
+    ],
+    "supports_claims": [],
+    "supports_metrics": [
+      "Q::S28::IMMERSED_UNIQUE_USERS"
+    ],
+    "use_context_vi": "Tín hiệu quy mô của nhóm so sánh không gian làm việc ảo.",
+    "what_it_proves_vi": "Doanh nghiệp công bố khoảng 1,5 triệu người dùng phần mềm duy nhất.",
+    "what_it_does_not_prove_vi": "Không phải số người dùng trả phí đang hoạt động hoặc bằng chứng lợi nhuận.",
+    "limitations_vi": "Số liệu do tổ chức phát hành / doanh nghiệp công bố.",
+    "status": "OK",
+    "visible_status_vi": "Đủ tham chiếu trong báo cáo hiện tại",
+    "technical_trace_ids": [],
+    "origin_website_sections": [
+      "WEB-08",
+      "WEB-15",
+      "WEB-18"
+    ],
+    "release_website_sections": [
+      "WEB-08",
+      "WEB-15",
+      "WEB-18"
+    ],
+    "direct_url_resolvable": true,
+    "url_status": "DIRECT_LINK_PRESENT"
+  },
+  {
+    "source_id": "S29",
+    "title": "Houzz upgrades View in My Room 3D",
+    "organization": "Houzz",
+    "publication_date": "2017",
+    "source_type_vi": "Thông cáo doanh nghiệp",
+    "evidence_class": "COMPANY CLAIM",
+    "visible_evidence_label_vi": "SỐ LIỆU DO DOANH NGHIỆP CÔNG BỐ",
+    "url": "https://www.houzz.com/press/398/Houzz-App-Upgrades-3D-Augmented-Reality-Tool-with-ARKit-to-Help-You-Design-and-Shop",
+    "report_sections": [
+      "Phần 11: B2C eliminated comparators",
+      "Phần 20.6",
+      "Phụ lục G",
+      "Phụ lục H"
+    ],
+    "supports_claims": [],
+    "supports_metrics": [
+      "Q::S29::HOUZZ_AR_USERS"
+    ],
+    "use_context_vi": "Tín hiệu sử dụng / tương quan của nhóm so sánh thương mại 3D.",
+    "what_it_proves_vi": "Doanh nghiệp công bố hơn 1 triệu người dùng AR và có tín hiệu tương quan quan sát được.",
+    "what_it_does_not_prove_vi": "Không chứng minh quan hệ nhân quả với tăng chuyển đổi hoặc mức sẵn sàng trả tiền.",
+    "limitations_vi": "Tín hiệu quan sát / tương quan; không phải bằng chứng nhân quả.",
+    "status": "OK",
+    "visible_status_vi": "Đủ tham chiếu trong báo cáo hiện tại",
+    "technical_trace_ids": [],
+    "origin_website_sections": [
+      "WEB-08",
+      "WEB-15",
+      "WEB-18"
+    ],
+    "release_website_sections": [
+      "WEB-08",
+      "WEB-15",
+      "WEB-18"
+    ],
+    "direct_url_resolvable": true,
+    "url_status": "DIRECT_LINK_PRESENT"
+  },
+  {
+    "source_id": "S30",
+    "title": "Rec Room shutdown announcement",
+    "organization": "Rec Room",
+    "publication_date": "30/03/2026",
+    "source_type_vi": "Công bố chính thức",
+    "evidence_class": "COMPANY CLAIM",
+    "visible_evidence_label_vi": "SỐ LIỆU DO DOANH NGHIỆP CÔNG BỐ",
+    "url": "https://blog.recroom.com/posts/schools-out-for-rec-room",
+    "report_sections": [
+      "Phần 11: B2C eliminated comparators",
+      "Phần 20.6",
+      "Phụ lục G",
+      "Phụ lục H"
+    ],
+    "supports_claims": [
+      "CLM-WEB15-COUNTER-EVIDENCE-ACCESS"
+    ],
+    "supports_metrics": [
+      "Q::S30::REC_ROOM_LIFETIME_PLAYERS",
+      "Q::S30::REC_ROOM_MONTHLY_USERS"
+    ],
+    "use_context_vi": "Bằng chứng phản biện về quy mô người dùng so với tính bền vững của mô hình xã hội / UGC.",
+    "what_it_proves_vi": "Cho thấy quy mô người dùng rất lớn có thể cùng tồn tại với quyết định đóng dịch vụ vì kinh tế không bền vững.",
+    "what_it_does_not_prove_vi": "Không chứng minh mọi sản phẩm xã hội / UGC VR đều thất bại.",
+    "limitations_vi": "Công bố chính thức của doanh nghiệp; dùng để giới hạn diễn giải, không suy tỷ lệ thất bại.",
+    "status": "OK",
+    "visible_status_vi": "Đủ tham chiếu trong báo cáo hiện tại",
+    "technical_trace_ids": [],
+    "origin_website_sections": [
+      "WEB-08",
+      "WEB-15",
+      "WEB-18"
+    ],
+    "release_website_sections": [
+      "WEB-08",
+      "WEB-15",
+      "WEB-18"
+    ],
+    "direct_url_resolvable": true,
+    "url_status": "DIRECT_LINK_PRESENT"
+  },
+  {
+    "source_id": "S31",
+    "title": "P24-12_Master_Research_Database",
+    "organization": "SAVA Meta",
+    "publication_date": "20/08/2026",
+    "source_type_vi": "Cơ sở dữ liệu nghiên cứu nội bộ",
+    "evidence_class": "INTERNAL DOCUMENTED",
+    "visible_evidence_label_vi": "DỮ LIỆU NỘI BỘ ĐÃ GHI NHẬN",
+    "url": "https://docs.google.com/spreadsheets/d/1ZyOmO5I8JEr-TqfMtEo2q2QEGosa8OTXG3orakoJiFM/edit",
+    "report_sections": [
+      "Phần 1–3",
+      "Phụ lục G",
+      "Phụ lục H",
+      "Phụ lục I"
+    ],
+    "supports_claims": [
+      "CLM-WEB02-UNIVERSE-COUNT",
+      "CLM-WEB02-RANKABLE-UMBRELLA",
+      "CLM-WEB16-CITATION-SEMANTIC-CEILING",
+      "CLM-WEB18-SOURCE-HUB-COUNT"
+    ],
+    "supports_metrics": [
+      "Q::S31::OPPORTUNITY_UNIVERSE_TOTAL",
+      "Q::S31::RANKABLE_RECORDS",
+      "Q::S31::UMBRELLA_NONRANKABLE_RECORDS"
+    ],
+    "use_context_vi": "Nguồn nội bộ chuẩn để truy vết nguồn, bằng chứng, cơ hội và trạng thái chương trình.",
+    "what_it_proves_vi": "Cho thấy cấu trúc universe của chương trình và chuỗi truy vết nguồn / bằng chứng được ghi nhận nội bộ.",
+    "what_it_does_not_prove_vi": "Số bản ghi là số truy vết, không phải quy mô thị trường.",
+    "limitations_vi": "Không được dùng số bản ghi cơ sở dữ liệu như chỉ số quy mô thị trường.",
+    "status": "OK",
+    "visible_status_vi": "Đủ tham chiếu trong báo cáo hiện tại",
+    "technical_trace_ids": [
+      "P24-12_Master_Research_Database"
+    ],
+    "origin_website_sections": [
+      "WEB-01",
+      "WEB-02",
+      "WEB-03",
+      "WEB-04",
+      "WEB-05",
+      "WEB-16",
+      "WEB-17",
+      "WEB-18"
+    ],
+    "release_website_sections": [
+      "WEB-01",
+      "WEB-02",
+      "WEB-03",
+      "WEB-04",
+      "WEB-05",
+      "WEB-16",
+      "WEB-17",
+      "WEB-18"
+    ],
+    "direct_url_resolvable": true,
+    "url_status": "DIRECT_LINK_PRESENT"
+  },
+  {
+    "source_id": "S32",
+    "title": "P24-12_Decision_Funnel_Finalist_and_Commercial_Tracking_Master_2026-08-20_v1.0",
+    "organization": "SAVA Meta",
+    "publication_date": "20/08/2026",
+    "source_type_vi": "Bộ theo dõi quyết định nội bộ",
+    "evidence_class": "INTERNAL DOCUMENTED",
+    "visible_evidence_label_vi": "DỮ LIỆU NỘI BỘ ĐÃ GHI NHẬN",
+    "url": "https://docs.google.com/spreadsheets/d/1onX-TaBLHJepsncsuvbUrbITq1FqTIowpzIvphzyVg4/edit",
+    "report_sections": [
+      "Phần 2–5",
+      "Phần 11–18",
+      "Phụ lục G",
+      "Phụ lục H",
+      "Phụ lục I"
+    ],
+    "supports_claims": [
+      "CLM-WEB01-HEALTHCARE-PRIORITY",
+      "CLM-WEB01-MUSIC-PRIORITY",
+      "CLM-WEB03-B2B-FUNNEL",
+      "CLM-WEB04-B2C-FUNNEL",
+      "CLM-WEB05-MARKET-RANK-SAVA-OVERLAY",
+      "CLM-WEB06-B2B-RANK-01",
+      "CLM-WEB06-B2B-RANK-02",
+      "CLM-WEB06-B2B-RANK-03",
+      "CLM-WEB06-B2B-RANK-04",
+      "CLM-WEB06-B2B-RANK-05",
+      "CLM-WEB07-HEALTHCARE-SAVA",
+      "CLM-WEB07-VC-SAVA",
+      "CLM-WEB07-WAREHOUSE-SAVA",
+      "CLM-WEB07-BROADCAST-SAVA",
+      "CLM-WEB07-CONSTRUCTION-SAVA",
+      "CLM-WEB08-B2C-RANK-01",
+      "CLM-WEB08-B2C-RANK-02",
+      "CLM-WEB08-B2C-RANK-03",
+      "CLM-WEB08-B2C-RANK-04",
+      "CLM-WEB08-B2C-RANK-05",
+      "CLM-WEB09-SPORTS-SAVA",
+      "CLM-WEB12-MUSIC-SAVA",
+      "CLM-WEB13-PUZZLE-SAVA",
+      "CLM-WEB08-LANGUAGE-SAVA",
+      "CLM-WEB08-LBE-SAVA"
+    ],
+    "supports_metrics": [
+      "Q::S32::B2B_FUNNEL",
+      "Q::S32::B2C_FUNNEL"
+    ],
+    "use_context_vi": "Nguồn nội bộ chuẩn cho funnel và thứ hạng đã khóa.",
+    "what_it_proves_vi": "Cho thấy số lượng qua các bước B2B/B2C và thứ hạng finalist đã khóa là trạng thái chính thức của chương trình.",
+    "what_it_does_not_prove_vi": "Không phải bằng chứng thị trường bên ngoài.",
+    "limitations_vi": "Chỉ dùng cho trạng thái chương trình / thứ hạng đã khóa; không thay thế bằng chứng thị trường.",
+    "status": "OK",
+    "visible_status_vi": "Đủ tham chiếu trong báo cáo hiện tại",
+    "technical_trace_ids": [
+      "P24-12_Decision_Funnel_Finalist_and_Commercial_Tracking_Master"
+    ],
+    "origin_website_sections": [
+      "WEB-01",
+      "WEB-02",
+      "WEB-03",
+      "WEB-04",
+      "WEB-05",
+      "WEB-06",
+      "WEB-08",
+      "WEB-16",
+      "WEB-17",
+      "WEB-18"
+    ],
+    "release_website_sections": [
+      "WEB-01",
+      "WEB-02",
+      "WEB-03",
+      "WEB-04",
+      "WEB-05",
+      "WEB-06",
+      "WEB-08",
+      "WEB-16",
+      "WEB-17",
+      "WEB-18"
+    ],
+    "direct_url_resolvable": true,
+    "url_status": "DIRECT_LINK_PRESENT"
+  },
+  {
+    "source_id": "S33",
+    "title": "INDEPENDENT_QA_P24-12_COM-6_Final_Commercial_Research_and_Portfolio_Audit_2026-08-20_v1.0",
+    "organization": "SAVA Meta",
+    "publication_date": "20/08/2026",
+    "source_type_vi": "QA thương mại độc lập nội bộ",
+    "evidence_class": "INTERNAL DOCUMENTED",
+    "visible_evidence_label_vi": "DỮ LIỆU NỘI BỘ ĐÃ GHI NHẬN",
+    "url": "https://docs.google.com/document/d/11I21yg-5F2s7hqtMGW2sqYN6DfRnA9_B2UANRq3CbMM/edit",
+    "report_sections": [
+      "Phần 18–20",
+      "Phụ lục H",
+      "Phụ lục J",
+      "Phụ lục K"
+    ],
+    "supports_claims": [
+      "CLM-WEB01-NO-CASH-ENGINE",
+      "CLM-WEB10-HEALTHCARE-PARTNER-GATE",
+      "CLM-WEB12-MUSIC-PROTOTYPE-GATE",
+      "CLM-WEB14-MUSICWORLD-PAUSE",
+      "CLM-WEB15-COUNTER-EVIDENCE-ACCESS",
+      "CLM-WEB16-CITATION-SEMANTIC-CEILING",
+      "CLM-WEB17-LIMITED-EXECUTION",
+      "CLM-WEB18-SOURCE-HUB-COUNT"
+    ],
+    "supports_metrics": [],
+    "use_context_vi": "Nguồn kiểm soát QA nội bộ và trần kết luận thương mại.",
+    "what_it_proves_vi": "Cho thấy trạng thái QA thương mại và các trần diễn giải đã được ghi nhận.",
+    "what_it_does_not_prove_vi": "Không thay thế nguồn thị trường gốc.",
+    "limitations_vi": "Là nguồn quản trị / QA nội bộ, không phải bằng chứng thị trường.",
+    "status": "OK",
+    "visible_status_vi": "Đủ tham chiếu trong báo cáo hiện tại",
+    "technical_trace_ids": [
+      "COM-6 QA"
+    ],
+    "origin_website_sections": [
+      "WEB-01",
+      "WEB-05",
+      "WEB-07",
+      "WEB-14",
+      "WEB-16",
+      "WEB-17",
+      "WEB-18"
+    ],
+    "release_website_sections": [
+      "WEB-01",
+      "WEB-05",
+      "WEB-07",
+      "WEB-14",
+      "WEB-16",
+      "WEB-17",
+      "WEB-18"
+    ],
+    "direct_url_resolvable": true,
+    "url_status": "DIRECT_LINK_PRESENT"
+  },
+  {
+    "source_id": "S34",
+    "title": "STAGING_P24-12_COM-3_SAVA_Core_Capability_Commercial_Access_Right-to-Win_and_Gap_Audit_2026-08-20_v1.0",
+    "organization": "SAVA Meta",
+    "publication_date": "20/08/2026",
+    "source_type_vi": "Kiểm toán năng lực/tiếp cận nội bộ",
+    "evidence_class": "INTERNAL DOCUMENTED",
+    "visible_evidence_label_vi": "DỮ LIỆU NỘI BỘ ĐÃ GHI NHẬN",
+    "url": "https://docs.google.com/document/d/1oaxlbpOyl0Qtz13Rmr3S4dQyz7MticRxY7wQH3zN77Y/edit",
+    "report_sections": [
+      "Phần 18–20",
+      "Phụ lục G",
+      "Phụ lục H",
+      "Phụ lục J"
+    ],
+    "supports_claims": [
+      "CLM-WEB01-HEALTHCARE-PRIORITY",
+      "CLM-WEB01-MUSIC-PRIORITY",
+      "CLM-WEB05-MARKET-RANK-SAVA-OVERLAY",
+      "CLM-WEB07-HEALTHCARE-SAVA",
+      "CLM-WEB07-VC-SAVA",
+      "CLM-WEB07-WAREHOUSE-SAVA",
+      "CLM-WEB07-BROADCAST-SAVA",
+      "CLM-WEB07-CONSTRUCTION-SAVA",
+      "CLM-WEB09-SPORTS-SAVA",
+      "CLM-WEB12-MUSIC-SAVA",
+      "CLM-WEB13-PUZZLE-SAVA",
+      "CLM-WEB10-HEALTHCARE-PARTNER-GATE",
+      "CLM-WEB12-MUSIC-PROTOTYPE-GATE",
+      "CLM-WEB14-MUSICWORLD-PAUSE",
+      "CLM-WEB17-INTERNAL-COUNTS-SEPARATE",
+      "CLM-WEB17-LIMITED-EXECUTION"
+    ],
+    "supports_metrics": [
+      "Q::S34::SAVRSE_ROSTER_ROLES"
+    ],
+    "use_context_vi": "Lớp phủ về năng lực, quyền tiếp cận, khả năng thắng (Right-to-Win) và khoảng cách của SAVA.",
+    "what_it_proves_vi": "Cho thấy bằng chứng nội bộ hiện có về năng lực / khoảng cách và bối cảnh danh sách 27 vai trò được ghi nhận.",
+    "what_it_does_not_prove_vi": "Không thay đổi xếp hạng thị trường bên ngoài; danh sách vai trò không đồng nghĩa nhân sự quy đổi toàn thời gian có thể phân bổ.",
+    "limitations_vi": "Dữ liệu nội bộ chỉ cho biết trạng thái / bối cảnh năng lực; không chứng minh nhu cầu thị trường hay năng lực trống.",
+    "status": "OK",
+    "visible_status_vi": "Đủ tham chiếu trong báo cáo hiện tại",
+    "technical_trace_ids": [
+      "COM-3 RTW Audit"
+    ],
+    "origin_website_sections": [
+      "WEB-01",
+      "WEB-05",
+      "WEB-07",
+      "WEB-09",
+      "WEB-10",
+      "WEB-11",
+      "WEB-12",
+      "WEB-13",
+      "WEB-14",
+      "WEB-17",
+      "WEB-18"
+    ],
+    "release_website_sections": [
+      "WEB-01",
+      "WEB-05",
+      "WEB-07",
+      "WEB-09",
+      "WEB-10",
+      "WEB-11",
+      "WEB-12",
+      "WEB-13",
+      "WEB-14",
+      "WEB-17",
+      "WEB-18"
+    ],
+    "direct_url_resolvable": true,
+    "url_status": "DIRECT_LINK_PRESENT"
+  },
+  {
+    "source_id": "S35",
+    "title": "Hồ sơ năng lực SAVA Meta 2026",
+    "organization": "SAVA Meta",
+    "publication_date": "2026",
+    "source_type_vi": "Hồ sơ năng lực nội bộ",
+    "evidence_class": "INTERNAL DOCUMENTED",
+    "visible_evidence_label_vi": "DỮ LIỆU NỘI BỘ ĐÃ GHI NHẬN",
+    "url": "MISSING",
+    "report_sections": [
+      "Phần 20.8",
+      "Phụ lục G",
+      "Phụ lục H"
+    ],
+    "supports_claims": [
+      "CLM-WEB17-INTERNAL-COUNTS-SEPARATE"
+    ],
+    "supports_metrics": [
+      "Q::S35::SAVA_COMPANY_STAFF"
+    ],
+    "use_context_vi": "Bối cảnh quy mô và năng lực ở cấp toàn công ty.",
+    "what_it_proves_vi": "Hồ sơ công ty báo cáo quy mô nhân sự toàn công ty trên 80 người.",
+    "what_it_does_not_prove_vi": "Không chứng minh quy mô nhân sự Savrse có thể phân bổ, công suất trống, mức làm chủ chuyên môn hoặc khả năng thắng.",
+    "limitations_vi": "Báo cáo hiện tại ghi rõ corpus dùng cho WEB-V1D không cung cấp URL Drive có thể xác minh cho nguồn này.",
+    "status": "MISSING_URL_INTERNAL_REFERENCE",
+    "visible_status_vi": "THIẾU URL — GIỮ THAM CHIẾU NỘI BỘ",
+    "technical_trace_ids": [
+      "SAVA Profile 2026"
+    ],
+    "origin_website_sections": [
+      "WEB-01",
+      "WEB-17",
+      "WEB-18"
+    ],
+    "release_website_sections": [
+      "WEB-01",
+      "WEB-17",
+      "WEB-18"
+    ],
+    "direct_url_resolvable": false,
+    "url_status": "INTERNAL_REFERENCE_MISSING_URL",
+    "identity_resolution_vi": "Không gắn tự động S35 với file Profile Deck trên Drive vì tên tệp hiện có không đủ chứng minh đó chính là nguồn S35 đã ghi trong RPT-4R2.",
+    "verified_visible_wording_vi": "35 hồ sơ nguồn chuẩn; 34 nguồn có liên kết trực tiếp; 1 tham chiếu nội bộ chưa có URL được xác minh."
+  }
+]

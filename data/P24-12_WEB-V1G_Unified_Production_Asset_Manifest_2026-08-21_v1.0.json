@@ -1,0 +1,1824 @@
+{
+  "metadata": {
+    "phase_id": "P24-12-WEB-V1G",
+    "version": "v1.0",
+    "date": "2026-08-21",
+    "status": "COMPLETE",
+    "release_role": "WEB-V2 production asset authority",
+    "working_folder_id": "1qzIHRHUyVIlIi6xEAIegU5rgV6QBh510",
+    "assets_parent_id": "1UcRKeAjpnTsq3lLRMCRSPUqEriXQfY82",
+    "web_optimized_folder_id": "1WqtjiZbN1oWkor9ypgfyYQcs-kbB-E4C",
+    "reference_folder_id": "15AutF7gU_HyHQEBjqK5yVim1FO3mryYm",
+    "official_logo_rule_vi": "Chỉ dùng asset AST-SAVA-LOGO-WEB / Drive ID 1UR5a_dVTxS8khrHRWi9g9hrgM-dRrcLy; không vẽ lại, đổi màu, bóp méo hoặc thay thế."
+  },
+  "production_assets": [
+    {
+      "asset_id": "AST-SVG-01-VI-V02",
+      "slot_id": null,
+      "section_ids": [
+        "WEB-02"
+      ],
+      "filename": "P24-12_WEB_SVG-01_Universe_Structure_vi_v02.svg",
+      "asset_type": "SEMANTIC_SVG",
+      "source_type": "FAITHFUL_VI_DERIVATIVE_OF_CANONICAL_V1B_SVG",
+      "language": "vi",
+      "production_status": "PRODUCTION_APPROVED",
+      "drive_id": "1Hy78C0DV05OUvWf_HVp2ImDXLtXab5n0",
+      "drive_url": "https://drive.google.com/file/d/1Hy78C0DV05OUvWf_HVp2ImDXLtXab5n0/view?usp=drivesdk",
+      "reference_drive_id": null,
+      "reference_drive_url": null,
+      "rights_class": "INTERNAL_SOURCE_DERIVED",
+      "attribution_required": false,
+      "caption_vi": "Đồ họa ngữ nghĩa phục vụ diễn giải; không phải bằng chứng độc lập.",
+      "alt_text_vi": "Cấu trúc 112 bản ghi cơ hội gồm 96 mục có thể xếp hạng và 16 nhóm bao quát hoặc không xếp hạng riêng; chỉ mô tả cấu trúc nghiên cứu, không phải quy mô thị trường.",
+      "display_role": "PRIMARY_EXPLANATORY_SVG",
+      "illustration_label_required": false,
+      "requires_explanatory_svg": false,
+      "semantic_risk": "Phải giữ 112 = 96 + 16; số đếm lane thực thi là tách biệt, không được suy ra 65+32=112.",
+      "supersedes": [
+        "1EDz249a8LqJ1_M2DSJwYpghiehrPAUok"
+      ],
+      "notes": "Production asset cho WEB-V2. Không thay đổi master ngữ nghĩa; connector width/area không mã hóa độ lớn khi nguồn không định nghĩa."
+    },
+    {
+      "asset_id": "AST-SVG-02-VI-V03",
+      "slot_id": null,
+      "section_ids": [
+        "WEB-04"
+      ],
+      "filename": "P24-12_WEB_SVG-02_Dual_Research_Funnel_vi_v03.svg",
+      "asset_type": "SEMANTIC_SVG",
+      "source_type": "FAITHFUL_VI_DERIVATIVE_OF_CANONICAL_V1B_SVG",
+      "language": "vi",
+      "production_status": "PRODUCTION_APPROVED",
+      "drive_id": "18qYx8H5PQd_Xd-Med0_5WmEJ28Sor5hx",
+      "drive_url": "https://drive.google.com/file/d/18qYx8H5PQd_Xd-Med0_5WmEJ28Sor5hx/view?usp=drivesdk",
+      "reference_drive_id": null,
+      "reference_drive_url": null,
+      "rights_class": "INTERNAL_SOURCE_DERIVED",
+      "attribution_required": false,
+      "caption_vi": "Đồ họa ngữ nghĩa phục vụ diễn giải; không phải bằng chứng độc lập.",
+      "alt_text_vi": "Hai luồng sàng lọc nghiên cứu: B2B/B2G 65 xuống 12, 5 và 3; B2C 32 xuống 11, 5 và 3. Đây không phải tỷ lệ chuyển đổi thị trường.",
+      "display_role": "PRIMARY_EXPLANATORY_SVG",
+      "illustration_label_required": false,
+      "requires_explanatory_svg": false,
+      "semantic_risk": "Chỉ là sàng lọc nghiên cứu; không được hiển thị như tỷ lệ chuyển đổi thị trường.",
+      "supersedes": [
+        "1tMT3uNjUsufoU-8ZJE56x9jFxipJq44n"
+      ],
+      "notes": "V1G derivative: bước cuối đổi nhãn thành “Phân tích sâu nhất”; toàn bộ số 65→12→5→3 và 32→11→5→3 giữ nguyên."
+    },
+    {
+      "asset_id": "AST-SVG-03-VI-V02",
+      "slot_id": null,
+      "section_ids": [
+        "WEB-03"
+      ],
+      "filename": "P24-12_WEB_SVG-03_B2B_vs_B2C_Money_Logic_vi_v02.svg",
+      "asset_type": "SEMANTIC_SVG",
+      "source_type": "FAITHFUL_VI_DERIVATIVE_OF_CANONICAL_V1B_SVG",
+      "language": "vi",
+      "production_status": "PRODUCTION_APPROVED",
+      "drive_id": "10UrrIfSyeQbKvHo5kqe4sxOaaLpd_SBQ",
+      "drive_url": "https://drive.google.com/file/d/10UrrIfSyeQbKvHo5kqe4sxOaaLpd_SBQ/view?usp=drivesdk",
+      "reference_drive_id": null,
+      "reference_drive_url": null,
+      "rights_class": "INTERNAL_SOURCE_DERIVED",
+      "attribution_required": false,
+      "caption_vi": "Đồ họa ngữ nghĩa phục vụ diễn giải; không phải bằng chứng độc lập.",
+      "alt_text_vi": "So sánh hai logic chi tiền: B2B/B2G tách người dùng, người mua kinh tế và mua sắm hợp đồng; B2C tập trung vào hành động, chơi lại, giá và phân phối.",
+      "display_role": "PRIMARY_EXPLANATORY_SVG",
+      "illustration_label_required": false,
+      "requires_explanatory_svg": false,
+      "semantic_risk": "Logic thương mại khái niệm; không suy ra doanh thu, xác suất mua hay chuyển đổi.",
+      "supersedes": [
+        "1ztYHXqHn8sy5tOfDtubjbDW8BAg_Rhav"
+      ],
+      "notes": "Production asset cho WEB-V2. Không thay đổi master ngữ nghĩa; connector width/area không mã hóa độ lớn khi nguồn không định nghĩa."
+    },
+    {
+      "asset_id": "AST-SVG-04-VI-V02",
+      "slot_id": null,
+      "section_ids": [
+        "WEB-06"
+      ],
+      "filename": "P24-12_WEB_SVG-04_Healthcare_Workflow_vi_v02.svg",
+      "asset_type": "SEMANTIC_SVG",
+      "source_type": "FAITHFUL_VI_DERIVATIVE_OF_CANONICAL_V1B_SVG",
+      "language": "vi",
+      "production_status": "PRODUCTION_APPROVED",
+      "drive_id": "1oHaaONvTLpKfoZb2SWKAvoXS0ewC0hQM",
+      "drive_url": "https://drive.google.com/file/d/1oHaaONvTLpKfoZb2SWKAvoXS0ewC0hQM/view?usp=drivesdk",
+      "reference_drive_id": null,
+      "reference_drive_url": null,
+      "rights_class": "INTERNAL_SOURCE_DERIVED",
+      "attribution_required": false,
+      "caption_vi": "Đồ họa ngữ nghĩa phục vụ diễn giải; không phải bằng chứng độc lập.",
+      "alt_text_vi": "Quy trình minh họa Healthcare từ kỹ năng có cấu trúc, thực hành, ghi nhận, đánh giá đến lặp lại; bên mua là tổ chức đào tạo hoặc mô phỏng. Không phải sản phẩm SAVA đã triển khai.",
+      "display_role": "PRIMARY_EXPLANATORY_SVG",
+      "illustration_label_required": false,
+      "requires_explanatory_svg": false,
+      "semantic_risk": "Không hàm ý khách hàng y tế hiện tại, thẩm quyền lâm sàng, giải pháp đã triển khai hoặc sản phẩm được phê duyệt.",
+      "supersedes": [
+        "1N_rUfg6prnz8H-9MR1Aij04_HS668o9D"
+      ],
+      "notes": "Production asset cho WEB-V2. Không thay đổi master ngữ nghĩa; connector width/area không mã hóa độ lớn khi nguồn không định nghĩa."
+    },
+    {
+      "asset_id": "AST-SVG-05-VI-V02",
+      "slot_id": null,
+      "section_ids": [
+        "WEB-06"
+      ],
+      "filename": "P24-12_WEB_SVG-05_Virtual_Commissioning_Control_Loop_vi_v02.svg",
+      "asset_type": "SEMANTIC_SVG",
+      "source_type": "FAITHFUL_VI_DERIVATIVE_OF_CANONICAL_V1B_SVG",
+      "language": "vi",
+      "production_status": "PRODUCTION_APPROVED",
+      "drive_id": "1ko7LmVhM7vNeFcSyFUdwgGIRsRq7VJrq",
+      "drive_url": "https://drive.google.com/file/d/1ko7LmVhM7vNeFcSyFUdwgGIRsRq7VJrq/view?usp=drivesdk",
+      "reference_drive_id": null,
+      "reference_drive_url": null,
+      "rights_class": "INTERNAL_SOURCE_DERIVED",
+      "attribution_required": false,
+      "caption_vi": "Đồ họa ngữ nghĩa phục vụ diễn giải; không phải bằng chứng độc lập.",
+      "alt_text_vi": "Vòng Virtual Commissioning từ mô hình máy hoặc dây chuyền, kết nối logic, kiểm thử, phát hiện lỗi đến lặp vòng hiệu chỉnh; chưa giả định SAVA có năng lực PLC/OT.",
+      "display_role": "PRIMARY_EXPLANATORY_SVG",
+      "illustration_label_required": false,
+      "requires_explanatory_svg": false,
+      "semantic_risk": "Không giả định SAVA có năng lực PLC/OT hoặc stack điều khiển.",
+      "supersedes": [
+        "18AyP6csSuhPLLVz_gBqsmK1H94OEwIBb"
+      ],
+      "notes": "Production asset cho WEB-V2. Không thay đổi master ngữ nghĩa; connector width/area không mã hóa độ lớn khi nguồn không định nghĩa."
+    },
+    {
+      "asset_id": "AST-SVG-06-VI-V02",
+      "slot_id": null,
+      "section_ids": [
+        "WEB-06"
+      ],
+      "filename": "P24-12_WEB_SVG-06_Warehouse_Scenario_Flow_vi_v02.svg",
+      "asset_type": "SEMANTIC_SVG",
+      "source_type": "FAITHFUL_VI_DERIVATIVE_OF_CANONICAL_V1B_SVG",
+      "language": "vi",
+      "production_status": "PRODUCTION_APPROVED",
+      "drive_id": "1l4QZGXmMF8NQSk2-X-f7olJylSBB8Kdw",
+      "drive_url": "https://drive.google.com/file/d/1l4QZGXmMF8NQSk2-X-f7olJylSBB8Kdw/view?usp=drivesdk",
+      "reference_drive_id": null,
+      "reference_drive_url": null,
+      "rights_class": "INTERNAL_SOURCE_DERIVED",
+      "attribution_required": false,
+      "caption_vi": "Đồ họa ngữ nghĩa phục vụ diễn giải; không phải bằng chứng độc lập.",
+      "alt_text_vi": "Luồng hỗ trợ quyết định Warehouse từ bài toán vật lý và dữ liệu đại diện qua mô hình bố trí, chạy kịch bản, so sánh điểm nghẽn đến ra quyết định; không tuyên bố có live twin.",
+      "display_role": "PRIMARY_EXPLANATORY_SVG",
+      "illustration_label_required": false,
+      "requires_explanatory_svg": false,
+      "semantic_risk": "Không hàm ý live operational twin; chỉ là luồng hỗ trợ quyết định.",
+      "supersedes": [
+        "1NbjTTGlt0vW6g8eKwmfC0EaYAl_h4NGu"
+      ],
+      "notes": "Production asset cho WEB-V2. Không thay đổi master ngữ nghĩa; connector width/area không mã hóa độ lớn khi nguồn không định nghĩa."
+    },
+    {
+      "asset_id": "AST-SVG-07-VI-V02",
+      "slot_id": null,
+      "section_ids": [
+        "WEB-08"
+      ],
+      "filename": "P24-12_WEB_SVG-07_Sports_Mastery_Loop_vi_v02.svg",
+      "asset_type": "SEMANTIC_SVG",
+      "source_type": "FAITHFUL_VI_DERIVATIVE_OF_CANONICAL_V1B_SVG",
+      "language": "vi",
+      "production_status": "PRODUCTION_APPROVED",
+      "drive_id": "1LWeqObaoqyFRi7qL-Ft7dfl5Xubc67Mk",
+      "drive_url": "https://drive.google.com/file/d/1LWeqObaoqyFRi7qL-Ft7dfl5Xubc67Mk/view?usp=drivesdk",
+      "reference_drive_id": null,
+      "reference_drive_url": null,
+      "rights_class": "INTERNAL_SOURCE_DERIVED",
+      "attribution_required": false,
+      "caption_vi": "Đồ họa ngữ nghĩa phục vụ diễn giải; không phải bằng chứng độc lập.",
+      "alt_text_vi": "Vòng thành thạo Sports từ hành động cơ thể, phản hồi tức thời, điều chỉnh kỹ thuật, cải thiện kỹ năng hoặc điểm đến chơi lại; chưa chọn môn thể thao cụ thể.",
+      "display_role": "PRIMARY_EXPLANATORY_SVG",
+      "illustration_label_required": false,
+      "requires_explanatory_svg": false,
+      "semantic_risk": "Không suy ra môn thể thao đã chọn, sản phẩm đã phê duyệt hay điểm hấp dẫn.",
+      "supersedes": [
+        "1456ivEtY2kecLl-cThJKYY97ibSUuHRo"
+      ],
+      "notes": "Production asset cho WEB-V2. Không thay đổi master ngữ nghĩa; connector width/area không mã hóa độ lớn khi nguồn không định nghĩa."
+    },
+    {
+      "asset_id": "AST-SVG-08-VI-V02",
+      "slot_id": null,
+      "section_ids": [
+        "WEB-08"
+      ],
+      "filename": "P24-12_WEB_SVG-08_Music_Embodied_Action_Replay_Loop_vi_v02.svg",
+      "asset_type": "SEMANTIC_SVG",
+      "source_type": "FAITHFUL_VI_DERIVATIVE_OF_CANONICAL_V1B_SVG",
+      "language": "vi",
+      "production_status": "PRODUCTION_APPROVED",
+      "drive_id": "1tnDD0YsOQTDxX8ynFb8CgxfEOaXdhyqp",
+      "drive_url": "https://drive.google.com/file/d/1tnDD0YsOQTDxX8ynFb8CgxfEOaXdhyqp/view?usp=drivesdk",
+      "reference_drive_id": null,
+      "reference_drive_url": null,
+      "rights_class": "INTERNAL_SOURCE_DERIVED",
+      "attribution_required": false,
+      "caption_vi": "Đồ họa ngữ nghĩa phục vụ diễn giải; không phải bằng chứng độc lập.",
+      "alt_text_vi": "Vòng Music từ đọc nhịp hoặc tín hiệu không gian, hành động cơ thể, nhận phản hồi điểm hoặc độ chính xác đến chơi lại để thành thạo; nội dung và bản quyền vẫn cần kiểm chứng.",
+      "display_role": "PRIMARY_EXPLANATORY_SVG",
+      "illustration_label_required": false,
+      "requires_explanatory_svg": false,
+      "semantic_risk": "Không hàm ý game hoàn chỉnh, Music World 2, catalogue đã cấp phép hoặc scale build đã phê duyệt.",
+      "supersedes": [
+        "1Q9W0Ke6tJ8JVztUImN_S0TkWYZaJXY3b"
+      ],
+      "notes": "Production asset cho WEB-V2. Không thay đổi master ngữ nghĩa; connector width/area không mã hóa độ lớn khi nguồn không định nghĩa."
+    },
+    {
+      "asset_id": "AST-SVG-09-VI-V02",
+      "slot_id": null,
+      "section_ids": [
+        "WEB-08"
+      ],
+      "filename": "P24-12_WEB_SVG-09_Puzzle_Systemic_Optimization_Loop_vi_v02.svg",
+      "asset_type": "SEMANTIC_SVG",
+      "source_type": "FAITHFUL_VI_DERIVATIVE_OF_CANONICAL_V1B_SVG",
+      "language": "vi",
+      "production_status": "PRODUCTION_APPROVED",
+      "drive_id": "1q_EjbneS-4m2S8AjB_vPLcmSdSNGwteH",
+      "drive_url": "https://drive.google.com/file/d/1q_EjbneS-4m2S8AjB_vPLcmSdSNGwteH/view?usp=drivesdk",
+      "reference_drive_id": null,
+      "reference_drive_url": null,
+      "rights_class": "INTERNAL_SOURCE_DERIVED",
+      "attribution_required": false,
+      "caption_vi": "Đồ họa ngữ nghĩa phục vụ diễn giải; không phải bằng chứng độc lập.",
+      "alt_text_vi": "Vòng Puzzle hệ thống từ thao tác hoặc định tuyến, quan sát kết quả, thay đổi ràng buộc, thử cách tiếp cận khác đến tối ưu hoặc chơi lại; WHY-VR vẫn cần kiểm chứng.",
+      "display_role": "PRIMARY_EXPLANATORY_SVG",
+      "illustration_label_required": false,
+      "requires_explanatory_svg": false,
+      "semantic_risk": "WHY-VR chưa được chứng minh; không suy ra score/attractiveness.",
+      "supersedes": [
+        "1E1dw8LNvwJDgKSMghozXdzpvwdHL4IW_"
+      ],
+      "notes": "Production asset cho WEB-V2. Không thay đổi master ngữ nghĩa; connector width/area không mã hóa độ lớn khi nguồn không định nghĩa."
+    },
+    {
+      "asset_id": "AST-SVG-10-VI-V02",
+      "slot_id": null,
+      "section_ids": [
+        "WEB-09"
+      ],
+      "filename": "P24-12_WEB_SVG-10_Market_Rank_vs_SAVA_Action_Crosswalk_vi_v02.svg",
+      "asset_type": "SEMANTIC_SVG",
+      "source_type": "FAITHFUL_VI_DERIVATIVE_OF_CANONICAL_V1B_SVG",
+      "language": "vi",
+      "production_status": "PRODUCTION_APPROVED",
+      "drive_id": "1vSw1PH1oXOGf_HHYo1Q3IoRb_ZjrgkID",
+      "drive_url": "https://drive.google.com/file/d/1vSw1PH1oXOGf_HHYo1Q3IoRb_ZjrgkID/view?usp=drivesdk",
+      "reference_drive_id": null,
+      "reference_drive_url": null,
+      "rights_class": "INTERNAL_SOURCE_DERIVED",
+      "attribution_required": false,
+      "caption_vi": "Đồ họa ngữ nghĩa phục vụ diễn giải; không phải bằng chứng độc lập.",
+      "alt_text_vi": "Đối chiếu ba vị trí đầu của B2B/B2G và B2C giữa xếp hạng thị trường bên ngoài với hành động SAVA; các đường nối không biểu thị độ lớn hay xác suất.",
+      "display_role": "PRIMARY_EXPLANATORY_SVG",
+      "illustration_label_required": false,
+      "requires_explanatory_svg": false,
+      "semantic_risk": "Xếp hạng thị trường bên ngoài là ordinal và tách khỏi hành động SAVA; connector không mã hóa độ mạnh.",
+      "supersedes": [
+        "1qhiNm9FnbMYmnyGLWUFjDgGJPKe4TGDE"
+      ],
+      "notes": "Production asset cho WEB-V2. Không thay đổi master ngữ nghĩa; connector width/area không mã hóa độ lớn khi nguồn không định nghĩa."
+    },
+    {
+      "asset_id": "AST-SVG-11-VI-V02",
+      "slot_id": null,
+      "section_ids": [
+        "WEB-11"
+      ],
+      "filename": "P24-12_WEB_SVG-11_Healthcare_Validation_Path_vi_v02.svg",
+      "asset_type": "SEMANTIC_SVG",
+      "source_type": "FAITHFUL_VI_DERIVATIVE_OF_CANONICAL_V1B_SVG",
+      "language": "vi",
+      "production_status": "PRODUCTION_APPROVED",
+      "drive_id": "1fKsjLzVf-t0fcvtUdU8wewemiOmN7T2E",
+      "drive_url": "https://drive.google.com/file/d/1fKsjLzVf-t0fcvtUdU8wewemiOmN7T2E/view?usp=drivesdk",
+      "reference_drive_id": null,
+      "reference_drive_url": null,
+      "rights_class": "INTERNAL_SOURCE_DERIVED",
+      "attribution_required": false,
+      "caption_vi": "Đồ họa ngữ nghĩa phục vụ diễn giải; không phải bằng chứng độc lập.",
+      "alt_text_vi": "Lộ trình sáu cổng Healthcare: đối tác chuyên môn hoặc lâm sàng, bên mua, cam kết thương mại, mua sắm và CNTT/bảo mật/LMS, lõi tái sử dụng, và kinh tế sau bằng chứng trả phí.",
+      "display_role": "PRIMARY_EXPLANATORY_SVG",
+      "illustration_label_required": false,
+      "requires_explanatory_svg": false,
+      "semantic_risk": "Cả 6 cổng mặc định chưa được kiểm chứng; không có % readiness.",
+      "supersedes": [
+        "1_uTcQ5Bl2ZPmLKEFf9L9XaZzwCW03C5K"
+      ],
+      "notes": "Production asset cho WEB-V2. Không thay đổi master ngữ nghĩa; connector width/area không mã hóa độ lớn khi nguồn không định nghĩa."
+    },
+    {
+      "asset_id": "AST-SVG-12-VI-V02",
+      "slot_id": null,
+      "section_ids": [
+        "WEB-12"
+      ],
+      "filename": "P24-12_WEB_SVG-12_Music_Prototype_Validation_Path_vi_v02.svg",
+      "asset_type": "SEMANTIC_SVG",
+      "source_type": "FAITHFUL_VI_DERIVATIVE_OF_CANONICAL_V1B_SVG",
+      "language": "vi",
+      "production_status": "PRODUCTION_APPROVED",
+      "drive_id": "1MX9Tff-5G-E8m7yPby99pMlz8-BTCRk3",
+      "drive_url": "https://drive.google.com/file/d/1MX9Tff-5G-E8m7yPby99pMlz8-BTCRk3/view?usp=drivesdk",
+      "reference_drive_id": null,
+      "reference_drive_url": null,
+      "rights_class": "INTERNAL_SOURCE_DERIVED",
+      "attribution_required": false,
+      "caption_vi": "Đồ họa ngữ nghĩa phục vụ diễn giải; không phải bằng chứng độc lập.",
+      "alt_text_vi": "Tám kiểm tra prototype Music: hiểu cách chơi, hành động vui và ổn định, giá trị VR, chơi lại, gánh nặng nội dung, tín hiệu sẵn sàng chi trả, phân phối và kinh tế bản quyền.",
+      "display_role": "PRIMARY_EXPLANATORY_SVG",
+      "illustration_label_required": false,
+      "requires_explanatory_svg": false,
+      "semantic_risk": "Chỉ là vòng học hỏi mẫu thử; không hàm ý phê duyệt full-title, catalogue được cấp phép hoặc economics đã xác nhận.",
+      "supersedes": [
+        "1YZBhlCoqttOq84bL9s7bl6jFjsdsn2-W"
+      ],
+      "notes": "Production asset cho WEB-V2. Không thay đổi master ngữ nghĩa; connector width/area không mã hóa độ lớn khi nguồn không định nghĩa."
+    },
+    {
+      "asset_id": "AST-SVG-13-VI-V02",
+      "slot_id": null,
+      "section_ids": [
+        "WEB-13"
+      ],
+      "filename": "P24-12_WEB_SVG-13_Portfolio_Role_Map_vi_v02.svg",
+      "asset_type": "SEMANTIC_SVG",
+      "source_type": "FAITHFUL_VI_DERIVATIVE_OF_CANONICAL_V1B_SVG",
+      "language": "vi",
+      "production_status": "PRODUCTION_APPROVED",
+      "drive_id": "1_euLV08BSsQkrOh4Nh4RuF9eiNHIR6kB",
+      "drive_url": "https://drive.google.com/file/d/1_euLV08BSsQkrOh4Nh4RuF9eiNHIR6kB/view?usp=drivesdk",
+      "reference_drive_id": null,
+      "reference_drive_url": null,
+      "rights_class": "INTERNAL_SOURCE_DERIVED",
+      "attribution_required": false,
+      "caption_vi": "Đồ họa ngữ nghĩa phục vụ diễn giải; không phải bằng chứng độc lập.",
+      "alt_text_vi": "Bản đồ danh mục theo bốn nhóm: kiểm chứng trước; có điều kiện hoặc đối chứng; giữ lựa chọn hoặc theo dõi; và tạm dừng hoặc tách riêng. Vị trí không biểu thị mức đầu tư hay xác suất.",
+      "display_role": "PRIMARY_EXPLANATORY_SVG",
+      "illustration_label_required": false,
+      "requires_explanatory_svg": false,
+      "semantic_risk": "Vai trò danh mục là phân loại, không phải mức đầu tư, xác suất hay readiness.",
+      "supersedes": [
+        "1pv_ckWmM64JmQNSVtpj3_rd7OXvkNtHP"
+      ],
+      "notes": "Production asset cho WEB-V2. Không thay đổi master ngữ nghĩa; connector width/area không mã hóa độ lớn khi nguồn không định nghĩa."
+    },
+    {
+      "asset_id": "AST-SVG-14-VI-V03",
+      "slot_id": null,
+      "section_ids": [
+        "WEB-14"
+      ],
+      "filename": "P24-12_WEB_SVG-14_Music_vs_Music_World_vi_v03.svg",
+      "asset_type": "SEMANTIC_SVG",
+      "source_type": "FAITHFUL_VI_DERIVATIVE_OF_CANONICAL_V1B_SVG",
+      "language": "vi",
+      "production_status": "PRODUCTION_APPROVED",
+      "drive_id": "1V0JXhSq2IvUNf3Ad2KtUfJ3cFc1bwuhr",
+      "drive_url": "https://drive.google.com/file/d/1V0JXhSq2IvUNf3Ad2KtUfJ3cFc1bwuhr/view?usp=drivesdk",
+      "reference_drive_id": null,
+      "reference_drive_url": null,
+      "rights_class": "INTERNAL_SOURCE_DERIVED",
+      "attribution_required": false,
+      "caption_vi": "Đồ họa ngữ nghĩa phục vụ diễn giải; không phải bằng chứng độc lập.",
+      "alt_text_vi": "Luận điểm Music rhythm/action mới tách biệt Music World hiện tại. Music World tạm dừng; tái sử dụng chỉ có điều kiện sau kiểm toán kỹ thuật, sở hữu trí tuệ, giấy phép và nghĩa vụ.",
+      "display_role": "PRIMARY_EXPLANATORY_SVG",
+      "illustration_label_required": false,
+      "requires_explanatory_svg": false,
+      "semantic_risk": "Music World hiện tại phải tách tuyệt đối khỏi luận điểm Music rhythm/action mới; tái sử dụng chỉ có điều kiện sau kiểm toán kỹ thuật, sở hữu trí tuệ, giấy phép và nghĩa vụ.",
+      "supersedes": [
+        "13nT3_AzinPuFvdlQozmRn-tcQRR2vxQc"
+      ],
+      "notes": "V1G derivative: loại bỏ wording CEO-facing English-heavy; tách Music mới ≠ Music World hiện tại không đổi."
+    },
+    {
+      "asset_id": "AST-WEB11-HC-EXT-01",
+      "slot_id": "EXT-WEB11-HEALTHCARE",
+      "section_ids": [
+        "WEB-11"
+      ],
+      "filename": "P24-12_WEB_EXT_WEB11_Healthcare_Illustration_01_web.webp",
+      "asset_type": "CONTEXTUAL_ILLUSTRATION",
+      "source_type": "V1F_RIGHTS_CLEARED_EXTERNAL",
+      "language": "not-applicable",
+      "production_status": "PRODUCTION_APPROVED",
+      "drive_id": "1ehH_JypDFooXXeWQH62hA6zamA6gseSz",
+      "drive_url": "https://drive.google.com/file/d/1ehH_JypDFooXXeWQH62hA6zamA6gseSz/view?usp=drivesdk",
+      "reference_drive_id": "1en1gS8NomRXbzf6kWnUR0Odgzp1F9-FC",
+      "reference_drive_url": "https://drive.google.com/file/d/1en1gS8NomRXbzf6kWnUR0Odgzp1F9-FC/view?usp=drivesdk",
+      "rights_class": "PUBLISHABLE-CLEAR",
+      "attribution_required": false,
+      "caption_vi": "Hình minh họa môi trường đào tạo kỹ năng y khoa bằng công nghệ nhập vai.",
+      "alt_text_vi": "Minh họa nhân viên y tế đeo kính thực tế ảo trong môi trường đào tạo mô phỏng; chỉ mang tính minh họa, không phải sản phẩm hay triển khai thực tế của SAVA.",
+      "display_role": "SECONDARY_CONTEXT",
+      "illustration_label_required": true,
+      "requires_explanatory_svg": false,
+      "semantic_risk": "Chỉ minh họa bối cảnh đào tạo y khoa/VR; không hàm ý khách hàng, triển khai, thẩm quyền lâm sàng hoặc mức sẵn sàng của SAVA.",
+      "supersedes": [],
+      "notes": "Không hotlink; dùng bản web-optimized trên Drive. Nhãn hiển thị bắt buộc: “Hình minh họa”."
+    },
+    {
+      "asset_id": "AST-WEB06-VC-EXT-01",
+      "slot_id": "EXT-WEB06-VIRTUAL-COMMISSIONING",
+      "section_ids": [
+        "WEB-06"
+      ],
+      "filename": "P24-12_WEB_EXT_WEB06_Virtual_Commissioning_Illustration_01_web.webp",
+      "asset_type": "CONTEXTUAL_ILLUSTRATION",
+      "source_type": "V1F_RIGHTS_CLEARED_EXTERNAL",
+      "language": "not-applicable",
+      "production_status": "PRODUCTION_APPROVED",
+      "drive_id": "1H13ebD2ieA3w6arvv1pMHJGdBNl4yF3x",
+      "drive_url": "https://drive.google.com/file/d/1H13ebD2ieA3w6arvv1pMHJGdBNl4yF3x/view?usp=drivesdk",
+      "reference_drive_id": "14lZbMzrNw74Zbd9TI9eIy9wZAkDk8BDh",
+      "reference_drive_url": "https://drive.google.com/file/d/14lZbMzrNw74Zbd9TI9eIy9wZAkDk8BDh/view?usp=drivesdk",
+      "rights_class": "PUBLISHABLE-CLEAR",
+      "attribution_required": false,
+      "caption_vi": "Hình minh họa bối cảnh tự động hóa công nghiệp và điều khiển hệ thống trong môi trường nhà máy mô phỏng.",
+      "alt_text_vi": "Minh họa robot công nghiệp và thiết bị điều khiển trong nhà máy; chỉ mang tính minh họa, không ngụ ý SAVA có triển khai PLC/OT.",
+      "display_role": "SECONDARY_CONTEXT",
+      "illustration_label_required": true,
+      "requires_explanatory_svg": true,
+      "semantic_risk": "Chỉ minh họa tự động hóa công nghiệp vật lý; phải đi cùng SVG-05/copy để không ngụ ý phần mềm Virtual Commissioning hay năng lực PLC/OT của SAVA.",
+      "supersedes": [],
+      "notes": "Không hotlink; dùng bản web-optimized trên Drive. Nhãn hiển thị bắt buộc: “Hình minh họa”."
+    },
+    {
+      "asset_id": "AST-WEB06-WH-EXT-01",
+      "slot_id": "EXT-WEB06-WAREHOUSE",
+      "section_ids": [
+        "WEB-06"
+      ],
+      "filename": "P24-12_WEB_EXT_WEB06_Warehouse_Illustration_01_web.webp",
+      "asset_type": "CONTEXTUAL_ILLUSTRATION",
+      "source_type": "V1F_RIGHTS_CLEARED_EXTERNAL",
+      "language": "not-applicable",
+      "production_status": "PRODUCTION_APPROVED",
+      "drive_id": "18BwgmrLDiIbhpTry-O92UQn5rTrmypEo",
+      "drive_url": "https://drive.google.com/file/d/18BwgmrLDiIbhpTry-O92UQn5rTrmypEo/view?usp=drivesdk",
+      "reference_drive_id": "1aXtDF3ttYrbINziToSfqpCDkMoeNVtdN",
+      "reference_drive_url": "https://drive.google.com/file/d/1aXtDF3ttYrbINziToSfqpCDkMoeNVtdN/view?usp=drivesdk",
+      "rights_class": "PUBLISHABLE-CLEAR",
+      "attribution_required": false,
+      "caption_vi": "Hình minh họa hoạt động lập kế hoạch, bố trí và dòng chảy vật tư trong kho.",
+      "alt_text_vi": "Minh họa nhóm nhân viên kho trao đổi kế hoạch vận hành bên xe nâng; chỉ mang tính minh họa, không phải triển khai thực tế của SAVA.",
+      "display_role": "SECONDARY_CONTEXT",
+      "illustration_label_required": true,
+      "requires_explanatory_svg": true,
+      "semantic_risk": "Chỉ minh họa bối cảnh kho; phải đi cùng SVG-06/copy để không ngụ ý phần mềm mô phỏng/lập kế hoạch hoặc live twin đã có.",
+      "supersedes": [],
+      "notes": "Không hotlink; dùng bản web-optimized trên Drive. Nhãn hiển thị bắt buộc: “Hình minh họa”."
+    },
+    {
+      "asset_id": "AST-WEB12-MU-EXT-01",
+      "slot_id": "EXT-WEB12-MUSIC",
+      "section_ids": [
+        "WEB-12"
+      ],
+      "filename": "P24-12_WEB_EXT_WEB12_Music_Illustration_01_web.webp",
+      "asset_type": "CONTEXTUAL_ILLUSTRATION",
+      "source_type": "V1F_RIGHTS_CLEARED_EXTERNAL",
+      "language": "not-applicable",
+      "production_status": "PRODUCTION_APPROVED",
+      "drive_id": "1G-i_uL00h88f0QED1mKr_tSXWCsZE_ur",
+      "drive_url": "https://drive.google.com/file/d/1G-i_uL00h88f0QED1mKr_tSXWCsZE_ur/view?usp=drivesdk",
+      "reference_drive_id": "1-ez-29nY95fTk_hPXsR5jyU6C9g2Cw3g",
+      "reference_drive_url": "https://drive.google.com/file/d/1-ez-29nY95fTk_hPXsR5jyU6C9g2Cw3g/view?usp=drivesdk",
+      "rights_class": "PUBLISHABLE-CLEAR",
+      "attribution_required": false,
+      "caption_vi": "Hình minh họa trải nghiệm âm nhạc/tiết tấu nhập vai bằng cử động cơ thể và tương tác không gian.",
+      "alt_text_vi": "Minh họa người chơi đeo kính thực tế ảo chơi trống điện tử; chỉ mang tính minh họa, không phải sản phẩm hay game cụ thể của SAVA.",
+      "display_role": "SECONDARY_CONTEXT",
+      "illustration_label_required": true,
+      "requires_explanatory_svg": false,
+      "semantic_risk": "Minh họa bối cảnh Music rhythm/action; không hàm ý game hoàn thiện, catalog được cấp phép hay Music World 2.",
+      "supersedes": [],
+      "notes": "Không hotlink; dùng bản web-optimized trên Drive. Nhãn hiển thị bắt buộc: “Hình minh họa”."
+    },
+    {
+      "asset_id": "AST-WEB08-SP-EXT-01",
+      "slot_id": "EXT-WEB08-SPORTS",
+      "section_ids": [
+        "WEB-08"
+      ],
+      "filename": "P24-12_WEB_EXT_WEB08_Sports_Illustration_01_web.webp",
+      "asset_type": "CONTEXTUAL_ILLUSTRATION",
+      "source_type": "V1F_RIGHTS_CLEARED_EXTERNAL",
+      "language": "not-applicable",
+      "production_status": "PRODUCTION_APPROVED",
+      "drive_id": "1oHBBrmbjwumg4PY02dI-JPUNNb2JkM6L",
+      "drive_url": "https://drive.google.com/file/d/1oHBBrmbjwumg4PY02dI-JPUNNb2JkM6L/view?usp=drivesdk",
+      "reference_drive_id": "1rmIYVcuxW3b8a4Hwa-aqo1M8Mw6yBha8",
+      "reference_drive_url": "https://drive.google.com/file/d/1rmIYVcuxW3b8a4Hwa-aqo1M8Mw6yBha8/view?usp=drivesdk",
+      "rights_class": "PUBLISHABLE-CLEAR",
+      "attribution_required": false,
+      "caption_vi": "Hình minh họa luyện tập thể chất / kỹ năng vận động bằng công nghệ nhập vai.",
+      "alt_text_vi": "Minh họa người tập đeo kính thực tế ảo trong không gian tập luyện; chỉ mang tính minh họa, không ngụ ý SAVA đã chọn môn thể thao cụ thể.",
+      "display_role": "SECONDARY_CONTEXT",
+      "illustration_label_required": true,
+      "requires_explanatory_svg": false,
+      "semantic_risk": "Minh họa kỹ năng vận động; không hàm ý SAVA đã chọn môn thể thao/ngách cụ thể.",
+      "supersedes": [],
+      "notes": "Không hotlink; dùng bản web-optimized trên Drive. Nhãn hiển thị bắt buộc: “Hình minh họa”."
+    },
+    {
+      "asset_id": "AST-WEB08-PZ-EXT-01",
+      "slot_id": "EXT-WEB08-PUZZLE",
+      "section_ids": [
+        "WEB-08"
+      ],
+      "filename": "P24-12_WEB_EXT_WEB08_Puzzle_Illustration_01_web.webp",
+      "asset_type": "CONTEXTUAL_ILLUSTRATION",
+      "source_type": "V1F_RIGHTS_CLEARED_EXTERNAL",
+      "language": "not-applicable",
+      "production_status": "PRODUCTION_APPROVED",
+      "drive_id": "1NA7CfOcWv_xueHne4GcjwLzYAMviNuQU",
+      "drive_url": "https://drive.google.com/file/d/1NA7CfOcWv_xueHne4GcjwLzYAMviNuQU/view?usp=drivesdk",
+      "reference_drive_id": "1OkVz-z0SjstcuhF0kGlEduUYLcgDCNkn",
+      "reference_drive_url": "https://drive.google.com/file/d/1OkVz-z0SjstcuhF0kGlEduUYLcgDCNkn/view?usp=drivesdk",
+      "rights_class": "PUBLISHABLE-CLEAR",
+      "attribution_required": false,
+      "caption_vi": "Hình minh họa giải đố không gian / logic hệ thống và tương tác 3D.",
+      "alt_text_vi": "Minh họa bàn tay thao tác khối giải đố không gian; chỉ mang tính minh họa, không ngụ ý sản phẩm hay WHY-VR đã được chứng minh.",
+      "display_role": "SECONDARY_CONTEXT",
+      "illustration_label_required": true,
+      "requires_explanatory_svg": true,
+      "semantic_risk": "Minh họa giải đố không gian; phải đi cùng SVG-09/copy và không chứng minh WHY-VR hay triển khai VR.",
+      "supersedes": [],
+      "notes": "Không hotlink; dùng bản web-optimized trên Drive. Nhãn hiển thị bắt buộc: “Hình minh họa”."
+    },
+    {
+      "asset_id": "AST-SAVA-LOGO-WEB",
+      "slot_id": "GLOBAL-LOGO",
+      "section_ids": [
+        "WEB-01",
+        "WEB-02",
+        "WEB-03",
+        "WEB-04",
+        "WEB-05",
+        "WEB-06",
+        "WEB-07",
+        "WEB-08",
+        "WEB-09",
+        "WEB-10",
+        "WEB-11",
+        "WEB-12",
+        "WEB-13",
+        "WEB-14",
+        "WEB-15",
+        "WEB-16",
+        "WEB-17",
+        "WEB-18"
+      ],
+      "filename": "sava-meta-logo.png",
+      "asset_type": "OFFICIAL_LOGO",
+      "source_type": "OFFICIAL_USER_SUPPLIED",
+      "language": "not-applicable",
+      "production_status": "PRODUCTION_APPROVED",
+      "drive_id": "1UR5a_dVTxS8khrHRWi9g9hrgM-dRrcLy",
+      "drive_url": "https://drive.google.com/file/d/1UR5a_dVTxS8khrHRWi9g9hrgM-dRrcLy/view?usp=drivesdk",
+      "reference_drive_id": "16ZU41DYYG82gCOoduvAfUgeX42MeY5YL",
+      "reference_drive_url": "https://drive.google.com/file/d/16ZU41DYYG82gCOoduvAfUgeX42MeY5YL/view?usp=drivesdk",
+      "rights_class": "OFFICIAL_SAVA_ASSET",
+      "attribution_required": false,
+      "caption_vi": "Logo chính thức của SAVA Meta.",
+      "alt_text_vi": "Logo SAVA Meta.",
+      "display_role": "OFFICIAL_BRAND_MARK",
+      "illustration_label_required": false,
+      "requires_explanatory_svg": false,
+      "semantic_risk": "Không chỉnh màu, không bóp méo, không vẽ lại, không thay bằng logo AI.",
+      "supersedes": [],
+      "notes": "Logo duy nhất được phép dùng cho website."
+    }
+  ],
+  "reference_assets": [
+    {
+      "asset_id": "AST-SVG-01-SOURCE",
+      "section_ids": [
+        "WEB-02"
+      ],
+      "filename": "P24-12_WEB_SVG-01_Universe_Structure_v01.svg",
+      "asset_type": "semantic_svg_master_reference",
+      "production_status": "REFERENCE_ONLY",
+      "drive_id": "1crqvGytMmhveEbUFulMux61aHpQkWbQw",
+      "drive_url": "https://drive.google.com/file/d/1crqvGytMmhveEbUFulMux61aHpQkWbQw/view?usp=drivesdk",
+      "language": "en",
+      "rights_class": "INTERNAL_SOURCE_DERIVED",
+      "notes": "Master ngữ nghĩa lịch sử; không render trực tiếp trong giao diện CEO."
+    },
+    {
+      "asset_id": "AST-SVG-02-SOURCE",
+      "section_ids": [
+        "WEB-04"
+      ],
+      "filename": "P24-12_WEB_SVG-02_Dual_Research_Funnel_v01.svg",
+      "asset_type": "semantic_svg_master_reference",
+      "production_status": "REFERENCE_ONLY",
+      "drive_id": "1Acr1wHod6QVyLOBt33o35an1JrFWaOEW",
+      "drive_url": "https://drive.google.com/file/d/1Acr1wHod6QVyLOBt33o35an1JrFWaOEW/view?usp=drivesdk",
+      "language": "en",
+      "rights_class": "INTERNAL_SOURCE_DERIVED",
+      "notes": "Master ngữ nghĩa lịch sử; không render trực tiếp trong giao diện CEO."
+    },
+    {
+      "asset_id": "AST-SVG-03-SOURCE",
+      "section_ids": [
+        "WEB-03"
+      ],
+      "filename": "P24-12_WEB_SVG-03_Money_Logic_Split_v01.svg",
+      "asset_type": "semantic_svg_master_reference",
+      "production_status": "REFERENCE_ONLY",
+      "drive_id": "1_YXCimZbtWwEA_d66bseGmYuOkvoZ6w4",
+      "drive_url": "https://drive.google.com/file/d/1_YXCimZbtWwEA_d66bseGmYuOkvoZ6w4/view?usp=drivesdk",
+      "language": "en",
+      "rights_class": "INTERNAL_SOURCE_DERIVED",
+      "notes": "Master ngữ nghĩa lịch sử; không render trực tiếp trong giao diện CEO."
+    },
+    {
+      "asset_id": "AST-SVG-04-SOURCE",
+      "section_ids": [
+        "WEB-06"
+      ],
+      "filename": "P24-12_WEB_SVG-04_Healthcare_Workflow_v01.svg",
+      "asset_type": "semantic_svg_master_reference",
+      "production_status": "REFERENCE_ONLY",
+      "drive_id": "1ZkmZV1hvpKLsRQ4CiVTbGhfD9IKvsG0K",
+      "drive_url": "https://drive.google.com/file/d/1ZkmZV1hvpKLsRQ4CiVTbGhfD9IKvsG0K/view?usp=drivesdk",
+      "language": "en",
+      "rights_class": "INTERNAL_SOURCE_DERIVED",
+      "notes": "Master ngữ nghĩa lịch sử; không render trực tiếp trong giao diện CEO."
+    },
+    {
+      "asset_id": "AST-SVG-05-SOURCE",
+      "section_ids": [
+        "WEB-06"
+      ],
+      "filename": "P24-12_WEB_SVG-05_Virtual_Commissioning_Control_Loop_v01.svg",
+      "asset_type": "semantic_svg_master_reference",
+      "production_status": "REFERENCE_ONLY",
+      "drive_id": "1WhxTt-2Kxo6JrCDU1TqMXWQtQ9qIqDFX",
+      "drive_url": "https://drive.google.com/file/d/1WhxTt-2Kxo6JrCDU1TqMXWQtQ9qIqDFX/view?usp=drivesdk",
+      "language": "en",
+      "rights_class": "INTERNAL_SOURCE_DERIVED",
+      "notes": "Master ngữ nghĩa lịch sử; không render trực tiếp trong giao diện CEO."
+    },
+    {
+      "asset_id": "AST-SVG-06-SOURCE",
+      "section_ids": [
+        "WEB-06"
+      ],
+      "filename": "P24-12_WEB_SVG-06_Warehouse_Scenario_Flow_v01.svg",
+      "asset_type": "semantic_svg_master_reference",
+      "production_status": "REFERENCE_ONLY",
+      "drive_id": "1cZln8yLgQ3GMyxWmsJKujWDGvS-d3Opl",
+      "drive_url": "https://drive.google.com/file/d/1cZln8yLgQ3GMyxWmsJKujWDGvS-d3Opl/view?usp=drivesdk",
+      "language": "en",
+      "rights_class": "INTERNAL_SOURCE_DERIVED",
+      "notes": "Master ngữ nghĩa lịch sử; không render trực tiếp trong giao diện CEO."
+    },
+    {
+      "asset_id": "AST-SVG-07-SOURCE",
+      "section_ids": [
+        "WEB-08"
+      ],
+      "filename": "P24-12_WEB_SVG-07_Sports_Mastery_Loop_v01.svg",
+      "asset_type": "semantic_svg_master_reference",
+      "production_status": "REFERENCE_ONLY",
+      "drive_id": "1YI0y7FkDckl51j3F6LO8RP4TxJIoktRR",
+      "drive_url": "https://drive.google.com/file/d/1YI0y7FkDckl51j3F6LO8RP4TxJIoktRR/view?usp=drivesdk",
+      "language": "en",
+      "rights_class": "INTERNAL_SOURCE_DERIVED",
+      "notes": "Master ngữ nghĩa lịch sử; không render trực tiếp trong giao diện CEO."
+    },
+    {
+      "asset_id": "AST-SVG-08-SOURCE",
+      "section_ids": [
+        "WEB-08"
+      ],
+      "filename": "P24-12_WEB_SVG-08_Music_Action_Replay_Loop_v01.svg",
+      "asset_type": "semantic_svg_master_reference",
+      "production_status": "REFERENCE_ONLY",
+      "drive_id": "1BYhPhump72_nHNDhhTUopVfH5xG4CgKV",
+      "drive_url": "https://drive.google.com/file/d/1BYhPhump72_nHNDhhTUopVfH5xG4CgKV/view?usp=drivesdk",
+      "language": "en",
+      "rights_class": "INTERNAL_SOURCE_DERIVED",
+      "notes": "Master ngữ nghĩa lịch sử; không render trực tiếp trong giao diện CEO."
+    },
+    {
+      "asset_id": "AST-SVG-09-SOURCE",
+      "section_ids": [
+        "WEB-08"
+      ],
+      "filename": "P24-12_WEB_SVG-09_Puzzle_Systemic_Loop_v01.svg",
+      "asset_type": "semantic_svg_master_reference",
+      "production_status": "REFERENCE_ONLY",
+      "drive_id": "1Jc1r1olc86d7DSTIB-ggyH9LrG04KuLJ",
+      "drive_url": "https://drive.google.com/file/d/1Jc1r1olc86d7DSTIB-ggyH9LrG04KuLJ/view?usp=drivesdk",
+      "language": "en",
+      "rights_class": "INTERNAL_SOURCE_DERIVED",
+      "notes": "Master ngữ nghĩa lịch sử; không render trực tiếp trong giao diện CEO."
+    },
+    {
+      "asset_id": "AST-SVG-10-SOURCE",
+      "section_ids": [
+        "WEB-09"
+      ],
+      "filename": "P24-12_WEB_SVG-10_Market_Rank_vs_SAVA_Action_v01.svg",
+      "asset_type": "semantic_svg_master_reference",
+      "production_status": "REFERENCE_ONLY",
+      "drive_id": "1ggrtZW0mBFWCqdbP9zNVklv94loL-4yo",
+      "drive_url": "https://drive.google.com/file/d/1ggrtZW0mBFWCqdbP9zNVklv94loL-4yo/view?usp=drivesdk",
+      "language": "en",
+      "rights_class": "INTERNAL_SOURCE_DERIVED",
+      "notes": "Master ngữ nghĩa lịch sử; không render trực tiếp trong giao diện CEO."
+    },
+    {
+      "asset_id": "AST-SVG-11-SOURCE",
+      "section_ids": [
+        "WEB-11"
+      ],
+      "filename": "P24-12_WEB_SVG-11_Healthcare_Validation_Path_v01.svg",
+      "asset_type": "semantic_svg_master_reference",
+      "production_status": "REFERENCE_ONLY",
+      "drive_id": "18xdiVKtWrTCtScyJvWVuRzDPwl9RfPF_",
+      "drive_url": "https://drive.google.com/file/d/18xdiVKtWrTCtScyJvWVuRzDPwl9RfPF_/view?usp=drivesdk",
+      "language": "en",
+      "rights_class": "INTERNAL_SOURCE_DERIVED",
+      "notes": "Master ngữ nghĩa lịch sử; không render trực tiếp trong giao diện CEO."
+    },
+    {
+      "asset_id": "AST-SVG-12-SOURCE",
+      "section_ids": [
+        "WEB-12"
+      ],
+      "filename": "P24-12_WEB_SVG-12_Music_Prototype_Validation_v01.svg",
+      "asset_type": "semantic_svg_master_reference",
+      "production_status": "REFERENCE_ONLY",
+      "drive_id": "1lqtiyK-JJutcrKBoFobgROPDYP8jQ5Vl",
+      "drive_url": "https://drive.google.com/file/d/1lqtiyK-JJutcrKBoFobgROPDYP8jQ5Vl/view?usp=drivesdk",
+      "language": "en",
+      "rights_class": "INTERNAL_SOURCE_DERIVED",
+      "notes": "Master ngữ nghĩa lịch sử; không render trực tiếp trong giao diện CEO."
+    },
+    {
+      "asset_id": "AST-SVG-13-SOURCE",
+      "section_ids": [
+        "WEB-13"
+      ],
+      "filename": "P24-12_WEB_SVG-13_Portfolio_Role_Map_v01.svg",
+      "asset_type": "semantic_svg_master_reference",
+      "production_status": "REFERENCE_ONLY",
+      "drive_id": "1sBFdUgZt23KhVpdo26uLwKSUhgcRNE3K",
+      "drive_url": "https://drive.google.com/file/d/1sBFdUgZt23KhVpdo26uLwKSUhgcRNE3K/view?usp=drivesdk",
+      "language": "en",
+      "rights_class": "INTERNAL_SOURCE_DERIVED",
+      "notes": "Master ngữ nghĩa lịch sử; không render trực tiếp trong giao diện CEO."
+    },
+    {
+      "asset_id": "AST-SVG-14-SOURCE",
+      "section_ids": [
+        "WEB-14"
+      ],
+      "filename": "P24-12_WEB_SVG-14_Music_vs_Music_World_v01.svg",
+      "asset_type": "semantic_svg_master_reference",
+      "production_status": "REFERENCE_ONLY",
+      "drive_id": "1TCP1QcgmEjHz5AMPUHSeVStWwdpKqisi",
+      "drive_url": "https://drive.google.com/file/d/1TCP1QcgmEjHz5AMPUHSeVStWwdpKqisi/view?usp=drivesdk",
+      "language": "en",
+      "rights_class": "INTERNAL_SOURCE_DERIVED",
+      "notes": "Master ngữ nghĩa lịch sử; không render trực tiếp trong giao diện CEO."
+    },
+    {
+      "asset_id": "AST-WEB11-HC-EXT-01-REFERENCE",
+      "slot_id": "EXT-WEB11-HEALTHCARE",
+      "section_ids": [
+        "WEB-11"
+      ],
+      "filename": "pexels-photo-8704147.jpeg",
+      "asset_type": "external_context_reference_original",
+      "production_status": "REFERENCE_ONLY",
+      "drive_id": "1en1gS8NomRXbzf6kWnUR0Odgzp1F9-FC",
+      "drive_url": "https://drive.google.com/file/d/1en1gS8NomRXbzf6kWnUR0Odgzp1F9-FC/view?usp=drivesdk",
+      "language": "not-applicable",
+      "rights_class": "PUBLISHABLE-CLEAR",
+      "attribution_required": false,
+      "notes": "Bản gốc tham chiếu; bản web derivative trên Drive mới là production asset."
+    },
+    {
+      "asset_id": "AST-WEB06-VC-EXT-01-REFERENCE",
+      "slot_id": "EXT-WEB06-VIRTUAL-COMMISSIONING",
+      "section_ids": [
+        "WEB-06"
+      ],
+      "filename": "pexels-photo-18471441.jpeg",
+      "asset_type": "external_context_reference_original",
+      "production_status": "REFERENCE_ONLY",
+      "drive_id": "14lZbMzrNw74Zbd9TI9eIy9wZAkDk8BDh",
+      "drive_url": "https://drive.google.com/file/d/14lZbMzrNw74Zbd9TI9eIy9wZAkDk8BDh/view?usp=drivesdk",
+      "language": "not-applicable",
+      "rights_class": "PUBLISHABLE-CLEAR",
+      "attribution_required": false,
+      "notes": "Bản gốc tham chiếu; bản web derivative trên Drive mới là production asset."
+    },
+    {
+      "asset_id": "AST-WEB06-WH-EXT-01-REFERENCE",
+      "slot_id": "EXT-WEB06-WAREHOUSE",
+      "section_ids": [
+        "WEB-06"
+      ],
+      "filename": "pexels-photo-4483557.jpeg",
+      "asset_type": "external_context_reference_original",
+      "production_status": "REFERENCE_ONLY",
+      "drive_id": "1aXtDF3ttYrbINziToSfqpCDkMoeNVtdN",
+      "drive_url": "https://drive.google.com/file/d/1aXtDF3ttYrbINziToSfqpCDkMoeNVtdN/view?usp=drivesdk",
+      "language": "not-applicable",
+      "rights_class": "PUBLISHABLE-CLEAR",
+      "attribution_required": false,
+      "notes": "Bản gốc tham chiếu; bản web derivative trên Drive mới là production asset."
+    },
+    {
+      "asset_id": "AST-WEB12-MU-EXT-01-REFERENCE",
+      "slot_id": "EXT-WEB12-MUSIC",
+      "section_ids": [
+        "WEB-12"
+      ],
+      "filename": "pexels-photo-7715386.jpeg",
+      "asset_type": "external_context_reference_original",
+      "production_status": "REFERENCE_ONLY",
+      "drive_id": "1-ez-29nY95fTk_hPXsR5jyU6C9g2Cw3g",
+      "drive_url": "https://drive.google.com/file/d/1-ez-29nY95fTk_hPXsR5jyU6C9g2Cw3g/view?usp=drivesdk",
+      "language": "not-applicable",
+      "rights_class": "PUBLISHABLE-CLEAR",
+      "attribution_required": false,
+      "notes": "Bản gốc tham chiếu; bản web derivative trên Drive mới là production asset."
+    },
+    {
+      "asset_id": "AST-WEB08-SP-EXT-01-REFERENCE",
+      "slot_id": "EXT-WEB08-SPORTS",
+      "section_ids": [
+        "WEB-08"
+      ],
+      "filename": "pexels-photo-8098268.jpeg",
+      "asset_type": "external_context_reference_original",
+      "production_status": "REFERENCE_ONLY",
+      "drive_id": "1rmIYVcuxW3b8a4Hwa-aqo1M8Mw6yBha8",
+      "drive_url": "https://drive.google.com/file/d/1rmIYVcuxW3b8a4Hwa-aqo1M8Mw6yBha8/view?usp=drivesdk",
+      "language": "not-applicable",
+      "rights_class": "PUBLISHABLE-CLEAR",
+      "attribution_required": false,
+      "notes": "Bản gốc tham chiếu; bản web derivative trên Drive mới là production asset."
+    },
+    {
+      "asset_id": "AST-WEB08-PZ-EXT-01-REFERENCE",
+      "slot_id": "EXT-WEB08-PUZZLE",
+      "section_ids": [
+        "WEB-08"
+      ],
+      "filename": "pexels-photo-8471996.jpeg",
+      "asset_type": "external_context_reference_original",
+      "production_status": "REFERENCE_ONLY",
+      "drive_id": "1OkVz-z0SjstcuhF0kGlEduUYLcgDCNkn",
+      "drive_url": "https://drive.google.com/file/d/1OkVz-z0SjstcuhF0kGlEduUYLcgDCNkn/view?usp=drivesdk",
+      "language": "not-applicable",
+      "rights_class": "PUBLISHABLE-CLEAR",
+      "attribution_required": false,
+      "notes": "Bản gốc tham chiếu; bản web derivative trên Drive mới là production asset."
+    }
+  ],
+  "historical_assets": [
+    {
+      "asset_id": "AST-SVG-01-OLDER-DUPLICATE",
+      "section_ids": [
+        "WEB-02"
+      ],
+      "filename": "P24-12_WEB_SVG-01_Universe_Structure_v01.svg",
+      "asset_type": "semantic_svg_historical_duplicate",
+      "production_status": "REFERENCE_ONLY_NOT_RELEASE",
+      "drive_id": "1EDz249a8LqJ1_M2DSJwYpghiehrPAUok",
+      "drive_url": "https://drive.google.com/file/d/1EDz249a8LqJ1_M2DSJwYpghiehrPAUok/view?usp=drivesdk",
+      "language": "en",
+      "superseded_by": "1crqvGytMmhveEbUFulMux61aHpQkWbQw",
+      "notes": "Không xóa. Bị supersede bởi canonical source SVG mới hơn và derivative vi_v02 cho production."
+    },
+    {
+      "asset_id": "AST-SVG-02-OLDER-DUPLICATE",
+      "section_ids": [
+        "WEB-04"
+      ],
+      "filename": "P24-12_WEB_SVG-02_Dual_Research_Funnel_v01.svg",
+      "asset_type": "semantic_svg_historical_duplicate",
+      "production_status": "REFERENCE_ONLY_NOT_RELEASE",
+      "drive_id": "1MB55k_Ow6UvgcJ3xzq4iJd9MEtoztNA6",
+      "drive_url": "https://drive.google.com/file/d/1MB55k_Ow6UvgcJ3xzq4iJd9MEtoztNA6/view?usp=drivesdk",
+      "language": "en",
+      "superseded_by": "1Acr1wHod6QVyLOBt33o35an1JrFWaOEW",
+      "notes": "Không xóa. Bị supersede bởi canonical source SVG mới hơn và derivative vi_v02 cho production."
+    },
+    {
+      "asset_id": "AST-SVG-03-OLDER-DUPLICATE",
+      "section_ids": [
+        "WEB-03"
+      ],
+      "filename": "P24-12_WEB_SVG-03_Money_Logic_Split_v01.svg",
+      "asset_type": "semantic_svg_historical_duplicate",
+      "production_status": "REFERENCE_ONLY_NOT_RELEASE",
+      "drive_id": "1ztYHXqHn8sy5tOfDtubjbDW8BAg_Rhav",
+      "drive_url": "https://drive.google.com/file/d/1ztYHXqHn8sy5tOfDtubjbDW8BAg_Rhav/view?usp=drivesdk",
+      "language": "en",
+      "superseded_by": "1_YXCimZbtWwEA_d66bseGmYuOkvoZ6w4",
+      "notes": "Không xóa. Bị supersede bởi canonical source SVG mới hơn và derivative vi_v02 cho production."
+    },
+    {
+      "asset_id": "AST-SVG-04-OLDER-DUPLICATE",
+      "section_ids": [
+        "WEB-06"
+      ],
+      "filename": "P24-12_WEB_SVG-04_Healthcare_User_Buyer_Workflow_v01.svg",
+      "asset_type": "semantic_svg_historical_duplicate",
+      "production_status": "REFERENCE_ONLY_NOT_RELEASE",
+      "drive_id": "1N_rUfg6prnz8H-9MR1Aij04_HS668o9D",
+      "drive_url": "https://drive.google.com/file/d/1N_rUfg6prnz8H-9MR1Aij04_HS668o9D/view?usp=drivesdk",
+      "language": "en",
+      "superseded_by": "1ZkmZV1hvpKLsRQ4CiVTbGhfD9IKvsG0K",
+      "notes": "Không xóa. Bị supersede bởi canonical source SVG mới hơn và derivative vi_v02 cho production."
+    },
+    {
+      "asset_id": "AST-SVG-05-OLDER-DUPLICATE",
+      "section_ids": [
+        "WEB-06"
+      ],
+      "filename": "P24-12_WEB_SVG-05_Virtual_Commissioning_Control_Loop_v01.svg",
+      "asset_type": "semantic_svg_historical_duplicate",
+      "production_status": "REFERENCE_ONLY_NOT_RELEASE",
+      "drive_id": "18AyP6csSuhPLLVz_gBqsmK1H94OEwIBb",
+      "drive_url": "https://drive.google.com/file/d/18AyP6csSuhPLLVz_gBqsmK1H94OEwIBb/view?usp=drivesdk",
+      "language": "en",
+      "superseded_by": "1WhxTt-2Kxo6JrCDU1TqMXWQtQ9qIqDFX",
+      "notes": "Không xóa. Bị supersede bởi canonical source SVG mới hơn và derivative vi_v02 cho production."
+    },
+    {
+      "asset_id": "AST-SVG-06-OLDER-DUPLICATE",
+      "section_ids": [
+        "WEB-06"
+      ],
+      "filename": "P24-12_WEB_SVG-06_Warehouse_Scenario_Flow_v01.svg",
+      "asset_type": "semantic_svg_historical_duplicate",
+      "production_status": "REFERENCE_ONLY_NOT_RELEASE",
+      "drive_id": "1NbjTTGlt0vW6g8eKwmfC0EaYAl_h4NGu",
+      "drive_url": "https://drive.google.com/file/d/1NbjTTGlt0vW6g8eKwmfC0EaYAl_h4NGu/view?usp=drivesdk",
+      "language": "en",
+      "superseded_by": "1cZln8yLgQ3GMyxWmsJKujWDGvS-d3Opl",
+      "notes": "Không xóa. Bị supersede bởi canonical source SVG mới hơn và derivative vi_v02 cho production."
+    },
+    {
+      "asset_id": "AST-SVG-07-OLDER-DUPLICATE",
+      "section_ids": [
+        "WEB-08"
+      ],
+      "filename": "P24-12_WEB_SVG-07_Sports_Mastery_Loop_v01.svg",
+      "asset_type": "semantic_svg_historical_duplicate",
+      "production_status": "REFERENCE_ONLY_NOT_RELEASE",
+      "drive_id": "1456ivEtY2kecLl-cThJKYY97ibSUuHRo",
+      "drive_url": "https://drive.google.com/file/d/1456ivEtY2kecLl-cThJKYY97ibSUuHRo/view?usp=drivesdk",
+      "language": "en",
+      "superseded_by": "1YI0y7FkDckl51j3F6LO8RP4TxJIoktRR",
+      "notes": "Không xóa. Bị supersede bởi canonical source SVG mới hơn và derivative vi_v02 cho production."
+    },
+    {
+      "asset_id": "AST-SVG-08-OLDER-DUPLICATE",
+      "section_ids": [
+        "WEB-08"
+      ],
+      "filename": "P24-12_WEB_SVG-08_Music_Action_Replay_Loop_v01.svg",
+      "asset_type": "semantic_svg_historical_duplicate",
+      "production_status": "REFERENCE_ONLY_NOT_RELEASE",
+      "drive_id": "1Q9W0Ke6tJ8JVztUImN_S0TkWYZaJXY3b",
+      "drive_url": "https://drive.google.com/file/d/1Q9W0Ke6tJ8JVztUImN_S0TkWYZaJXY3b/view?usp=drivesdk",
+      "language": "en",
+      "superseded_by": "1BYhPhump72_nHNDhhTUopVfH5xG4CgKV",
+      "notes": "Không xóa. Bị supersede bởi canonical source SVG mới hơn và derivative vi_v02 cho production."
+    },
+    {
+      "asset_id": "AST-SVG-09-OLDER-DUPLICATE",
+      "section_ids": [
+        "WEB-08"
+      ],
+      "filename": "P24-12_WEB_SVG-09_Puzzle_Systemic_Optimization_v01.svg",
+      "asset_type": "semantic_svg_historical_duplicate",
+      "production_status": "REFERENCE_ONLY_NOT_RELEASE",
+      "drive_id": "1E1dw8LNvwJDgKSMghozXdzpvwdHL4IW_",
+      "drive_url": "https://drive.google.com/file/d/1E1dw8LNvwJDgKSMghozXdzpvwdHL4IW_/view?usp=drivesdk",
+      "language": "en",
+      "superseded_by": "1Jc1r1olc86d7DSTIB-ggyH9LrG04KuLJ",
+      "notes": "Không xóa. Bị supersede bởi canonical source SVG mới hơn và derivative vi_v02 cho production."
+    },
+    {
+      "asset_id": "AST-SVG-10-OLDER-DUPLICATE",
+      "section_ids": [
+        "WEB-09"
+      ],
+      "filename": "P24-12_WEB_SVG-10_Market_Rank_vs_SAVA_Action_v01.svg",
+      "asset_type": "semantic_svg_historical_duplicate",
+      "production_status": "REFERENCE_ONLY_NOT_RELEASE",
+      "drive_id": "1qhiNm9FnbMYmnyGLWUFjDgGJPKe4TGDE",
+      "drive_url": "https://drive.google.com/file/d/1qhiNm9FnbMYmnyGLWUFjDgGJPKe4TGDE/view?usp=drivesdk",
+      "language": "en",
+      "superseded_by": "1ggrtZW0mBFWCqdbP9zNVklv94loL-4yo",
+      "notes": "Không xóa. Bị supersede bởi canonical source SVG mới hơn và derivative vi_v02 cho production."
+    },
+    {
+      "asset_id": "AST-SVG-11-OLDER-DUPLICATE",
+      "section_ids": [
+        "WEB-11"
+      ],
+      "filename": "P24-12_WEB_SVG-11_Healthcare_Validation_Path_v01.svg",
+      "asset_type": "semantic_svg_historical_duplicate",
+      "production_status": "REFERENCE_ONLY_NOT_RELEASE",
+      "drive_id": "1_uTcQ5Bl2ZPmLKEFf9L9XaZzwCW03C5K",
+      "drive_url": "https://drive.google.com/file/d/1_uTcQ5Bl2ZPmLKEFf9L9XaZzwCW03C5K/view?usp=drivesdk",
+      "language": "en",
+      "superseded_by": "18xdiVKtWrTCtScyJvWVuRzDPwl9RfPF_",
+      "notes": "Không xóa. Bị supersede bởi canonical source SVG mới hơn và derivative vi_v02 cho production."
+    },
+    {
+      "asset_id": "AST-SVG-12-OLDER-DUPLICATE",
+      "section_ids": [
+        "WEB-12"
+      ],
+      "filename": "P24-12_WEB_SVG-12_Music_Prototype_Validation_Path_v01.svg",
+      "asset_type": "semantic_svg_historical_duplicate",
+      "production_status": "REFERENCE_ONLY_NOT_RELEASE",
+      "drive_id": "1YZBhlCoqttOq84bL9s7bl6jFjsdsn2-W",
+      "drive_url": "https://drive.google.com/file/d/1YZBhlCoqttOq84bL9s7bl6jFjsdsn2-W/view?usp=drivesdk",
+      "language": "en",
+      "superseded_by": "1lqtiyK-JJutcrKBoFobgROPDYP8jQ5Vl",
+      "notes": "Không xóa. Bị supersede bởi canonical source SVG mới hơn và derivative vi_v02 cho production."
+    },
+    {
+      "asset_id": "AST-SVG-13-OLDER-DUPLICATE",
+      "section_ids": [
+        "WEB-13"
+      ],
+      "filename": "P24-12_WEB_SVG-13_Portfolio_Role_Map_v01.svg",
+      "asset_type": "semantic_svg_historical_duplicate",
+      "production_status": "REFERENCE_ONLY_NOT_RELEASE",
+      "drive_id": "1pv_ckWmM64JmQNSVtpj3_rd7OXvkNtHP",
+      "drive_url": "https://drive.google.com/file/d/1pv_ckWmM64JmQNSVtpj3_rd7OXvkNtHP/view?usp=drivesdk",
+      "language": "en",
+      "superseded_by": "1sBFdUgZt23KhVpdo26uLwKSUhgcRNE3K",
+      "notes": "Không xóa. Bị supersede bởi canonical source SVG mới hơn và derivative vi_v02 cho production."
+    },
+    {
+      "asset_id": "AST-SVG-14-OLDER-DUPLICATE",
+      "section_ids": [
+        "WEB-14"
+      ],
+      "filename": "P24-12_WEB_SVG-14_Music_vs_Music_World_Separation_v01.svg",
+      "asset_type": "semantic_svg_historical_duplicate",
+      "production_status": "REFERENCE_ONLY_NOT_RELEASE",
+      "drive_id": "1lxzE4FogiapeLp8Ep_0c5yOiYHk8Gygg",
+      "drive_url": "https://drive.google.com/file/d/1lxzE4FogiapeLp8Ep_0c5yOiYHk8Gygg/view?usp=drivesdk",
+      "language": "en",
+      "superseded_by": "1TCP1QcgmEjHz5AMPUHSeVStWwdpKqisi",
+      "notes": "Không xóa. Bị supersede bởi canonical source SVG mới hơn và derivative vi_v02 cho production."
+    },
+    {
+      "asset_id": "AST-LEGACY-WEB01",
+      "section_ids": [
+        "WEB-01"
+      ],
+      "filename": "P24-12_WEB_WEB01_Executive_Hero_Concept_v01.png",
+      "asset_type": "concept_raster_legacy",
+      "production_status": "REFERENCE_ONLY_NOT_RELEASE",
+      "drive_id": "1PYIb-C3GL9gZzGqz5rjCDhiP8rEFJ_Fw",
+      "drive_url": "https://drive.google.com/file/d/1PYIb-C3GL9gZzGqz5rjCDhiP8rEFJ_Fw/view?usp=drivesdk",
+      "language": "no-visible-text",
+      "superseded_by": null,
+      "notes": "Hero concept cũ; LEGACY / REFERENCE_ONLY / NOT PRODUCTION-APPROVED."
+    },
+    {
+      "asset_id": "AST-LEGACY-WEB01-WEBP",
+      "section_ids": [
+        "WEB-01"
+      ],
+      "filename": "P24-12_WEB_WEB01_Executive_Hero_Concept_v01_web.webp",
+      "asset_type": "concept_raster_legacy",
+      "production_status": "REFERENCE_ONLY_NOT_RELEASE",
+      "drive_id": "1QlE_WMD79mWDhr7CLA0Rntgv-jWnCkE7",
+      "drive_url": "https://drive.google.com/file/d/1QlE_WMD79mWDhr7CLA0Rntgv-jWnCkE7/view?usp=drivesdk",
+      "language": "no-visible-text",
+      "superseded_by": null,
+      "notes": "WebP derivative hero concept cũ; LEGACY / REFERENCE_ONLY / NOT PRODUCTION-APPROVED."
+    },
+    {
+      "asset_id": "AST-LEGACY-WEB11",
+      "section_ids": [
+        "WEB-11"
+      ],
+      "filename": "P24-12_WEB_WEB11_Healthcare_Simulation_Concept_v01.png",
+      "asset_type": "concept_raster_legacy",
+      "production_status": "REFERENCE_ONLY_NOT_RELEASE",
+      "drive_id": "1Ewg2Qgs8d9KlCGCU7KRZONfpT9LFgUa-",
+      "drive_url": "https://drive.google.com/file/d/1Ewg2Qgs8d9KlCGCU7KRZONfpT9LFgUa-/view?usp=drivesdk",
+      "language": "no-visible-text",
+      "superseded_by": null,
+      "notes": "Healthcare concept cũ; LEGACY / REFERENCE_ONLY / NOT PRODUCTION-APPROVED."
+    },
+    {
+      "asset_id": "AST-LEGACY-WEB11-WEBP",
+      "section_ids": [
+        "WEB-11"
+      ],
+      "filename": "P24-12_WEB_WEB11_Healthcare_Simulation_Concept_v01_web.webp",
+      "asset_type": "concept_raster_legacy",
+      "production_status": "REFERENCE_ONLY_NOT_RELEASE",
+      "drive_id": "1KN7M2CFeoGjjlHzXI1kBfxLMsmhMFLU6",
+      "drive_url": "https://drive.google.com/file/d/1KN7M2CFeoGjjlHzXI1kBfxLMsmhMFLU6/view?usp=drivesdk",
+      "language": "no-visible-text",
+      "superseded_by": null,
+      "notes": "WebP derivative Healthcare concept cũ; LEGACY / REFERENCE_ONLY / NOT PRODUCTION-APPROVED."
+    },
+    {
+      "asset_id": "AST-LEGACY-WEB12",
+      "section_ids": [
+        "WEB-12"
+      ],
+      "filename": "P24-12_WEB_WEB12_Music_Rhythm_Action_Concept_v01.png",
+      "asset_type": "concept_raster_legacy",
+      "production_status": "REFERENCE_ONLY_NOT_RELEASE",
+      "drive_id": "1LCAWi73fyqJdHqOWloOO2B4_e0iAdTW-",
+      "drive_url": "https://drive.google.com/file/d/1LCAWi73fyqJdHqOWloOO2B4_e0iAdTW-/view?usp=drivesdk",
+      "language": "no-visible-text",
+      "superseded_by": null,
+      "notes": "Music concept cũ; LEGACY / REFERENCE_ONLY / NOT PRODUCTION-APPROVED."
+    },
+    {
+      "asset_id": "AST-LEGACY-WEB12-WEBP",
+      "section_ids": [
+        "WEB-12"
+      ],
+      "filename": "P24-12_WEB_WEB12_Music_Rhythm_Action_Concept_v01_web.webp",
+      "asset_type": "concept_raster_legacy",
+      "production_status": "REFERENCE_ONLY_NOT_RELEASE",
+      "drive_id": "1FJoanqGIpxj9f_V7pyZ3ETe7v-XpQAtV",
+      "drive_url": "https://drive.google.com/file/d/1FJoanqGIpxj9f_V7pyZ3ETe7v-XpQAtV/view?usp=drivesdk",
+      "language": "no-visible-text",
+      "superseded_by": null,
+      "notes": "WebP derivative Music concept cũ; LEGACY / REFERENCE_ONLY / NOT PRODUCTION-APPROVED."
+    },
+    {
+      "asset_id": "AST-SVG-02-VI-V02",
+      "filename": "P24-12_WEB_SVG-02_Dual_Research_Funnel_vi_v02.svg",
+      "asset_type": "semantic_svg_production_derivative_superseded",
+      "production_status": "SUPERSEDED_KEEP_HISTORY",
+      "drive_id": "1tMT3uNjUsufoU-8ZJE56x9jFxipJq44n",
+      "drive_url": "https://drive.google.com/file/d/1tMT3uNjUsufoU-8ZJE56x9jFxipJq44n/view",
+      "superseded_by": "AST-SVG-02-VI-V03",
+      "superseded_by_drive_id": "18qYx8H5PQd_Xd-Med0_5WmEJ28Sor5hx",
+      "notes": "Không xóa/ghi đè; V1G dùng derivative vi_v03."
+    },
+    {
+      "asset_id": "AST-SVG-14-VI-V02",
+      "filename": "P24-12_WEB_SVG-14_Music_vs_Music_World_vi_v02.svg",
+      "asset_type": "semantic_svg_production_derivative_superseded",
+      "production_status": "SUPERSEDED_KEEP_HISTORY",
+      "drive_id": "13nT3_AzinPuFvdlQozmRn-tcQRR2vxQc",
+      "drive_url": "https://drive.google.com/file/d/13nT3_AzinPuFvdlQozmRn-tcQRR2vxQc/view",
+      "superseded_by": "AST-SVG-14-VI-V03",
+      "superseded_by_drive_id": "1V0JXhSq2IvUNf3Ad2KtUfJ3cFc1bwuhr",
+      "notes": "Không xóa/ghi đè; V1G dùng derivative vi_v03."
+    }
+  ],
+  "visual_asset_slots": [
+    {
+      "section_id": "WEB-01",
+      "native_ui_assets": [
+        "C01",
+        "C02",
+        "C03",
+        "C04",
+        "C05",
+        "C06",
+        "C37"
+      ],
+      "svg_assets": [],
+      "external_context_assets": [],
+      "logo_assets": [
+        "AST-SAVA-LOGO-WEB"
+      ],
+      "production_asset_ids": [
+        "AST-SAVA-LOGO-WEB"
+      ],
+      "display_priority": [
+        "NATIVE_UI",
+        "OFFICIAL_LOGO"
+      ],
+      "mobile_asset_behavior": "Ưu tiên UI native; SVG giữ toàn bộ nghĩa và chuyển bố cục nếu cần; ảnh ngữ cảnh crop an toàn theo manifest; không dùng ảnh để thay bằng chứng.",
+      "illustration_label_required": false,
+      "semantic_warning": "Không dùng tài sản trình bày để suy ra bằng chứng nghiên cứu mới.",
+      "status": "RESOLVED"
+    },
+    {
+      "section_id": "WEB-02",
+      "native_ui_assets": [
+        "C02",
+        "C03",
+        "C07",
+        "C08",
+        "C09",
+        "C10",
+        "C11",
+        "C12",
+        "C13",
+        "C37",
+        "C38"
+      ],
+      "svg_assets": [
+        "AST-SVG-01-VI-V02"
+      ],
+      "external_context_assets": [],
+      "logo_assets": [
+        "AST-SAVA-LOGO-WEB"
+      ],
+      "production_asset_ids": [
+        "AST-SVG-01-VI-V02",
+        "AST-SAVA-LOGO-WEB"
+      ],
+      "display_priority": [
+        "NATIVE_UI",
+        "SEMANTIC_SVG",
+        "OFFICIAL_LOGO"
+      ],
+      "mobile_asset_behavior": "Ưu tiên UI native; SVG giữ toàn bộ nghĩa và chuyển bố cục nếu cần; ảnh ngữ cảnh crop an toàn theo manifest; không dùng ảnh để thay bằng chứng.",
+      "illustration_label_required": false,
+      "semantic_warning": "Không dùng tài sản trình bày để suy ra bằng chứng nghiên cứu mới.",
+      "status": "RESOLVED"
+    },
+    {
+      "section_id": "WEB-03",
+      "native_ui_assets": [
+        "C03",
+        "C04",
+        "C07",
+        "C28"
+      ],
+      "svg_assets": [
+        "AST-SVG-03-VI-V02"
+      ],
+      "external_context_assets": [],
+      "logo_assets": [
+        "AST-SAVA-LOGO-WEB"
+      ],
+      "production_asset_ids": [
+        "AST-SVG-03-VI-V02",
+        "AST-SAVA-LOGO-WEB"
+      ],
+      "display_priority": [
+        "NATIVE_UI",
+        "SEMANTIC_SVG",
+        "OFFICIAL_LOGO"
+      ],
+      "mobile_asset_behavior": "Ưu tiên UI native; SVG giữ toàn bộ nghĩa và chuyển bố cục nếu cần; ảnh ngữ cảnh crop an toàn theo manifest; không dùng ảnh để thay bằng chứng.",
+      "illustration_label_required": false,
+      "semantic_warning": "Không dùng tài sản trình bày để suy ra bằng chứng nghiên cứu mới.",
+      "status": "RESOLVED"
+    },
+    {
+      "section_id": "WEB-04",
+      "native_ui_assets": [
+        "C03",
+        "C08",
+        "C14",
+        "C15",
+        "C36"
+      ],
+      "svg_assets": [
+        "AST-SVG-02-VI-V03"
+      ],
+      "external_context_assets": [],
+      "logo_assets": [
+        "AST-SAVA-LOGO-WEB"
+      ],
+      "production_asset_ids": [
+        "AST-SVG-02-VI-V03",
+        "AST-SAVA-LOGO-WEB"
+      ],
+      "display_priority": [
+        "NATIVE_UI",
+        "SEMANTIC_SVG",
+        "OFFICIAL_LOGO"
+      ],
+      "mobile_asset_behavior": "Ưu tiên UI native; SVG giữ toàn bộ nghĩa và chuyển bố cục nếu cần; ảnh ngữ cảnh crop an toàn theo manifest; không dùng ảnh để thay bằng chứng.",
+      "illustration_label_required": false,
+      "semantic_warning": "Không dùng tài sản trình bày để suy ra bằng chứng nghiên cứu mới.",
+      "status": "RESOLVED"
+    },
+    {
+      "section_id": "WEB-05",
+      "native_ui_assets": [
+        "C03",
+        "C07",
+        "C10",
+        "C11",
+        "C18",
+        "C19",
+        "C37"
+      ],
+      "svg_assets": [],
+      "external_context_assets": [],
+      "logo_assets": [
+        "AST-SAVA-LOGO-WEB"
+      ],
+      "production_asset_ids": [
+        "AST-SAVA-LOGO-WEB"
+      ],
+      "display_priority": [
+        "NATIVE_UI",
+        "OFFICIAL_LOGO"
+      ],
+      "mobile_asset_behavior": "Ưu tiên UI native; SVG giữ toàn bộ nghĩa và chuyển bố cục nếu cần; ảnh ngữ cảnh crop an toàn theo manifest; không dùng ảnh để thay bằng chứng.",
+      "illustration_label_required": false,
+      "semantic_warning": "Không dùng tài sản trình bày để suy ra bằng chứng nghiên cứu mới.",
+      "status": "RESOLVED"
+    },
+    {
+      "section_id": "WEB-06",
+      "native_ui_assets": [
+        "C03",
+        "C07",
+        "C09",
+        "C10",
+        "C11",
+        "C13",
+        "C16",
+        "C17",
+        "C20",
+        "C21",
+        "C22",
+        "C27",
+        "C37"
+      ],
+      "svg_assets": [
+        "AST-SVG-04-VI-V02",
+        "AST-SVG-05-VI-V02",
+        "AST-SVG-06-VI-V02"
+      ],
+      "external_context_assets": [
+        "AST-WEB06-VC-EXT-01",
+        "AST-WEB06-WH-EXT-01"
+      ],
+      "logo_assets": [
+        "AST-SAVA-LOGO-WEB"
+      ],
+      "production_asset_ids": [
+        "AST-SVG-04-VI-V02",
+        "AST-SVG-05-VI-V02",
+        "AST-SVG-06-VI-V02",
+        "AST-WEB06-VC-EXT-01",
+        "AST-WEB06-WH-EXT-01",
+        "AST-SAVA-LOGO-WEB"
+      ],
+      "display_priority": [
+        "NATIVE_UI",
+        "SEMANTIC_SVG",
+        "SECONDARY_CONTEXT",
+        "OFFICIAL_LOGO"
+      ],
+      "mobile_asset_behavior": "Ưu tiên UI native; SVG giữ toàn bộ nghĩa và chuyển bố cục nếu cần; ảnh ngữ cảnh crop an toàn theo manifest; không dùng ảnh để thay bằng chứng.",
+      "illustration_label_required": true,
+      "semantic_warning": "Ảnh Virtual Commissioning/Warehouse chỉ minh họa bối cảnh vật lý; SVG-05/SVG-06 mới diễn giải logic mô phỏng.",
+      "status": "RESOLVED"
+    },
+    {
+      "section_id": "WEB-07",
+      "native_ui_assets": [
+        "C03",
+        "C07",
+        "C10",
+        "C11",
+        "C18",
+        "C19",
+        "C37"
+      ],
+      "svg_assets": [],
+      "external_context_assets": [],
+      "logo_assets": [
+        "AST-SAVA-LOGO-WEB"
+      ],
+      "production_asset_ids": [
+        "AST-SAVA-LOGO-WEB"
+      ],
+      "display_priority": [
+        "NATIVE_UI",
+        "OFFICIAL_LOGO"
+      ],
+      "mobile_asset_behavior": "Ưu tiên UI native; SVG giữ toàn bộ nghĩa và chuyển bố cục nếu cần; ảnh ngữ cảnh crop an toàn theo manifest; không dùng ảnh để thay bằng chứng.",
+      "illustration_label_required": false,
+      "semantic_warning": "Không dùng tài sản trình bày để suy ra bằng chứng nghiên cứu mới.",
+      "status": "RESOLVED"
+    },
+    {
+      "section_id": "WEB-08",
+      "native_ui_assets": [
+        "C03",
+        "C07",
+        "C09",
+        "C10",
+        "C11",
+        "C13",
+        "C16",
+        "C17",
+        "C20",
+        "C21",
+        "C22",
+        "C27",
+        "C37"
+      ],
+      "svg_assets": [
+        "AST-SVG-07-VI-V02",
+        "AST-SVG-08-VI-V02",
+        "AST-SVG-09-VI-V02"
+      ],
+      "external_context_assets": [
+        "AST-WEB08-PZ-EXT-01",
+        "AST-WEB08-SP-EXT-01"
+      ],
+      "logo_assets": [
+        "AST-SAVA-LOGO-WEB"
+      ],
+      "production_asset_ids": [
+        "AST-SVG-07-VI-V02",
+        "AST-SVG-08-VI-V02",
+        "AST-SVG-09-VI-V02",
+        "AST-WEB08-PZ-EXT-01",
+        "AST-WEB08-SP-EXT-01",
+        "AST-SAVA-LOGO-WEB"
+      ],
+      "display_priority": [
+        "NATIVE_UI",
+        "SEMANTIC_SVG",
+        "SECONDARY_CONTEXT",
+        "OFFICIAL_LOGO"
+      ],
+      "mobile_asset_behavior": "Ưu tiên UI native; SVG giữ toàn bộ nghĩa và chuyển bố cục nếu cần; ảnh ngữ cảnh crop an toàn theo manifest; không dùng ảnh để thay bằng chứng.",
+      "illustration_label_required": true,
+      "semantic_warning": "Ảnh Sports/Puzzle chỉ minh họa bối cảnh; không chứng minh wedge thể thao hay triển khai VR cụ thể.",
+      "status": "RESOLVED"
+    },
+    {
+      "section_id": "WEB-09",
+      "native_ui_assets": [
+        "C03",
+        "C04",
+        "C05",
+        "C07",
+        "C16",
+        "C17",
+        "C28",
+        "C37"
+      ],
+      "svg_assets": [
+        "AST-SVG-10-VI-V02"
+      ],
+      "external_context_assets": [],
+      "logo_assets": [
+        "AST-SAVA-LOGO-WEB"
+      ],
+      "production_asset_ids": [
+        "AST-SVG-10-VI-V02",
+        "AST-SAVA-LOGO-WEB"
+      ],
+      "display_priority": [
+        "NATIVE_UI",
+        "SEMANTIC_SVG",
+        "OFFICIAL_LOGO"
+      ],
+      "mobile_asset_behavior": "Ưu tiên UI native; SVG giữ toàn bộ nghĩa và chuyển bố cục nếu cần; ảnh ngữ cảnh crop an toàn theo manifest; không dùng ảnh để thay bằng chứng.",
+      "illustration_label_required": false,
+      "semantic_warning": "Không dùng tài sản trình bày để suy ra bằng chứng nghiên cứu mới.",
+      "status": "RESOLVED"
+    },
+    {
+      "section_id": "WEB-10",
+      "native_ui_assets": [
+        "C03",
+        "C07",
+        "C08",
+        "C10",
+        "C11",
+        "C29",
+        "C30",
+        "C35",
+        "C37"
+      ],
+      "svg_assets": [],
+      "external_context_assets": [],
+      "logo_assets": [
+        "AST-SAVA-LOGO-WEB"
+      ],
+      "production_asset_ids": [
+        "AST-SAVA-LOGO-WEB"
+      ],
+      "display_priority": [
+        "NATIVE_UI",
+        "OFFICIAL_LOGO"
+      ],
+      "mobile_asset_behavior": "Ưu tiên UI native; SVG giữ toàn bộ nghĩa và chuyển bố cục nếu cần; ảnh ngữ cảnh crop an toàn theo manifest; không dùng ảnh để thay bằng chứng.",
+      "illustration_label_required": false,
+      "semantic_warning": "Không dùng tài sản trình bày để suy ra bằng chứng nghiên cứu mới.",
+      "status": "RESOLVED"
+    },
+    {
+      "section_id": "WEB-11",
+      "native_ui_assets": [
+        "C03",
+        "C07",
+        "C09",
+        "C12",
+        "C13",
+        "C21",
+        "C22",
+        "C23",
+        "C24",
+        "C25",
+        "C26",
+        "C29",
+        "C37"
+      ],
+      "svg_assets": [
+        "AST-SVG-11-VI-V02"
+      ],
+      "external_context_assets": [
+        "AST-WEB11-HC-EXT-01"
+      ],
+      "logo_assets": [
+        "AST-SAVA-LOGO-WEB"
+      ],
+      "production_asset_ids": [
+        "AST-SVG-11-VI-V02",
+        "AST-WEB11-HC-EXT-01",
+        "AST-SAVA-LOGO-WEB"
+      ],
+      "display_priority": [
+        "NATIVE_UI",
+        "SEMANTIC_SVG",
+        "SECONDARY_CONTEXT",
+        "OFFICIAL_LOGO"
+      ],
+      "mobile_asset_behavior": "Ưu tiên UI native; SVG giữ toàn bộ nghĩa và chuyển bố cục nếu cần; ảnh ngữ cảnh crop an toàn theo manifest; không dùng ảnh để thay bằng chứng.",
+      "illustration_label_required": true,
+      "semantic_warning": "Ảnh Healthcare không chứng minh khách hàng, triển khai hoặc năng lực lâm sàng của SAVA.",
+      "status": "RESOLVED"
+    },
+    {
+      "section_id": "WEB-12",
+      "native_ui_assets": [
+        "C03",
+        "C07",
+        "C09",
+        "C12",
+        "C13",
+        "C21",
+        "C23",
+        "C24",
+        "C25",
+        "C26",
+        "C29",
+        "C34",
+        "C37"
+      ],
+      "svg_assets": [
+        "AST-SVG-12-VI-V02"
+      ],
+      "external_context_assets": [
+        "AST-WEB12-MU-EXT-01"
+      ],
+      "logo_assets": [
+        "AST-SAVA-LOGO-WEB"
+      ],
+      "production_asset_ids": [
+        "AST-SVG-12-VI-V02",
+        "AST-WEB12-MU-EXT-01",
+        "AST-SAVA-LOGO-WEB"
+      ],
+      "display_priority": [
+        "NATIVE_UI",
+        "SEMANTIC_SVG",
+        "SECONDARY_CONTEXT",
+        "OFFICIAL_LOGO"
+      ],
+      "mobile_asset_behavior": "Ưu tiên UI native; SVG giữ toàn bộ nghĩa và chuyển bố cục nếu cần; ảnh ngữ cảnh crop an toàn theo manifest; không dùng ảnh để thay bằng chứng.",
+      "illustration_label_required": true,
+      "semantic_warning": "Ảnh Music không chứng minh full game, catalog bản quyền hay Music World 2.",
+      "status": "RESOLVED"
+    },
+    {
+      "section_id": "WEB-13",
+      "native_ui_assets": [
+        "C03",
+        "C07",
+        "C31",
+        "C32",
+        "C33"
+      ],
+      "svg_assets": [
+        "AST-SVG-13-VI-V02"
+      ],
+      "external_context_assets": [],
+      "logo_assets": [
+        "AST-SAVA-LOGO-WEB"
+      ],
+      "production_asset_ids": [
+        "AST-SVG-13-VI-V02",
+        "AST-SAVA-LOGO-WEB"
+      ],
+      "display_priority": [
+        "NATIVE_UI",
+        "SEMANTIC_SVG",
+        "OFFICIAL_LOGO"
+      ],
+      "mobile_asset_behavior": "Ưu tiên UI native; SVG giữ toàn bộ nghĩa và chuyển bố cục nếu cần; ảnh ngữ cảnh crop an toàn theo manifest; không dùng ảnh để thay bằng chứng.",
+      "illustration_label_required": false,
+      "semantic_warning": "Không dùng tài sản trình bày để suy ra bằng chứng nghiên cứu mới.",
+      "status": "RESOLVED"
+    },
+    {
+      "section_id": "WEB-14",
+      "native_ui_assets": [
+        "C03",
+        "C07",
+        "C30",
+        "C34",
+        "C35"
+      ],
+      "svg_assets": [
+        "AST-SVG-14-VI-V03"
+      ],
+      "external_context_assets": [],
+      "logo_assets": [
+        "AST-SAVA-LOGO-WEB"
+      ],
+      "production_asset_ids": [
+        "AST-SVG-14-VI-V03",
+        "AST-SAVA-LOGO-WEB"
+      ],
+      "display_priority": [
+        "NATIVE_UI",
+        "SEMANTIC_SVG",
+        "OFFICIAL_LOGO"
+      ],
+      "mobile_asset_behavior": "Ưu tiên UI native; SVG giữ toàn bộ nghĩa và chuyển bố cục nếu cần; ảnh ngữ cảnh crop an toàn theo manifest; không dùng ảnh để thay bằng chứng.",
+      "illustration_label_required": false,
+      "semantic_warning": "Không dùng tài sản trình bày để suy ra bằng chứng nghiên cứu mới.",
+      "status": "RESOLVED"
+    },
+    {
+      "section_id": "WEB-15",
+      "native_ui_assets": [
+        "C03",
+        "C07",
+        "C11",
+        "C13",
+        "C26",
+        "C35",
+        "C36",
+        "C37"
+      ],
+      "svg_assets": [],
+      "external_context_assets": [],
+      "logo_assets": [
+        "AST-SAVA-LOGO-WEB"
+      ],
+      "production_asset_ids": [
+        "AST-SAVA-LOGO-WEB"
+      ],
+      "display_priority": [
+        "NATIVE_UI",
+        "OFFICIAL_LOGO"
+      ],
+      "mobile_asset_behavior": "Ưu tiên UI native; SVG giữ toàn bộ nghĩa và chuyển bố cục nếu cần; ảnh ngữ cảnh crop an toàn theo manifest; không dùng ảnh để thay bằng chứng.",
+      "illustration_label_required": false,
+      "semantic_warning": "Không dùng tài sản trình bày để suy ra bằng chứng nghiên cứu mới.",
+      "status": "RESOLVED"
+    },
+    {
+      "section_id": "WEB-16",
+      "native_ui_assets": [
+        "C02",
+        "C03",
+        "C07",
+        "C08",
+        "C09",
+        "C10",
+        "C11",
+        "C12",
+        "C13",
+        "C37",
+        "C38",
+        "C39",
+        "C40"
+      ],
+      "svg_assets": [],
+      "external_context_assets": [],
+      "logo_assets": [
+        "AST-SAVA-LOGO-WEB"
+      ],
+      "production_asset_ids": [
+        "AST-SAVA-LOGO-WEB"
+      ],
+      "display_priority": [
+        "NATIVE_UI",
+        "OFFICIAL_LOGO"
+      ],
+      "mobile_asset_behavior": "Ưu tiên UI native; SVG giữ toàn bộ nghĩa và chuyển bố cục nếu cần; ảnh ngữ cảnh crop an toàn theo manifest; không dùng ảnh để thay bằng chứng.",
+      "illustration_label_required": false,
+      "semantic_warning": "Không dùng tài sản trình bày để suy ra bằng chứng nghiên cứu mới.",
+      "status": "RESOLVED"
+    },
+    {
+      "section_id": "WEB-17",
+      "native_ui_assets": [
+        "C03",
+        "C04",
+        "C05",
+        "C06",
+        "C07",
+        "C24",
+        "C26",
+        "C31",
+        "C32",
+        "C33"
+      ],
+      "svg_assets": [],
+      "external_context_assets": [],
+      "logo_assets": [
+        "AST-SAVA-LOGO-WEB"
+      ],
+      "production_asset_ids": [
+        "AST-SAVA-LOGO-WEB"
+      ],
+      "display_priority": [
+        "NATIVE_UI",
+        "OFFICIAL_LOGO"
+      ],
+      "mobile_asset_behavior": "Ưu tiên UI native; SVG giữ toàn bộ nghĩa và chuyển bố cục nếu cần; ảnh ngữ cảnh crop an toàn theo manifest; không dùng ảnh để thay bằng chứng.",
+      "illustration_label_required": false,
+      "semantic_warning": "Không dùng tài sản trình bày để suy ra bằng chứng nghiên cứu mới.",
+      "status": "RESOLVED"
+    },
+    {
+      "section_id": "WEB-18",
+      "native_ui_assets": [
+        "C02",
+        "C03",
+        "C07",
+        "C10",
+        "C35",
+        "C36",
+        "C37",
+        "C38",
+        "C39",
+        "C40"
+      ],
+      "svg_assets": [],
+      "external_context_assets": [],
+      "logo_assets": [
+        "AST-SAVA-LOGO-WEB"
+      ],
+      "production_asset_ids": [
+        "AST-SAVA-LOGO-WEB"
+      ],
+      "display_priority": [
+        "NATIVE_UI",
+        "OFFICIAL_LOGO"
+      ],
+      "mobile_asset_behavior": "Ưu tiên UI native; SVG giữ toàn bộ nghĩa và chuyển bố cục nếu cần; ảnh ngữ cảnh crop an toàn theo manifest; không dùng ảnh để thay bằng chứng.",
+      "illustration_label_required": false,
+      "semantic_warning": "Không dùng tài sản trình bày để suy ra bằng chứng nghiên cứu mới.",
+      "status": "RESOLVED"
+    }
+  ],
+  "validation": {
+    "production_svg_count": 14,
+    "external_context_image_count": 6,
+    "official_logo_count": 1,
+    "missing_production_drive_id_count": 0,
+    "hotlinked_production_image_count": 0,
+    "unresolved_asset_slot_count": 0,
+    "visual_qa": "PASS",
+    "language_qa": "PASS"
+  }
+}

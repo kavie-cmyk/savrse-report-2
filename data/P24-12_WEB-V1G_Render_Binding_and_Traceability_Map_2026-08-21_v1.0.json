@@ -1,0 +1,5114 @@
+{
+  "metadata": {
+    "phase_id": "P24-12-WEB-V1G",
+    "version": "v1.0",
+    "date": "2026-08-21",
+    "status": "COMPLETE",
+    "component_contract_authority": "WEB-V1C C01–C40; sections_used immutable"
+  },
+  "components": [
+    {
+      "component_id": "C01",
+      "component_name": "ExecutiveHero",
+      "sections_used": [
+        "WEB-01"
+      ]
+    },
+    {
+      "component_id": "C02",
+      "component_name": "SourceStatePill",
+      "sections_used": [
+        "WEB-01",
+        "WEB-02",
+        "WEB-16",
+        "WEB-18"
+      ]
+    },
+    {
+      "component_id": "C03",
+      "component_name": "StickyAnchorNav",
+      "sections_used": [
+        "WEB-01",
+        "WEB-02",
+        "WEB-03",
+        "WEB-04",
+        "WEB-05",
+        "WEB-06",
+        "WEB-07",
+        "WEB-08",
+        "WEB-09",
+        "WEB-10",
+        "WEB-11",
+        "WEB-12",
+        "WEB-13",
+        "WEB-14",
+        "WEB-15",
+        "WEB-16",
+        "WEB-17",
+        "WEB-18"
+      ]
+    },
+    {
+      "component_id": "C04",
+      "component_name": "ThesisStrip",
+      "sections_used": [
+        "WEB-01",
+        "WEB-03",
+        "WEB-09",
+        "WEB-17"
+      ]
+    },
+    {
+      "component_id": "C05",
+      "component_name": "DecisionNowCard",
+      "sections_used": [
+        "WEB-01",
+        "WEB-09",
+        "WEB-17"
+      ]
+    },
+    {
+      "component_id": "C06",
+      "component_name": "NotYetApprovedCard",
+      "sections_used": [
+        "WEB-01",
+        "WEB-17"
+      ]
+    },
+    {
+      "component_id": "C07",
+      "component_name": "SectionIntro",
+      "sections_used": [
+        "WEB-02",
+        "WEB-03",
+        "WEB-05",
+        "WEB-06",
+        "WEB-07",
+        "WEB-08",
+        "WEB-09",
+        "WEB-10",
+        "WEB-11",
+        "WEB-12",
+        "WEB-13",
+        "WEB-14",
+        "WEB-15",
+        "WEB-16",
+        "WEB-17",
+        "WEB-18"
+      ]
+    },
+    {
+      "component_id": "C08",
+      "component_name": "KeyNumberCard",
+      "sections_used": [
+        "WEB-02",
+        "WEB-04",
+        "WEB-10",
+        "WEB-16"
+      ]
+    },
+    {
+      "component_id": "C09",
+      "component_name": "QuantEvidenceCard",
+      "sections_used": [
+        "WEB-02",
+        "WEB-06",
+        "WEB-08",
+        "WEB-11",
+        "WEB-12",
+        "WEB-16"
+      ]
+    },
+    {
+      "component_id": "C10",
+      "component_name": "EvidenceClassBadge",
+      "sections_used": [
+        "WEB-02",
+        "WEB-05",
+        "WEB-06",
+        "WEB-07",
+        "WEB-08",
+        "WEB-10",
+        "WEB-16",
+        "WEB-18"
+      ]
+    },
+    {
+      "component_id": "C11",
+      "component_name": "CaveatBadge",
+      "sections_used": [
+        "WEB-02",
+        "WEB-05",
+        "WEB-06",
+        "WEB-07",
+        "WEB-08",
+        "WEB-10",
+        "WEB-15",
+        "WEB-16"
+      ]
+    },
+    {
+      "component_id": "C12",
+      "component_name": "ProvesNotProvesPair",
+      "sections_used": [
+        "WEB-02",
+        "WEB-11",
+        "WEB-12",
+        "WEB-16"
+      ]
+    },
+    {
+      "component_id": "C13",
+      "component_name": "EvidenceStrip",
+      "sections_used": [
+        "WEB-02",
+        "WEB-06",
+        "WEB-08",
+        "WEB-11",
+        "WEB-12",
+        "WEB-15",
+        "WEB-16"
+      ]
+    },
+    {
+      "component_id": "C14",
+      "component_name": "DualFunnel",
+      "sections_used": [
+        "WEB-04"
+      ]
+    },
+    {
+      "component_id": "C15",
+      "component_name": "FunnelStage",
+      "sections_used": [
+        "WEB-04"
+      ]
+    },
+    {
+      "component_id": "C16",
+      "component_name": "RankLadder",
+      "sections_used": [
+        "WEB-06",
+        "WEB-08",
+        "WEB-09"
+      ]
+    },
+    {
+      "component_id": "C17",
+      "component_name": "RankRow",
+      "sections_used": [
+        "WEB-06",
+        "WEB-08",
+        "WEB-09"
+      ]
+    },
+    {
+      "component_id": "C18",
+      "component_name": "ShortlistExplorer",
+      "sections_used": [
+        "WEB-05",
+        "WEB-07"
+      ]
+    },
+    {
+      "component_id": "C19",
+      "component_name": "ShortlistRow",
+      "sections_used": [
+        "WEB-05",
+        "WEB-07"
+      ]
+    },
+    {
+      "component_id": "C20",
+      "component_name": "FinalistProfileCard",
+      "sections_used": [
+        "WEB-06",
+        "WEB-08"
+      ]
+    },
+    {
+      "component_id": "C21",
+      "component_name": "DeepDiveProfile",
+      "sections_used": [
+        "WEB-06",
+        "WEB-08",
+        "WEB-11",
+        "WEB-12"
+      ]
+    },
+    {
+      "component_id": "C22",
+      "component_name": "BuyerUserPayerCard",
+      "sections_used": [
+        "WEB-06",
+        "WEB-08",
+        "WEB-11"
+      ]
+    },
+    {
+      "component_id": "C23",
+      "component_name": "WorkflowDiagram",
+      "sections_used": [
+        "WEB-11",
+        "WEB-12"
+      ]
+    },
+    {
+      "component_id": "C24",
+      "component_name": "ValidationPath",
+      "sections_used": [
+        "WEB-11",
+        "WEB-12",
+        "WEB-17"
+      ]
+    },
+    {
+      "component_id": "C25",
+      "component_name": "GateNode",
+      "sections_used": [
+        "WEB-11",
+        "WEB-12"
+      ]
+    },
+    {
+      "component_id": "C26",
+      "component_name": "KillGateCard",
+      "sections_used": [
+        "WEB-11",
+        "WEB-12",
+        "WEB-15",
+        "WEB-17"
+      ]
+    },
+    {
+      "component_id": "C27",
+      "component_name": "ComparisonMatrix",
+      "sections_used": [
+        "WEB-06",
+        "WEB-08"
+      ]
+    },
+    {
+      "component_id": "C28",
+      "component_name": "MarketVsSAVASplitPanel",
+      "sections_used": [
+        "WEB-03",
+        "WEB-09"
+      ]
+    },
+    {
+      "component_id": "C29",
+      "component_name": "CapabilityGapCard",
+      "sections_used": [
+        "WEB-10",
+        "WEB-11",
+        "WEB-12"
+      ]
+    },
+    {
+      "component_id": "C30",
+      "component_name": "ReuseBoundaryCard",
+      "sections_used": [
+        "WEB-10",
+        "WEB-14"
+      ]
+    },
+    {
+      "component_id": "C31",
+      "component_name": "PortfolioMap",
+      "sections_used": [
+        "WEB-13",
+        "WEB-17"
+      ]
+    },
+    {
+      "component_id": "C32",
+      "component_name": "PortfolioRoleCard",
+      "sections_used": [
+        "WEB-13",
+        "WEB-17"
+      ]
+    },
+    {
+      "component_id": "C33",
+      "component_name": "SequencingLine",
+      "sections_used": [
+        "WEB-13",
+        "WEB-17"
+      ]
+    },
+    {
+      "component_id": "C34",
+      "component_name": "MusicWorldSeparationPanel",
+      "sections_used": [
+        "WEB-12",
+        "WEB-14"
+      ]
+    },
+    {
+      "component_id": "C35",
+      "component_name": "UncertaintyCard",
+      "sections_used": [
+        "WEB-10",
+        "WEB-14",
+        "WEB-15",
+        "WEB-18"
+      ]
+    },
+    {
+      "component_id": "C36",
+      "component_name": "MethodologyAccordion",
+      "sections_used": [
+        "WEB-04",
+        "WEB-15",
+        "WEB-18"
+      ]
+    },
+    {
+      "component_id": "C37",
+      "component_name": "CitationTrigger",
+      "sections_used": [
+        "WEB-01",
+        "WEB-02",
+        "WEB-05",
+        "WEB-06",
+        "WEB-07",
+        "WEB-08",
+        "WEB-09",
+        "WEB-10",
+        "WEB-11",
+        "WEB-12",
+        "WEB-15",
+        "WEB-16",
+        "WEB-18"
+      ]
+    },
+    {
+      "component_id": "C38",
+      "component_name": "CitationDrawer",
+      "sections_used": [
+        "WEB-02",
+        "WEB-16",
+        "WEB-18"
+      ]
+    },
+    {
+      "component_id": "C39",
+      "component_name": "SourceRegisterRow",
+      "sections_used": [
+        "WEB-16",
+        "WEB-18"
+      ]
+    },
+    {
+      "component_id": "C40",
+      "component_name": "TechnicalTraceabilityBlock",
+      "sections_used": [
+        "WEB-16",
+        "WEB-18"
+      ]
+    }
+  ],
+  "render_bindings": [
+    {
+      "binding_id": "RB::PRIMARY::WEB01-HERO-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-01",
+      "content_object_id": "WEB01-HERO-01",
+      "data_object_id": "WEB01-HERO-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB01-HEALTHCARE-PRIORITY",
+        "CLM-WEB01-MUSIC-PRIORITY",
+        "CLM-WEB01-NO-CASH-ENGINE"
+      ],
+      "source_ids": [
+        "S32",
+        "S33",
+        "S34"
+      ],
+      "data_source_component_id": "C01",
+      "render_component_id": "C01",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Thị trường cho thấy Y tế là cơ hội B2B/B2G mạnh nhất; Thể thao đứng #1 B2C nhưng Âm nhạc là hướng B2C SAVA nên kiểm chứng trước. Việc cần làm bây giờ không phải mở hai chương trình sản phẩm đầy đủ, mà mua thêm bằng chứng theo hai đường: Y tế — đối tác/người mua trước; Âm nhạc — bản thử nghiệm trước. Mục tiêu: giảm bất định và giữ quyền dừng.",
+      "accessibility_behavior": "Thị trường cho thấy Y tế là cơ hội B2B/B2G mạnh nhất; Thể thao đứng #1 B2C nhưng Âm nhạc là hướng B2C SAVA nên kiểm chứng trước. Việc cần làm bây giờ không phải mở hai chương trình sản phẩm đầy đủ, mà mua thêm bằng chứng theo hai đường: Y tế — đối tác/người mua trước; Âm nhạc — bản thử nghiệm trước. Mục tiêu: giảm bất định và giữ quyền dừng.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB01-MARKET-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-01",
+      "content_object_id": "WEB01-MARKET-01",
+      "data_object_id": "WEB01-MARKET-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB01-HEALTHCARE-PRIORITY",
+        "CLM-WEB01-MUSIC-PRIORITY"
+      ],
+      "source_ids": [
+        "S32",
+        "S34"
+      ],
+      "data_source_component_id": "C04",
+      "render_component_id": "C04",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "B2B/B2G: #1 Healthcare. B2C: #1 Sports, #2 Music. Các thứ hạng bên ngoài đã khóa và không thay đổi.",
+      "accessibility_behavior": "B2B/B2G: #1 Healthcare. B2C: #1 Sports, #2 Music. Các thứ hạng bên ngoài đã khóa và không thay đổi.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB01-SAVA-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-01",
+      "content_object_id": "WEB01-SAVA-01",
+      "data_object_id": "WEB01-SAVA-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB01-HEALTHCARE-PRIORITY",
+        "CLM-WEB01-MUSIC-PRIORITY"
+      ],
+      "source_ids": [
+        "S34",
+        "S32"
+      ],
+      "data_source_component_id": "C05",
+      "render_component_id": "C05",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Kiểm chứng Healthcare theo đối tác/người mua trước và Music theo bản thử nghiệm trước; giữ Warehouse theo điều kiện, Puzzle là hướng thách thức nhỏ và Sports ở bước tìm ngách hành động khác biệt.",
+      "accessibility_behavior": "Kiểm chứng Healthcare theo đối tác/người mua trước và Music theo bản thử nghiệm trước; giữ Warehouse theo điều kiện, Puzzle là hướng thách thức nhỏ và Sports ở bước tìm ngách hành động khác biệt.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB01-NOTAPPROVED-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-01",
+      "content_object_id": "WEB01-NOTAPPROVED-01",
+      "data_object_id": "WEB01-NOTAPPROVED-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB01-HEALTHCARE-PRIORITY",
+        "CLM-WEB01-MUSIC-PRIORITY",
+        "CLM-WEB01-NO-CASH-ENGINE"
+      ],
+      "source_ids": [
+        "S32",
+        "S33",
+        "S34"
+      ],
+      "data_source_component_id": "C06",
+      "render_component_id": "C06",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Chưa phê duyệt hai chương trình xây sản phẩm quy mô đầy đủ song song; chưa phê duyệt đội lớn, ngân sách cụ thể, dự báo doanh thu, thủ thuật lâm sàng cụ thể, môn thể thao cụ thể hoặc danh mục nhạc lớn.",
+      "accessibility_behavior": "Chưa phê duyệt hai chương trình xây sản phẩm quy mô đầy đủ song song; chưa phê duyệt đội lớn, ngân sách cụ thể, dự báo doanh thu, thủ thuật lâm sàng cụ thể, môn thể thao cụ thể hoặc danh mục nhạc lớn.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB01-HC-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-01",
+      "content_object_id": "WEB01-HC-01",
+      "data_object_id": "WEB01-HC-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB01-HEALTHCARE-PRIORITY",
+        "CLM-WEB01-MUSIC-PRIORITY",
+        "CLM-WEB01-NO-CASH-ENGINE"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S32",
+        "S33",
+        "S34"
+      ],
+      "data_source_component_id": "C05",
+      "render_component_id": "C05",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Trước khi xây đáng kể: khóa đối tác/thẩm quyền chuyên môn, người mua/người bảo trợ có tên và cam kết thương mại trả phí; sau đó mới kiểm tra mua sắm, tái sử dụng và hiệu quả kinh tế.",
+      "accessibility_behavior": "Trước khi xây đáng kể: khóa đối tác/thẩm quyền chuyên môn, người mua/người bảo trợ có tên và cam kết thương mại trả phí; sau đó mới kiểm tra mua sắm, tái sử dụng và hiệu quả kinh tế.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB01-MUSIC-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-01",
+      "content_object_id": "WEB01-MUSIC-01",
+      "data_object_id": "WEB01-MUSIC-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB01-HEALTHCARE-PRIORITY",
+        "CLM-WEB01-MUSIC-PRIORITY",
+        "CLM-WEB01-NO-CASH-ENGINE"
+      ],
+      "source_ids": [
+        "S16",
+        "S17",
+        "S23",
+        "S32",
+        "S33",
+        "S34"
+      ],
+      "data_source_component_id": "C05",
+      "render_component_id": "C05",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Bản thử nghiệm phải chứng minh hành động cốt lõi, độ tin cậy về nhịp/thời điểm, giá trị riêng của VR, tự nguyện chơi lại, gánh nặng tạo nội dung, tín hiệu sẵn sàng trả tiền, phân phối và kinh tế bản quyền.",
+      "accessibility_behavior": "Bản thử nghiệm phải chứng minh hành động cốt lõi, độ tin cậy về nhịp/thời điểm, giá trị riêng của VR, tự nguyện chơi lại, gánh nặng tạo nội dung, tín hiệu sẵn sàng trả tiền, phân phối và kinh tế bản quyền.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB01-SOURCE-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-01",
+      "content_object_id": "WEB01-SOURCE-01",
+      "data_object_id": "WEB01-SOURCE-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB01-HEALTHCARE-PRIORITY",
+        "CLM-WEB01-MUSIC-PRIORITY",
+        "CLM-WEB01-NO-CASH-ENGINE"
+      ],
+      "source_ids": [
+        "S32",
+        "S33",
+        "S34"
+      ],
+      "data_source_component_id": "C02",
+      "render_component_id": "C02",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Đang dùng bản RPT-4R2 đã lưu, revision AIroW34j4lAIrza169s6Q-MxhsGiwStBIB-L7YxxqnVT3bB2MBtnSOXkCPKbqN4wyiza6XtZdMVBPpGzGcg0vop6zesgQVbwaa7bPAnvUQ; đã ghi nhận việc người dùng tự sửa lỗi xuất bản; phụ thuộc RPT-5R được miễn cho nhánh WEB; sai lệch ngữ nghĩa trọng yếu: KHÔNG.",
+      "accessibility_behavior": "Đang dùng bản RPT-4R2 đã lưu, revision AIroW34j4lAIrza169s6Q-MxhsGiwStBIB-L7YxxqnVT3bB2MBtnSOXkCPKbqN4wyiza6XtZdMVBPpGzGcg0vop6zesgQVbwaa7bPAnvUQ; đã ghi nhận việc người dùng tự sửa lỗi xuất bản; phụ thuộc RPT-5R được miễn cho nhánh WEB; sai lệch ngữ nghĩa trọng yếu: KHÔNG.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB02-UNIVERSE-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-02",
+      "content_object_id": "WEB02-UNIVERSE-01",
+      "data_object_id": "WEB02-UNIVERSE-01",
+      "metric_ids": [
+        "Q::S31::OPPORTUNITY_UNIVERSE_TOTAL",
+        "Q::S31::RANKABLE_RECORDS",
+        "Q::S31::UMBRELLA_NONRANKABLE_RECORDS"
+      ],
+      "claim_ids": [
+        "CLM-WEB02-UNIVERSE-COUNT",
+        "CLM-WEB02-RANKABLE-UMBRELLA"
+      ],
+      "source_ids": [
+        "S31"
+      ],
+      "data_source_component_id": "C08",
+      "render_component_id": "C08",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "96 bản ghi có thể xếp hạng + 16 nhóm bao trùm/không xếp hạng.",
+      "accessibility_behavior": "96 bản ghi có thể xếp hạng + 16 nhóm bao trùm/không xếp hạng.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB02-FUNNELS-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-02",
+      "content_object_id": "WEB02-FUNNELS-01",
+      "data_object_id": "WEB02-FUNNELS-01",
+      "metric_ids": [
+        "Q::S32::B2B_FUNNEL",
+        "Q::S32::B2C_FUNNEL"
+      ],
+      "claim_ids": [
+        "CLM-WEB02-UNIVERSE-COUNT",
+        "CLM-WEB02-RANKABLE-UMBRELLA"
+      ],
+      "source_ids": [
+        "S32",
+        "S31"
+      ],
+      "data_source_component_id": "C12",
+      "render_component_id": "C12",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "65→12→5→3 và 32→11→5→3 là hai đường thu hẹp nghiên cứu.",
+      "accessibility_behavior": "65→12→5→3 và 32→11→5→3 là hai đường thu hẹp nghiên cứu.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB02-EVIDENCE-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-02",
+      "content_object_id": "WEB02-EVIDENCE-01",
+      "data_object_id": "WEB02-EVIDENCE-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB02-UNIVERSE-COUNT",
+        "CLM-WEB02-RANKABLE-UMBRELLA"
+      ],
+      "source_ids": [
+        "S31"
+      ],
+      "data_source_component_id": "C10",
+      "render_component_id": "C10",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Mỗi con số phải đi kèm lớp bằng chứng, điều nó cho thấy và điều nó chưa chứng minh được.",
+      "accessibility_behavior": "Mỗi con số phải đi kèm lớp bằng chứng, điều nó cho thấy và điều nó chưa chứng minh được.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB03-B2B-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-03",
+      "content_object_id": "WEB03-B2B-01",
+      "data_object_id": "WEB03-B2B-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB03-B2B-FUNNEL"
+      ],
+      "source_ids": [
+        "S32"
+      ],
+      "data_source_component_id": "C28",
+      "render_component_id": "C28",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Vấn đề → người dùng → người bảo trợ/chủ ngân sách → mua sắm → triển khai → kinh tế lặp lại.",
+      "accessibility_behavior": "Vấn đề → người dùng → người bảo trợ/chủ ngân sách → mua sắm → triển khai → kinh tế lặp lại.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB03-B2C-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-03",
+      "content_object_id": "WEB03-B2C-01",
+      "data_object_id": "WEB03-B2C-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB03-B2B-FUNNEL"
+      ],
+      "source_ids": [
+        "S32"
+      ],
+      "data_source_component_id": "C28",
+      "render_component_id": "C28",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Hành động/tiện ích → giá trị riêng của VR → kiến trúc trả phí → chơi lại/duy trì → phân phối.",
+      "accessibility_behavior": "Hành động/tiện ích → giá trị riêng của VR → kiến trúc trả phí → chơi lại/duy trì → phân phối.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB03-ROLES-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-03",
+      "content_object_id": "WEB03-ROLES-01",
+      "data_object_id": "WEB03-ROLES-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB03-B2B-FUNNEL"
+      ],
+      "source_ids": [
+        "S32"
+      ],
+      "data_source_component_id": "C22",
+      "render_component_id": "C04",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Website chỉ gắn nhãn người mua/người trả tiền khi báo cáo hỗ trợ; nếu không, hiển thị CHƯA XÁC ĐỊNH / NGUỒN KHÔNG NÊU.",
+      "accessibility_behavior": "Website chỉ gắn nhãn người mua/người trả tiền khi báo cáo hỗ trợ; nếu không, hiển thị CHƯA XÁC ĐỊNH / NGUỒN KHÔNG NÊU.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB04-B2B-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-04",
+      "content_object_id": "WEB04-B2B-01",
+      "data_object_id": "WEB04-B2B-01",
+      "metric_ids": [
+        "Q::S32::B2B_FUNNEL"
+      ],
+      "claim_ids": [
+        "CLM-WEB04-B2C-FUNNEL"
+      ],
+      "source_ids": [
+        "S32"
+      ],
+      "data_source_component_id": "C14",
+      "render_component_id": "C14",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "65 → 12 → 5 → 3.",
+      "accessibility_behavior": "65 → 12 → 5 → 3.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB04-B2C-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-04",
+      "content_object_id": "WEB04-B2C-01",
+      "data_object_id": "WEB04-B2C-01",
+      "metric_ids": [
+        "Q::S32::B2C_FUNNEL"
+      ],
+      "claim_ids": [
+        "CLM-WEB04-B2C-FUNNEL"
+      ],
+      "source_ids": [
+        "S32"
+      ],
+      "data_source_component_id": "C14",
+      "render_component_id": "C14",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "32 → 11 → 5 → 3.",
+      "accessibility_behavior": "32 → 11 → 5 → 3.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB04-STAGES-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-04",
+      "content_object_id": "WEB04-STAGES-01",
+      "data_object_id": "WEB04-STAGES-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB04-B2C-FUNNEL"
+      ],
+      "source_ids": [
+        "S32",
+        "S34"
+      ],
+      "data_source_component_id": "C15",
+      "render_component_id": "C15",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Xếp hạng thị trường bên ngoài giữ nguyên; hành động của SAVA là lớp sau khóa, tách biệt.",
+      "accessibility_behavior": "Xếp hạng thị trường bên ngoài giữ nguyên; hành động của SAVA là lớp sau khóa, tách biệt.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB05-EXPLORER-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-05",
+      "content_object_id": "WEB05-EXPLORER-01",
+      "data_object_id": "WEB05-EXPLORER-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB05-MARKET-RANK-SAVA-OVERLAY"
+      ],
+      "source_ids": [
+        "S32",
+        "S34"
+      ],
+      "data_source_component_id": "C18",
+      "render_component_id": "C18",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Lọc theo trạng thái vào vòng cuối, kết quả và lưu ý bằng chứng.",
+      "accessibility_behavior": "Lọc theo trạng thái vào vòng cuối, kết quả và lưu ý bằng chứng.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB05-RULE-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-05",
+      "content_object_id": "WEB05-RULE-01",
+      "data_object_id": "WEB05-RULE-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB05-MARKET-RANK-SAVA-OVERLAY"
+      ],
+      "source_ids": [
+        "S32",
+        "S34"
+      ],
+      "data_source_component_id": "C11",
+      "render_component_id": "C11",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Kết quả phản ánh mức tiến xa tương đối trong quy trình thu hẹp nghiên cứu này, không phải kết luận nhu cầu bằng không.",
+      "accessibility_behavior": "Kết quả phản ánh mức tiến xa tương đối trong quy trình thu hẹp nghiên cứu này, không phải kết luận nhu cầu bằng không.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB06-RANK-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-06",
+      "content_object_id": "WEB06-RANK-01",
+      "data_object_id": "WEB06-RANK-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB06-B2B-RANK-01",
+        "CLM-WEB06-B2B-RANK-02",
+        "CLM-WEB06-B2B-RANK-03",
+        "CLM-WEB06-B2B-RANK-04",
+        "CLM-WEB06-B2B-RANK-05"
+      ],
+      "source_ids": [
+        "S32",
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10",
+        "S11",
+        "S12"
+      ],
+      "data_source_component_id": "C16",
+      "render_component_id": "C16",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "#1 Healthcare · #2 Controls-oriented Virtual Commissioning · #3 Warehouse Planning/Simulation · #4 Broadcast Realtime 3D · #5 Construction Visual Intelligence.",
+      "accessibility_behavior": "#1 Healthcare · #2 Controls-oriented Virtual Commissioning · #3 Warehouse Planning/Simulation · #4 Broadcast Realtime 3D · #5 Construction Visual Intelligence.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB06-FINALISTS-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-06",
+      "content_object_id": "WEB06-FINALISTS-01",
+      "data_object_id": "WEB06-FINALISTS-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB06-B2B-RANK-01",
+        "CLM-WEB06-B2B-RANK-02",
+        "CLM-WEB06-B2B-RANK-03",
+        "CLM-WEB06-B2B-RANK-04",
+        "CLM-WEB06-B2B-RANK-05"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10",
+        "S11",
+        "S12",
+        "S32"
+      ],
+      "data_source_component_id": "C20",
+      "render_component_id": "C20",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Mỗi thẻ cho thấy người dùng, người mua, vấn đề, logic lặp lại, bằng chứng mạnh nhất, bằng chứng phản biện và trần diễn giải.",
+      "accessibility_behavior": "Mỗi thẻ cho thấy người dùng, người mua, vấn đề, logic lặp lại, bằng chứng mạnh nhất, bằng chứng phản biện và trần diễn giải.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB06-DEEP-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-06",
+      "content_object_id": "WEB06-DEEP-01",
+      "data_object_id": "WEB06-DEEP-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB06-B2B-RANK-01",
+        "CLM-WEB06-B2B-RANK-02",
+        "CLM-WEB06-B2B-RANK-03",
+        "CLM-WEB06-B2B-RANK-04",
+        "CLM-WEB06-B2B-RANK-05"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10",
+        "S11",
+        "S12",
+        "S32"
+      ],
+      "data_source_component_id": "C21",
+      "render_component_id": "C21",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Healthcare, Virtual Commissioning và Warehouse được mô tả tới cấp quy trình sử dụng.",
+      "accessibility_behavior": "Healthcare, Virtual Commissioning và Warehouse được mô tả tới cấp quy trình sử dụng.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB07-EXPLORER-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-07",
+      "content_object_id": "WEB07-EXPLORER-01",
+      "data_object_id": "WEB07-EXPLORER-01",
+      "metric_ids": [],
+      "claim_ids": [],
+      "source_ids": [
+        "S32",
+        "S34"
+      ],
+      "data_source_component_id": "C18",
+      "render_component_id": "C18",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Khám phá theo hành động của người chơi, tín hiệu thanh toán, logic chơi lại và kết quả sàng lọc.",
+      "accessibility_behavior": "Khám phá theo hành động của người chơi, tín hiệu thanh toán, logic chơi lại và kết quả sàng lọc.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB07-ACTION-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-07",
+      "content_object_id": "WEB07-ACTION-01",
+      "data_object_id": "WEB07-ACTION-01",
+      "metric_ids": [],
+      "claim_ids": [],
+      "source_ids": [
+        "S32",
+        "S34"
+      ],
+      "data_source_component_id": "C23",
+      "render_component_id": "C07",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Mỗi hướng B2C bắt đầu bằng việc người chơi thực sự làm gì trước khi nói về thị trường.",
+      "accessibility_behavior": "Mỗi hướng B2C bắt đầu bằng việc người chơi thực sự làm gì trước khi nói về thị trường.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB08-RANK-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-08",
+      "content_object_id": "WEB08-RANK-01",
+      "data_object_id": "WEB08-RANK-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-01",
+        "CLM-WEB08-B2C-RANK-02",
+        "CLM-WEB08-B2C-RANK-03",
+        "CLM-WEB08-B2C-RANK-04",
+        "CLM-WEB08-B2C-RANK-05",
+        "CLM-WEB08-LANGUAGE-SAVA",
+        "CLM-WEB08-LBE-SAVA"
+      ],
+      "source_ids": [
+        "S32",
+        "S13",
+        "S14",
+        "S15",
+        "S16",
+        "S17",
+        "S18",
+        "S19",
+        "S20",
+        "S21",
+        "S22",
+        "S23",
+        "S24",
+        "S25",
+        "S26"
+      ],
+      "data_source_component_id": "C16",
+      "render_component_id": "C16",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "#1 Sports · #2 Music · #3 Puzzle · #4 Immersive Language · #5 Location-Based Free-Roam Entertainment.",
+      "accessibility_behavior": "#1 Sports · #2 Music · #3 Puzzle · #4 Immersive Language · #5 Location-Based Free-Roam Entertainment.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB08-FINALISTS-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-08",
+      "content_object_id": "WEB08-FINALISTS-01",
+      "data_object_id": "WEB08-FINALISTS-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-01",
+        "CLM-WEB08-B2C-RANK-02",
+        "CLM-WEB08-B2C-RANK-03",
+        "CLM-WEB08-B2C-RANK-04",
+        "CLM-WEB08-B2C-RANK-05",
+        "CLM-WEB08-LANGUAGE-SAVA",
+        "CLM-WEB08-LBE-SAVA"
+      ],
+      "source_ids": [
+        "S13",
+        "S14",
+        "S15",
+        "S16",
+        "S17",
+        "S18",
+        "S19",
+        "S20",
+        "S21",
+        "S22",
+        "S23",
+        "S24",
+        "S25",
+        "S26",
+        "S32"
+      ],
+      "data_source_component_id": "C20",
+      "render_component_id": "C20",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Các thẻ cho thấy hành động của người chơi, hình thức trả tiền, chơi lại, giá trị riêng của VR, gánh nặng sản xuất và bằng chứng phản biện.",
+      "accessibility_behavior": "Các thẻ cho thấy hành động của người chơi, hình thức trả tiền, chơi lại, giá trị riêng của VR, gánh nặng sản xuất và bằng chứng phản biện.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB08-PRICE-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-08",
+      "content_object_id": "WEB08-PRICE-01",
+      "data_object_id": "WEB08-PRICE-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-01",
+        "CLM-WEB08-B2C-RANK-02",
+        "CLM-WEB08-B2C-RANK-03",
+        "CLM-WEB08-B2C-RANK-04"
+      ],
+      "source_ids": [
+        "S13",
+        "S15",
+        "S16",
+        "S18",
+        "S19",
+        "S20",
+        "S14",
+        "S17",
+        "S23",
+        "S24",
+        "S25",
+        "S32"
+      ],
+      "data_source_component_id": "C12",
+      "render_component_id": "C13",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Giá sản phẩm chính thức có thể cho thấy một sản phẩm trả phí tồn tại; không chứng minh doanh số, duy trì, lợi nhuận, TAM hoặc mức sẵn sàng trả tiền cho sản phẩm của SAVA.",
+      "accessibility_behavior": "Giá sản phẩm chính thức có thể cho thấy một sản phẩm trả phí tồn tại; không chứng minh doanh số, duy trì, lợi nhuận, TAM hoặc mức sẵn sàng trả tiền cho sản phẩm của SAVA.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB09-CROSSWALK-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-09",
+      "content_object_id": "WEB09-CROSSWALK-01",
+      "data_object_id": "WEB09-CROSSWALK-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB07-HEALTHCARE-SAVA",
+        "CLM-WEB07-VC-SAVA",
+        "CLM-WEB07-WAREHOUSE-SAVA",
+        "CLM-WEB07-BROADCAST-SAVA",
+        "CLM-WEB07-CONSTRUCTION-SAVA",
+        "CLM-WEB09-SPORTS-SAVA",
+        "CLM-WEB01-MUSIC-PRIORITY"
+      ],
+      "source_ids": [
+        "S32",
+        "S34"
+      ],
+      "data_source_component_id": "C28",
+      "render_component_id": "C28",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Hiển thị hai lớp cạnh nhau; không được dùng lớp này thay thế lớp kia.",
+      "accessibility_behavior": "Hiển thị hai lớp cạnh nhau; không được dùng lớp này thay thế lớp kia.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB09-SPORTS-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-09",
+      "content_object_id": "WEB09-SPORTS-01",
+      "data_object_id": "WEB09-SPORTS-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB09-SPORTS-SAVA"
+      ],
+      "source_ids": [
+        "S13",
+        "S15",
+        "S34",
+        "S32"
+      ],
+      "data_source_component_id": "C27",
+      "render_component_id": "C28",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Cấu trúc thị trường mạnh, nhưng SAVA chưa chọn môn/ngách cụ thể và chưa chứng minh chất lượng tương tác chuyên biệt.",
+      "accessibility_behavior": "Cấu trúc thị trường mạnh, nhưng SAVA chưa chọn môn/ngách cụ thể và chưa chứng minh chất lượng tương tác chuyên biệt.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB09-MUSIC-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-09",
+      "content_object_id": "WEB09-MUSIC-01",
+      "data_object_id": "WEB09-MUSIC-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB01-MUSIC-PRIORITY"
+      ],
+      "source_ids": [
+        "S16",
+        "S17",
+        "S23",
+        "S34",
+        "S32"
+      ],
+      "data_source_component_id": "C27",
+      "render_component_id": "C28",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Độ gần tương đối khiến một bản thử nghiệm nhỏ là bước học phù hợp hơn, trong khi sản phẩm và quyền thắng của SAVA vẫn chưa được chứng minh.",
+      "accessibility_behavior": "Độ gần tương đối khiến một bản thử nghiệm nhỏ là bước học phù hợp hơn, trong khi sản phẩm và quyền thắng của SAVA vẫn chưa được chứng minh.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB10-ROSTER-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-10",
+      "content_object_id": "WEB10-ROSTER-01",
+      "data_object_id": "WEB10-ROSTER-01",
+      "metric_ids": [
+        "Q::S34::SAVRSE_ROSTER_ROLES"
+      ],
+      "claim_ids": [
+        "CLM-WEB10-HEALTHCARE-PARTNER-GATE"
+      ],
+      "source_ids": [
+        "S34",
+        "S33"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C08",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Kiểm toán năng lực ghi nhận sự hiện diện của các vai trò liên quan.",
+      "accessibility_behavior": "Kiểm toán năng lực ghi nhận sự hiện diện của các vai trò liên quan.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB10-STAFF-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-10",
+      "content_object_id": "WEB10-STAFF-01",
+      "data_object_id": "WEB10-STAFF-01",
+      "metric_ids": [
+        "Q::S35::SAVA_COMPANY_STAFF"
+      ],
+      "claim_ids": [
+        "CLM-WEB10-HEALTHCARE-PROCUREMENT",
+        "CLM-WEB10-HEALTHCARE-ACADEMIC-CEILING",
+        "CLM-WEB10-HEALTHCARE-PARTNER-GATE"
+      ],
+      "source_ids": [
+        "S35",
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S33",
+        "S34"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C08",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Quy mô nhân sự theo hồ sơ công ty; phạm vi là toàn SAVA, không riêng Savrse.",
+      "accessibility_behavior": "Quy mô nhân sự theo hồ sơ công ty; phạm vi là toàn SAVA, không riêng Savrse.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB10-GAP-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-10",
+      "content_object_id": "WEB10-GAP-01",
+      "data_object_id": "WEB10-GAP-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB10-HEALTHCARE-PARTNER-GATE"
+      ],
+      "source_ids": [
+        "S34",
+        "S33"
+      ],
+      "data_source_component_id": "C29",
+      "render_component_id": "C29",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Năng lực 3D/Unity/VR có thể rút ngắn phần công việc runtime/rendering chung; không chứng minh quy trình lâm sàng, controls/OT hoặc chất lượng tương tác chuyên biệt theo môn thể thao.",
+      "accessibility_behavior": "Năng lực 3D/Unity/VR có thể rút ngắn phần công việc runtime/rendering chung; không chứng minh quy trình lâm sàng, controls/OT hoặc chất lượng tương tác chuyên biệt theo môn thể thao.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB10-REUSE-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-10",
+      "content_object_id": "WEB10-REUSE-01",
+      "data_object_id": "WEB10-REUSE-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB10-HEALTHCARE-PARTNER-GATE"
+      ],
+      "source_ids": [
+        "S34",
+        "S33"
+      ],
+      "data_source_component_id": "C30",
+      "render_component_id": "C30",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Mã nguồn/tài sản/công cụ chỉ là ứng viên cho tới khi kiểm tra kiến trúc, hiệu năng, quyền, giấy phép, nợ kỹ thuật và nghĩa vụ.",
+      "accessibility_behavior": "Mã nguồn/tài sản/công cụ chỉ là ứng viên cho tới khi kiểm tra kiến trúc, hiệu năng, quyền, giấy phép, nợ kỹ thuật và nghĩa vụ.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB11-PATH-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-11",
+      "content_object_id": "WEB11-PATH-01",
+      "data_object_id": "WEB11-PATH-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB01-HEALTHCARE-PRIORITY",
+        "CLM-WEB10-HEALTHCARE-PROCUREMENT",
+        "CLM-WEB10-HEALTHCARE-ACADEMIC-CEILING",
+        "CLM-WEB10-HEALTHCARE-PARTNER-GATE"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S32",
+        "S33",
+        "S34"
+      ],
+      "data_source_component_id": "C24",
+      "render_component_id": "C24",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [
+        "AST-SVG-11-VI-V02",
+        "AST-WEB11-HC-EXT-01"
+      ],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Đối tác/thẩm quyền chuyên môn → người mua → cam kết trả phí → mua sắm/IT/bảo mật/LMS → lõi tái sử dụng → hiệu quả kinh tế đo được.",
+      "accessibility_behavior": "Đối tác/thẩm quyền chuyên môn → người mua → cam kết trả phí → mua sắm/IT/bảo mật/LMS → lõi tái sử dụng → hiệu quả kinh tế đo được.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB11-WORKFLOW-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-11",
+      "content_object_id": "WEB11-WORKFLOW-01",
+      "data_object_id": "WEB11-WORKFLOW-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB01-HEALTHCARE-PRIORITY",
+        "CLM-WEB10-HEALTHCARE-PROCUREMENT",
+        "CLM-WEB10-HEALTHCARE-ACADEMIC-CEILING",
+        "CLM-WEB10-HEALTHCARE-PARTNER-GATE"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S32",
+        "S33",
+        "S34"
+      ],
+      "data_source_component_id": "C23",
+      "render_component_id": "C23",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [
+        "AST-SVG-11-VI-V02",
+        "AST-WEB11-HC-EXT-01"
+      ],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Tổ chức/trường y/bệnh viện → người học → kịch bản đào tạo giới hạn → thực hành lặp lại → hành động/quyết định → phản hồi → đánh giá/tổng kết.",
+      "accessibility_behavior": "Tổ chức/trường y/bệnh viện → người học → kịch bản đào tạo giới hạn → thực hành lặp lại → hành động/quyết định → phản hồi → đánh giá/tổng kết.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB11-KILL-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-11",
+      "content_object_id": "WEB11-KILL-01",
+      "data_object_id": "WEB11-KILL-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB01-HEALTHCARE-PRIORITY",
+        "CLM-WEB10-HEALTHCARE-PROCUREMENT",
+        "CLM-WEB10-HEALTHCARE-ACADEMIC-CEILING",
+        "CLM-WEB10-HEALTHCARE-PARTNER-GATE"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S32",
+        "S33",
+        "S34"
+      ],
+      "data_source_component_id": "C26",
+      "render_component_id": "C26",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [
+        "AST-SVG-11-VI-V02",
+        "AST-WEB11-HC-EXT-01"
+      ],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Không có thẩm quyền; không có chủ ngân sách; chỉ có quan tâm miễn phí; hoặc mỗi khách hàng đều cần xây lại gần như toàn bộ → dừng hoặc thu hẹp.",
+      "accessibility_behavior": "Không có thẩm quyền; không có chủ ngân sách; chỉ có quan tâm miễn phí; hoặc mỗi khách hàng đều cần xây lại gần như toàn bộ → dừng hoặc thu hẹp.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB12-LOOP-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-12",
+      "content_object_id": "WEB12-LOOP-01",
+      "data_object_id": "WEB12-LOOP-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB12-MUSIC-SAVA",
+        "CLM-WEB12-MUSIC-PAID-ARCHITECTURE",
+        "CLM-WEB12-MUSIC-RIGHTS-LIFECYCLE",
+        "CLM-WEB12-MUSIC-PROTOTYPE-GATE"
+      ],
+      "source_ids": [
+        "S16",
+        "S17",
+        "S32",
+        "S33",
+        "S34"
+      ],
+      "data_source_component_id": "C23",
+      "render_component_id": "C23",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [
+        "AST-SVG-12-VI-V02",
+        "AST-WEB12-MU-EXT-01"
+      ],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Tín hiệu/mẫu → hành động cơ thể → phản hồi về nhịp/độ chính xác → thử lại → làm chủ.",
+      "accessibility_behavior": "Tín hiệu/mẫu → hành động cơ thể → phản hồi về nhịp/độ chính xác → thử lại → làm chủ.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB12-GATES-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-12",
+      "content_object_id": "WEB12-GATES-01",
+      "data_object_id": "WEB12-GATES-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB12-MUSIC-PAID-ARCHITECTURE",
+        "CLM-WEB12-MUSIC-RIGHTS-LIFECYCLE"
+      ],
+      "source_ids": [
+        "S16",
+        "S17",
+        "S23"
+      ],
+      "data_source_component_id": "C24",
+      "render_component_id": "C24",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [
+        "AST-SVG-12-VI-V02",
+        "AST-WEB12-MU-EXT-01"
+      ],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Hiểu trong 30–60 giây; tương tác vui/đáng tin; giá trị riêng của VR; tự nguyện chơi lại; gánh nặng tạo nội dung; tín hiệu sẵn sàng trả tiền; đường phân phối; kinh tế bản quyền.",
+      "accessibility_behavior": "Hiểu trong 30–60 giây; tương tác vui/đáng tin; giá trị riêng của VR; tự nguyện chơi lại; gánh nặng tạo nội dung; tín hiệu sẵn sàng trả tiền; đường phân phối; kinh tế bản quyền.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB12-PRICE-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-12",
+      "content_object_id": "WEB12-PRICE-01",
+      "data_object_id": "WEB12-PRICE-01",
+      "metric_ids": [
+        "Q::S16::SYNTH_RIDERS_PACK_PRICE"
+      ],
+      "claim_ids": [
+        "CLM-WEB12-MUSIC-PAID-ARCHITECTURE"
+      ],
+      "source_ids": [
+        "S16"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [
+        "AST-SVG-12-VI-V02",
+        "AST-WEB12-MU-EXT-01"
+      ],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Kiến trúc tham chiếu: gói nội dung âm nhạc trả phí có tồn tại.",
+      "accessibility_behavior": "Kiến trúc tham chiếu: gói nội dung âm nhạc trả phí có tồn tại.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB12-KILL-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-12",
+      "content_object_id": "WEB12-KILL-01",
+      "data_object_id": "WEB12-KILL-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB12-MUSIC-SAVA",
+        "CLM-WEB12-MUSIC-PAID-ARCHITECTURE",
+        "CLM-WEB12-MUSIC-RIGHTS-LIFECYCLE",
+        "CLM-WEB12-MUSIC-PROTOTYPE-GATE"
+      ],
+      "source_ids": [
+        "S16",
+        "S17",
+        "S32",
+        "S33",
+        "S34"
+      ],
+      "data_source_component_id": "C26",
+      "render_component_id": "C26",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [
+        "AST-SVG-12-VI-V02",
+        "AST-WEB12-MU-EXT-01"
+      ],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Nếu điều khiển phẳng giữ lại phần lớn giá trị, chơi lại yếu, gánh nặng tạo nội dung quá cao hoặc quyền/phân phối phá vỡ hiệu quả kinh tế: dừng hoặc thu hẹp phạm vi.",
+      "accessibility_behavior": "Nếu điều khiển phẳng giữ lại phần lớn giá trị, chơi lại yếu, gánh nặng tạo nội dung quá cao hoặc quyền/phân phối phá vỡ hiệu quả kinh tế: dừng hoặc thu hẹp phạm vi.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB13-MAP-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-13",
+      "content_object_id": "WEB13-MAP-01",
+      "data_object_id": "WEB13-MAP-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB13-PUZZLE-SAVA"
+      ],
+      "source_ids": [
+        "S32",
+        "S34"
+      ],
+      "data_source_component_id": "C31",
+      "render_component_id": "C31",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Chỉ dùng vai trò phân loại; không tạo điểm bong bóng, xác suất, tỷ trọng ngân sách hay phân bổ nhân sự.",
+      "accessibility_behavior": "Chỉ dùng vai trò phân loại; không tạo điểm bong bóng, xác suất, tỷ trọng ngân sách hay phân bổ nhân sự.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB13-SEQUENCE-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-13",
+      "content_object_id": "WEB13-SEQUENCE-01",
+      "data_object_id": "WEB13-SEQUENCE-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB13-PUZZLE-SAVA"
+      ],
+      "source_ids": [
+        "S32",
+        "S34"
+      ],
+      "data_source_component_id": "C33",
+      "render_component_id": "C33",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Các kiểm chứng chính đi trước; hướng theo điều kiện/thách thức chỉ tiến khi có điều kiện kích hoạt có tên.",
+      "accessibility_behavior": "Các kiểm chứng chính đi trước; hướng theo điều kiện/thách thức chỉ tiến khi có điều kiện kích hoạt có tên.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB14-SEPARATE-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-14",
+      "content_object_id": "WEB14-SEPARATE-01",
+      "data_object_id": "WEB14-SEPARATE-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB14-MUSICWORLD-PAUSE"
+      ],
+      "source_ids": [
+        "S33",
+        "S34"
+      ],
+      "data_source_component_id": "C34",
+      "render_component_id": "C34",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [
+        "AST-SVG-14-VI-V03"
+      ],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "A) Cơ hội Music theo thị trường bên ngoài. B) Luận điểm rhythm/action mastery mới. C) Music World hiện hữu.",
+      "accessibility_behavior": "A) Cơ hội Music theo thị trường bên ngoài. B) Luận điểm rhythm/action mastery mới. C) Music World hiện hữu.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB14-PAUSE-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-14",
+      "content_object_id": "WEB14-PAUSE-01",
+      "data_object_id": "WEB14-PAUSE-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB14-MUSICWORLD-PAUSE"
+      ],
+      "source_ids": [
+        "S33",
+        "S34"
+      ],
+      "data_source_component_id": "C34",
+      "render_component_id": "C34",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [
+        "AST-SVG-14-VI-V03"
+      ],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Toàn bộ sản phẩm chỉ được dùng làm THAM CHIẾU trong nhánh này.",
+      "accessibility_behavior": "Toàn bộ sản phẩm chỉ được dùng làm THAM CHIẾU trong nhánh này.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB14-REUSE-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-14",
+      "content_object_id": "WEB14-REUSE-01",
+      "data_object_id": "WEB14-REUSE-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB14-MUSICWORLD-PAUSE"
+      ],
+      "source_ids": [
+        "S34",
+        "S33"
+      ],
+      "data_source_component_id": "C30",
+      "render_component_id": "C30",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [
+        "AST-SVG-14-VI-V03"
+      ],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Bất kỳ việc tái sử dụng mã/tài sản/công cụ nào đều cần kiểm toán kỹ thuật, sở hữu trí tuệ, giấy phép và nghĩa vụ. Báo cáo hiện tại chưa xác nhận tài sản cụ thể nào có thể tái sử dụng.",
+      "accessibility_behavior": "Bất kỳ việc tái sử dụng mã/tài sản/công cụ nào đều cần kiểm toán kỹ thuật, sở hữu trí tuệ, giấy phép và nghĩa vụ. Báo cáo hiện tại chưa xác nhận tài sản cụ thể nào có thể tái sử dụng.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB15-COUNTER-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-15",
+      "content_object_id": "WEB15-COUNTER-01",
+      "data_object_id": "WEB15-COUNTER-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB15-COUNTER-EVIDENCE-ACCESS"
+      ],
+      "source_ids": [
+        "S03",
+        "S04",
+        "S23",
+        "S26",
+        "S27",
+        "S28",
+        "S29",
+        "S30",
+        "S33"
+      ],
+      "data_source_component_id": "C35",
+      "render_component_id": "C35",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "14 bản ghi phản biện có cấu trúc được hiển thị cùng tín hiệu, trần diễn giải, hệ quả quyết định và điều kiện làm chậm/dừng.",
+      "accessibility_behavior": "14 bản ghi phản biện có cấu trúc được hiển thị cùng tín hiệu, trần diễn giải, hệ quả quyết định và điều kiện làm chậm/dừng.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB15-LBE-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-15",
+      "content_object_id": "WEB15-LBE-01",
+      "data_object_id": "WEB15-LBE-01",
+      "metric_ids": [
+        "Q::S26::FRISCO_CLOSURE_PERIOD"
+      ],
+      "claim_ids": [
+        "CLM-WEB15-COUNTER-EVIDENCE-ACCESS"
+      ],
+      "source_ids": [
+        "S26",
+        "S23",
+        "S30",
+        "S33"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C13",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Khoảng thời gian đóng cửa của một địa điểm tại Frisco cho thấy kinh tế địa điểm có thể thay đổi nhanh.",
+      "accessibility_behavior": "Khoảng thời gian đóng cửa của một địa điểm tại Frisco cho thấy kinh tế địa điểm có thể thay đổi nhanh.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB15-RECROOM-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-15",
+      "content_object_id": "WEB15-RECROOM-01",
+      "data_object_id": "WEB15-RECROOM-01",
+      "metric_ids": [
+        "Q::S30::REC_ROOM_LIFETIME_PLAYERS",
+        "Q::S30::REC_ROOM_MONTHLY_USERS"
+      ],
+      "claim_ids": [
+        "CLM-WEB15-COUNTER-EVIDENCE-ACCESS"
+      ],
+      "source_ids": [
+        "S30",
+        "S23",
+        "S26",
+        "S33"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C13",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Quy mô sử dụng lớn được công bố có thể đồng thời tồn tại với kinh tế không bền vững.",
+      "accessibility_behavior": "Quy mô sử dụng lớn được công bố có thể đồng thời tồn tại với kinh tế không bền vững.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-REGISTER-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-REGISTER-01",
+      "data_object_id": "WEB16-REGISTER-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB16-CITATION-SEMANTIC-CEILING"
+      ],
+      "source_ids": [
+        "S31",
+        "S32",
+        "S05",
+        "S09",
+        "S13",
+        "S14",
+        "S15",
+        "S16",
+        "S18",
+        "S19",
+        "S20",
+        "S21",
+        "S22",
+        "S24",
+        "S26",
+        "S27",
+        "S28",
+        "S29",
+        "S30",
+        "S34",
+        "S35",
+        "S33"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "25 đối tượng trình bày của V1A ánh xạ đầy đủ tới 32 chỉ số bằng chứng nguyên tử có ID theo nguồn và trần diễn giải.",
+      "accessibility_behavior": "25 đối tượng trình bày của V1A ánh xạ đầy đủ tới 32 chỉ số bằng chứng nguyên tử có ID theo nguồn và trần diễn giải.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-GRAMMAR-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-GRAMMAR-01",
+      "data_object_id": "WEB16-GRAMMAR-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB16-CITATION-SEMANTIC-CEILING"
+      ],
+      "source_ids": [
+        "S31",
+        "S33"
+      ],
+      "data_source_component_id": "C12",
+      "render_component_id": "C12",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Hai câu hỏi bắt buộc cạnh chỉ số: CON SỐ NÀY CHO THẤY GÌ? và CON SỐ NÀY CHƯA CHỨNG MINH ĐƯỢC GÌ?",
+      "accessibility_behavior": "Hai câu hỏi bắt buộc cạnh chỉ số: CON SỐ NÀY CHO THẤY GÌ? và CON SỐ NÀY CHƯA CHỨNG MINH ĐƯỢC GÌ?",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB17-APPROVE-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-17",
+      "content_object_id": "WEB17-APPROVE-01",
+      "data_object_id": "WEB17-APPROVE-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB17-INTERNAL-COUNTS-SEPARATE",
+        "CLM-WEB17-LIMITED-EXECUTION"
+      ],
+      "source_ids": [
+        "S33",
+        "S34",
+        "S35"
+      ],
+      "data_source_component_id": "C05",
+      "render_component_id": "C05",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Phạm vi kiểm chứng giới hạn; người chịu trách nhiệm có tên; quyền dừng; tiếp cận đối tác/người mua; kiểm toán năng lực/tái sử dụng/sở hữu trí tuệ/giấy phép/nghĩa vụ.",
+      "accessibility_behavior": "Phạm vi kiểm chứng giới hạn; người chịu trách nhiệm có tên; quyền dừng; tiếp cận đối tác/người mua; kiểm toán năng lực/tái sử dụng/sở hữu trí tuệ/giấy phép/nghĩa vụ.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB17-NOTYET-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-17",
+      "content_object_id": "WEB17-NOTYET-01",
+      "data_object_id": "WEB17-NOTYET-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB17-INTERNAL-COUNTS-SEPARATE",
+        "CLM-WEB17-LIMITED-EXECUTION"
+      ],
+      "source_ids": [
+        "S33",
+        "S34",
+        "S35"
+      ],
+      "data_source_component_id": "C06",
+      "render_component_id": "C06",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Healthcare/Music quy mô đầy đủ, đội lớn, mức vốn cụ thể, dự báo doanh thu, thủ thuật lâm sàng/môn thể thao cụ thể, danh mục nhạc lớn, địa điểm quy mô lớn hoặc full controls/OT stack.",
+      "accessibility_behavior": "Healthcare/Music quy mô đầy đủ, đội lớn, mức vốn cụ thể, dự báo doanh thu, thủ thuật lâm sàng/môn thể thao cụ thể, danh mục nhạc lớn, địa điểm quy mô lớn hoặc full controls/OT stack.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB17-LINE-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-17",
+      "content_object_id": "WEB17-LINE-01",
+      "data_object_id": "WEB17-LINE-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB17-INTERNAL-COUNTS-SEPARATE",
+        "CLM-WEB17-LIMITED-EXECUTION"
+      ],
+      "source_ids": [
+        "S33",
+        "S34",
+        "S35"
+      ],
+      "data_source_component_id": "C33",
+      "render_component_id": "C33",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Chỉ mở rộng phạm vi sau khi bằng chứng đóng các cổng kiểm chứng.",
+      "accessibility_behavior": "Chỉ mở rộng phạm vi sau khi bằng chứng đóng các cổng kiểm chứng.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB18-METHOD-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-18",
+      "content_object_id": "WEB18-METHOD-01",
+      "data_object_id": "WEB18-METHOD-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB18-SOURCE-HUB-COUNT"
+      ],
+      "source_ids": [
+        "S31",
+        "S33"
+      ],
+      "data_source_component_id": "C36",
+      "render_component_id": "C36",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Xếp hạng thị trường bên ngoài được khóa trước khi xét mức phù hợp với SAVA; con số bị ràng buộc bởi định nghĩa; bằng chứng phản biện và phần chưa biết được nêu rõ.",
+      "accessibility_behavior": "Xếp hạng thị trường bên ngoài được khóa trước khi xét mức phù hợp với SAVA; con số bị ràng buộc bởi định nghĩa; bằng chứng phản biện và phần chưa biết được nêu rõ.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB18-SOURCES-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-18",
+      "content_object_id": "WEB18-SOURCES-01",
+      "data_object_id": "WEB18-SOURCES-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB18-SOURCE-HUB-COUNT"
+      ],
+      "source_ids": [
+        "S01",
+        "S35",
+        "S31",
+        "S33"
+      ],
+      "data_source_component_id": "C37",
+      "render_component_id": "C37",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "35 hồ sơ nguồn chuẩn; 34 có liên kết trực tiếp; 1 tham chiếu nội bộ chưa có URL được xác minh.",
+      "accessibility_behavior": "35 hồ sơ nguồn chuẩn; 34 có liên kết trực tiếp; 1 tham chiếu nội bộ chưa có URL được xác minh.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB18-TRACE-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-18",
+      "content_object_id": "WEB18-TRACE-01",
+      "data_object_id": "WEB18-TRACE-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB18-SOURCE-HUB-COUNT"
+      ],
+      "source_ids": [
+        "S31",
+        "S33"
+      ],
+      "data_source_component_id": "C40",
+      "render_component_id": "C40",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Đối tượng nội dung liên kết tới phần báo cáo, ID nguồn và ID chỉ số để WEB-V2 triển khai mà không phải đoán ngữ nghĩa.",
+      "accessibility_behavior": "Đối tượng nội dung liên kết tới phần báo cáo, ID nguồn và ID chỉ số để WEB-V2 triển khai mà không phải đoán ngữ nghĩa.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-01",
+      "data_object_id": "WEB16-METRIC-01",
+      "metric_ids": [
+        "Q::S31::OPPORTUNITY_UNIVERSE_TOTAL"
+      ],
+      "claim_ids": [
+        "CLM-WEB02-UNIVERSE-COUNT",
+        "CLM-WEB02-RANKABLE-UMBRELLA",
+        "CLM-WEB18-SOURCE-HUB-COUNT"
+      ],
+      "source_ids": [
+        "S31"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "112",
+      "accessibility_behavior": "Số bản ghi trong universe cơ hội: 112. Universe của chương trình có 112 bản ghi truy vết. Không đồng nghĩa quy mô thị trường và không bằng phép cộng 65+32 của hai nhánh thực thi.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-02",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-02",
+      "data_object_id": "WEB16-METRIC-02",
+      "metric_ids": [
+        "Q::S31::RANKABLE_RECORDS"
+      ],
+      "claim_ids": [
+        "CLM-WEB02-UNIVERSE-COUNT",
+        "CLM-WEB02-RANKABLE-UMBRELLA",
+        "CLM-WEB18-SOURCE-HUB-COUNT"
+      ],
+      "source_ids": [
+        "S31"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "96",
+      "accessibility_behavior": "Số bản ghi cơ hội có thể xếp hạng: 96. 96 trong 112 bản ghi có thể xếp hạng. Không đồng nghĩa số đơn vị trong các nhánh B2B/B2C thực thi.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-03",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-03",
+      "data_object_id": "WEB16-METRIC-03",
+      "metric_ids": [
+        "Q::S31::UMBRELLA_NONRANKABLE_RECORDS"
+      ],
+      "claim_ids": [
+        "CLM-WEB02-UNIVERSE-COUNT",
+        "CLM-WEB02-RANKABLE-UMBRELLA",
+        "CLM-WEB18-SOURCE-HUB-COUNT"
+      ],
+      "source_ids": [
+        "S31"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "16",
+      "accessibility_behavior": "Số bản ghi bao trùm / không xếp hạng: 16. 16 trong 112 bản ghi là nhóm bao trùm / không xếp hạng. Không đại diện cho số finalist bị loại.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-04",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-04",
+      "data_object_id": "WEB16-METRIC-04",
+      "metric_ids": [
+        "Q::S32::B2B_FUNNEL"
+      ],
+      "claim_ids": [
+        "CLM-WEB03-B2B-FUNNEL"
+      ],
+      "source_ids": [
+        "S32"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "65 → 12 → 5 → 3",
+      "accessibility_behavior": "Funnel quyết định B2B/B2G: 65 → 12 → 5 → 3. Nhánh B2B/B2G thực thi thu hẹp từ 65 xuống 12, rồi 5 và 3. Không phải tỷ lệ chuyển đổi của thị trường và không đồng nghĩa phê duyệt đầu tư.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-05",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-05",
+      "data_object_id": "WEB16-METRIC-05",
+      "metric_ids": [
+        "Q::S32::B2C_FUNNEL"
+      ],
+      "claim_ids": [
+        "CLM-WEB04-B2C-FUNNEL"
+      ],
+      "source_ids": [
+        "S32"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "32 → 11 → 5 → 3",
+      "accessibility_behavior": "Funnel quyết định B2C: 32 → 11 → 5 → 3. Nhánh B2C thực thi thu hẹp từ 32 xuống 11, rồi 5 và 3. Không phải tỷ lệ chuyển đổi của thị trường và không đồng nghĩa cam kết sản phẩm.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-06",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-06",
+      "data_object_id": "WEB16-METRIC-06",
+      "metric_ids": [
+        "Q::S09::ORF_VIZRT_CONTRACT_VALUE"
+      ],
+      "claim_ids": [
+        "CLM-WEB06-B2B-RANK-04"
+      ],
+      "source_ids": [
+        "S09"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "EUR 3.485.539,20",
+      "accessibility_behavior": "Giá trị hợp đồng cuối cùng ORF–Vizrt giai đoạn 2026–2028: EUR 3.485.539,20. Tồn tại một đối tượng mua sắm tổ chức nhiều năm với giá trị hợp đồng cuối cùng này. Không chứng minh giá trị hợp đồng thường niên của phần mềm thuần, khoản thực trả, quy mô thị trường hoặc doanh thu SAVA có thể đạt.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-07",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-07",
+      "data_object_id": "WEB16-METRIC-07",
+      "metric_ids": [
+        "Q::S05::COMMISSION_TIME_REDUCTION"
+      ],
+      "claim_ids": [
+        "CLM-WEB06-B2B-RANK-02"
+      ],
+      "source_ids": [
+        "S05"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "tối đa 50%",
+      "accessibility_behavior": "Mức giảm thời gian lắp đặt / đưa vào vận hành: tối đa 50%. Một case cụ thể do nhà cung cấp công bố báo cáo mức giảm thời gian đưa vào vận hành đáng kể. Không phải chuẩn ROI độc lập và không chứng minh mức tiết kiệm phổ quát.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-08",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-08",
+      "data_object_id": "WEB16-METRIC-08",
+      "metric_ids": [
+        "Q::S05::FOLLOW_ON_PROJECTS"
+      ],
+      "claim_ids": [
+        "CLM-WEB06-B2B-RANK-02"
+      ],
+      "source_ids": [
+        "S05"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "3 dự án",
+      "accessibility_behavior": "Số dự án đang triển khai trong bối cảnh tiếp nối: 3 dự án. Nguồn cho thấy có hoạt động dự án tiếp nối trong cùng bối cảnh case. Không chứng minh tỷ lệ mua lại, doanh thu hay biên lợi nhuận.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-09",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-09",
+      "data_object_id": "WEB16-METRIC-09",
+      "metric_ids": [
+        "Q::S13::GOLF_BASE_LIST_PRICE"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-01"
+      ],
+      "source_ids": [
+        "S13"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "khoảng USD 29,99",
+      "accessibility_behavior": "Giá niêm yết cơ bản của GOLF+: khoảng USD 29,99. Cho thấy tồn tại cấu trúc sản phẩm VR thể thao trả phí. Không chứng minh số bản bán, doanh thu thực nhận hoặc mức sẵn sàng trả tiền cho sản phẩm SAVA.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-10",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-10",
+      "data_object_id": "WEB16-METRIC-10",
+      "metric_ids": [
+        "Q::S14::GOLF_PASS_COURSES",
+        "Q::S14::GOLF_PASS_MONTHLY",
+        "Q::S14::GOLF_PASS_ANNUAL"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-01"
+      ],
+      "source_ids": [
+        "S14"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "hơn 40 sân golf; USD 9,99/tháng; USD 99,99/năm",
+      "accessibility_behavior": "Số sân / lựa chọn trong GOLF+ Pass / Giá niêm yết GOLF+ Pass theo tháng / Giá niêm yết GOLF+ Pass theo năm: hơn 40 sân golf; USD 9,99/tháng; USD 99,99/năm. Nguồn chính thức công bố GOLF+ Pass có hơn 40 lựa chọn.; Cho thấy tồn tại lựa chọn thuê bao theo tháng.; Cho thấy tồn tại lựa chọn thuê bao theo năm. Không chứng minh số người đăng ký hoặc khả năng giữ chân.; Không chứng minh ARPU, giá thực nhận hoặc tỷ lệ chuyển đổi sang trả tiền.; Không chứng minh khả năng giữ chân, số người đăng ký hoặc doanh thu thực nhận.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-11",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-11",
+      "data_object_id": "WEB16-METRIC-11",
+      "metric_ids": [
+        "Q::S15::RACKET_CLUB_LIST_PRICE"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-01"
+      ],
+      "source_ids": [
+        "S15"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "USD 24,99",
+      "accessibility_behavior": "Giá niêm yết Racket Club: USD 24,99. Cho thấy tồn tại một tựa VR thể thao / kỹ năng trả phí ở mức giá niêm yết này. Không chứng minh doanh số hoặc khả năng giữ chân.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-12",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-12",
+      "data_object_id": "WEB16-METRIC-12",
+      "metric_ids": [
+        "Q::S16::SYNTH_RIDERS_PACK_PRICE"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-02",
+        "CLM-WEB12-MUSIC-PAID-ARCHITECTURE"
+      ],
+      "source_ids": [
+        "S16"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "USD 7,99 / 5 bài hát",
+      "accessibility_behavior": "Giá niêm yết gói nhạc Synth Riders: USD 7,99 / 5 bài hát. Cho thấy tồn tại cấu trúc DLC / gói nhạc trả phí. Không chứng minh tỷ lệ mua thêm, doanh thu, biên lợi nhuận hoặc kinh tế quyền âm nhạc.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-13",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-13",
+      "data_object_id": "WEB16-METRIC-13",
+      "metric_ids": [
+        "Q::S18::CUBISM_LIST_PRICE"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-03"
+      ],
+      "source_ids": [
+        "S18"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "USD 9,99",
+      "accessibility_behavior": "Giá niêm yết Cubism: USD 9,99. Cho thấy tồn tại cấu trúc sản phẩm giải đố VR cao cấp trả phí. Không chứng minh doanh số, khả năng giữ chân hoặc WHY-VR của ý tưởng SAVA.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-14",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-14",
+      "data_object_id": "WEB16-METRIC-14",
+      "metric_ids": [
+        "Q::S19::PUZZLING_PLACES_LIST_PRICE"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-03"
+      ],
+      "source_ids": [
+        "S19"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "USD 19,99",
+      "accessibility_behavior": "Giá niêm yết cơ bản Puzzling Places: USD 19,99. Cho thấy tồn tại thêm một mức giá trả phí trong nhóm giải đố VR. Không chứng minh doanh số, khả năng giữ chân hoặc nhu cầu đối với SAVA.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-15",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-15",
+      "data_object_id": "WEB16-METRIC-15",
+      "metric_ids": [
+        "Q::S20::NOUN_TOWN_LIST_PRICE",
+        "Q::S20::NOUN_TOWN_LANGUAGES",
+        "Q::S20::NOUN_TOWN_PLAYERS"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-04"
+      ],
+      "source_ids": [
+        "S20"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "USD 19,99; 12 ngôn ngữ; hơn 200.000 người chơi",
+      "accessibility_behavior": "Giá mua một lần của Noun Town / Số ngôn ngữ Noun Town hỗ trợ / Số người chơi Noun Town do doanh nghiệp công bố: USD 19,99; 12 ngôn ngữ; hơn 200.000 người chơi. Cho thấy tồn tại cấu trúc sản phẩm học ngoại ngữ VR trả phí một lần.; Nguồn hiện tại cho biết sản phẩm hỗ trợ 12 ngôn ngữ.; Doanh nghiệp công bố quy mô người chơi trên 200 nghìn. Không chứng minh khả năng giữ chân hoặc doanh thu thực nhận.; Không chứng minh hiệu quả học tập hoặc thành công thương mại.; Không chứng minh số người trả tiền, doanh thu, khả năng giữ chân hoặc quy mô độc lập.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-16",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-16",
+      "data_object_id": "WEB16-METRIC-16",
+      "metric_ids": [
+        "Q::S24::LANGUAGE_RCT_COUNT"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-04"
+      ],
+      "source_ids": [
+        "S24"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "41 RCT",
+      "accessibility_behavior": "Số RCT trong phân tích gộp về học ngoại ngữ: 41 RCT. Phân tích gộp được trích dẫn tổng hợp 41 RCT. Không chứng minh hiệu quả phổ quát, khả năng giữ chân người dùng trả phí hoặc ưu thế thương mại.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-17",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-17",
+      "data_object_id": "WEB16-METRIC-17",
+      "metric_ids": [
+        "Q::S21::ZERO_LATENCY_SYSTEM_PRICE",
+        "Q::S21::ZERO_LATENCY_REVENUE_SHARE"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-05"
+      ],
+      "source_ids": [
+        "S21"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "khoảng USD 165.000; 16% doanh thu vé",
+      "accessibility_behavior": "Giá khởi điểm hệ thống Zero Latency / Tỷ lệ chia sẻ doanh thu Zero Latency: khoảng USD 165.000; 16% doanh thu vé. Cho thấy tồn tại cấu trúc thương mại kiểu đầu tư hệ thống giữa nhà cung cấp và đơn vị vận hành.; Cho thấy tồn tại điều khoản chia sẻ doanh thu theo vé. Không chứng minh lợi nhuận hoặc thời gian hoàn vốn của đơn vị vận hành.; Không chứng minh lợi nhuận cấp địa điểm hoặc kinh tế của SAVA.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-18",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-18",
+      "data_object_id": "WEB16-METRIC-18",
+      "metric_ids": [
+        "Q::S22::ZERO_LATENCY_VENUES",
+        "Q::S22::ZERO_LATENCY_PLAYS"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-05"
+      ],
+      "source_ids": [
+        "S22"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "hơn 120 địa điểm; hơn 5 triệu lượt chơi",
+      "accessibility_behavior": "Quy mô mạng lưới Zero Latency / Số lượt chơi tích lũy Zero Latency: hơn 120 địa điểm; hơn 5 triệu lượt chơi. Doanh nghiệp công bố mạng lưới trên 120 địa điểm.; Doanh nghiệp công bố hơn 5 triệu lượt chơi tích lũy. Không chứng minh số địa điểm có lãi hoặc quy mô thị trường độc lập.; Không chứng minh số người dùng duy nhất, tỷ lệ chơi lại hoặc kinh tế đơn vị.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-19",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-19",
+      "data_object_id": "WEB16-METRIC-19",
+      "metric_ids": [
+        "Q::S26::FRISCO_CLOSURE_PERIOD"
+      ],
+      "claim_ids": [
+        "CLM-WEB15-COUNTER-EVIDENCE-ACCESS"
+      ],
+      "source_ids": [
+        "S26"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "khoảng 5 tháng",
+      "accessibility_behavior": "Khoảng thời gian địa điểm Frisco đóng cửa: khoảng 5 tháng. Một case cụ thể cho thấy địa điểm đóng khoảng 5 tháng trước khi mở lại. Không phải tỷ lệ thất bại của toàn ngành.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-20",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-20",
+      "data_object_id": "WEB16-METRIC-20",
+      "metric_ids": [
+        "Q::S27::FITXR_WORKOUT_LIBRARY"
+      ],
+      "claim_ids": [],
+      "source_ids": [
+        "S27"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "hơn 1.000 bài tập",
+      "accessibility_behavior": "Quy mô thư viện bài tập FitXR: hơn 1.000 bài tập. Cho thấy gánh nặng vận hành / nhịp độ nội dung có thể lớn. Không chứng minh khả năng giữ chân hoặc số người đăng ký.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-21",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-21",
+      "data_object_id": "WEB16-METRIC-21",
+      "metric_ids": [
+        "Q::S28::IMMERSED_UNIQUE_USERS"
+      ],
+      "claim_ids": [],
+      "source_ids": [
+        "S28"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "khoảng 1,5 triệu người dùng phần mềm duy nhất",
+      "accessibility_behavior": "Số người dùng phần mềm duy nhất của Immersed: khoảng 1,5 triệu người dùng phần mềm duy nhất. Doanh nghiệp công bố quy mô người dùng phần mềm đáng kể. Không chứng minh số người dùng trả phí đang hoạt động hoặc lợi nhuận.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-22",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-22",
+      "data_object_id": "WEB16-METRIC-22",
+      "metric_ids": [
+        "Q::S29::HOUZZ_AR_USERS"
+      ],
+      "claim_ids": [],
+      "source_ids": [
+        "S29"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "hơn 1 triệu người dùng AR",
+      "accessibility_behavior": "Số người dùng AR của Houzz: hơn 1 triệu người dùng AR. Doanh nghiệp công bố mức sử dụng AR trên 1 triệu người dùng. Không chứng minh quan hệ nhân quả với tăng chuyển đổi hoặc mức sẵn sàng trả tiền.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-23",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-23",
+      "data_object_id": "WEB16-METRIC-23",
+      "metric_ids": [
+        "Q::S30::REC_ROOM_LIFETIME_PLAYERS",
+        "Q::S30::REC_ROOM_MONTHLY_USERS"
+      ],
+      "claim_ids": [
+        "CLM-WEB15-COUNTER-EVIDENCE-ACCESS"
+      ],
+      "source_ids": [
+        "S30"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "150 triệu người chơi trọn đời; hàng triệu người dùng mỗi tháng",
+      "accessibility_behavior": "Quy mô người chơi trọn đời Rec Room / Quy mô người dùng hàng tháng Rec Room: 150 triệu người chơi trọn đời; hàng triệu người dùng mỗi tháng. Cho thấy quy mô người dùng trọn đời rất lớn do doanh nghiệp công bố có thể cùng tồn tại với quyết định đóng dịch vụ.; Doanh nghiệp công bố quy mô hàng tháng ở mức hàng triệu người dùng. Không chứng minh kinh tế đơn vị bền vững hoặc thành công của mọi sản phẩm xã hội.; Không cung cấp MAU chính xác, số người trả tiền hoặc lợi nhuận.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-24",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-24",
+      "data_object_id": "WEB16-METRIC-24",
+      "metric_ids": [
+        "Q::S34::SAVRSE_ROSTER_ROLES"
+      ],
+      "claim_ids": [
+        "CLM-WEB17-INTERNAL-COUNTS-SEPARATE",
+        "CLM-WEB17-LIMITED-EXECUTION"
+      ],
+      "source_ids": [
+        "S34"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "27",
+      "accessibility_behavior": "Số vai trò Savrse trong kiểm toán năng lực: 27. Danh sách kiểm toán năng lực ghi nhận 27 vai trò liên quan. Không chứng minh nhân sự quy đổi toàn thời gian có thể phân bổ, công suất trống, mức sử dụng hoặc mức làm chủ chuyên môn.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-25",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-25",
+      "data_object_id": "WEB16-METRIC-25",
+      "metric_ids": [
+        "Q::S35::SAVA_COMPANY_STAFF"
+      ],
+      "claim_ids": [
+        "CLM-WEB17-INTERNAL-COUNTS-SEPARATE"
+      ],
+      "source_ids": [
+        "S35"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": ">80",
+      "accessibility_behavior": "Quy mô nhân sự toàn công ty SAVA: >80. Hồ sơ công ty báo cáo quy mô nhân sự toàn công ty trên 80 người. Không chứng minh quy mô đội Savrse có thể phân bổ hoặc công suất của BU.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-01::WEB-02",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-02",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-01",
+      "metric_ids": [
+        "Q::S31::OPPORTUNITY_UNIVERSE_TOTAL"
+      ],
+      "claim_ids": [
+        "CLM-WEB02-UNIVERSE-COUNT",
+        "CLM-WEB02-RANKABLE-UMBRELLA",
+        "CLM-WEB18-SOURCE-HUB-COUNT"
+      ],
+      "source_ids": [
+        "S31"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-01::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-01",
+      "metric_ids": [
+        "Q::S31::OPPORTUNITY_UNIVERSE_TOTAL"
+      ],
+      "claim_ids": [
+        "CLM-WEB02-UNIVERSE-COUNT",
+        "CLM-WEB02-RANKABLE-UMBRELLA",
+        "CLM-WEB18-SOURCE-HUB-COUNT"
+      ],
+      "source_ids": [
+        "S31"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C40",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-02::WEB-02",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-02",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-02",
+      "metric_ids": [
+        "Q::S31::RANKABLE_RECORDS"
+      ],
+      "claim_ids": [
+        "CLM-WEB02-UNIVERSE-COUNT",
+        "CLM-WEB02-RANKABLE-UMBRELLA",
+        "CLM-WEB18-SOURCE-HUB-COUNT"
+      ],
+      "source_ids": [
+        "S31"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-02::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-02",
+      "metric_ids": [
+        "Q::S31::RANKABLE_RECORDS"
+      ],
+      "claim_ids": [
+        "CLM-WEB02-UNIVERSE-COUNT",
+        "CLM-WEB02-RANKABLE-UMBRELLA",
+        "CLM-WEB18-SOURCE-HUB-COUNT"
+      ],
+      "source_ids": [
+        "S31"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C40",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-03::WEB-02",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-02",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-03",
+      "metric_ids": [
+        "Q::S31::UMBRELLA_NONRANKABLE_RECORDS"
+      ],
+      "claim_ids": [
+        "CLM-WEB02-UNIVERSE-COUNT",
+        "CLM-WEB02-RANKABLE-UMBRELLA",
+        "CLM-WEB18-SOURCE-HUB-COUNT"
+      ],
+      "source_ids": [
+        "S31"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-03::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-03",
+      "metric_ids": [
+        "Q::S31::UMBRELLA_NONRANKABLE_RECORDS"
+      ],
+      "claim_ids": [
+        "CLM-WEB02-UNIVERSE-COUNT",
+        "CLM-WEB02-RANKABLE-UMBRELLA",
+        "CLM-WEB18-SOURCE-HUB-COUNT"
+      ],
+      "source_ids": [
+        "S31"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C40",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-04::WEB-03",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-03",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-04",
+      "metric_ids": [
+        "Q::S32::B2B_FUNNEL"
+      ],
+      "claim_ids": [
+        "CLM-WEB03-B2B-FUNNEL"
+      ],
+      "source_ids": [
+        "S32"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C04",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-04::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-04",
+      "metric_ids": [
+        "Q::S32::B2B_FUNNEL"
+      ],
+      "claim_ids": [
+        "CLM-WEB03-B2B-FUNNEL"
+      ],
+      "source_ids": [
+        "S32"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C40",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-05::WEB-04",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-04",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-05",
+      "metric_ids": [
+        "Q::S32::B2C_FUNNEL"
+      ],
+      "claim_ids": [
+        "CLM-WEB04-B2C-FUNNEL"
+      ],
+      "source_ids": [
+        "S32"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C14",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-05::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-05",
+      "metric_ids": [
+        "Q::S32::B2C_FUNNEL"
+      ],
+      "claim_ids": [
+        "CLM-WEB04-B2C-FUNNEL"
+      ],
+      "source_ids": [
+        "S32"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C40",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-06::WEB-06",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-06",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-06",
+      "metric_ids": [
+        "Q::S09::ORF_VIZRT_CONTRACT_VALUE"
+      ],
+      "claim_ids": [
+        "CLM-WEB06-B2B-RANK-04"
+      ],
+      "source_ids": [
+        "S09"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-06::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-06",
+      "metric_ids": [
+        "Q::S09::ORF_VIZRT_CONTRACT_VALUE"
+      ],
+      "claim_ids": [
+        "CLM-WEB06-B2B-RANK-04"
+      ],
+      "source_ids": [
+        "S09"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C40",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-07::WEB-06",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-06",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-07",
+      "metric_ids": [
+        "Q::S05::COMMISSION_TIME_REDUCTION"
+      ],
+      "claim_ids": [
+        "CLM-WEB06-B2B-RANK-02"
+      ],
+      "source_ids": [
+        "S05"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-07::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-07",
+      "metric_ids": [
+        "Q::S05::COMMISSION_TIME_REDUCTION"
+      ],
+      "claim_ids": [
+        "CLM-WEB06-B2B-RANK-02"
+      ],
+      "source_ids": [
+        "S05"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C40",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-08::WEB-06",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-06",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-08",
+      "metric_ids": [
+        "Q::S05::FOLLOW_ON_PROJECTS"
+      ],
+      "claim_ids": [
+        "CLM-WEB06-B2B-RANK-02"
+      ],
+      "source_ids": [
+        "S05"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-08::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-08",
+      "metric_ids": [
+        "Q::S05::FOLLOW_ON_PROJECTS"
+      ],
+      "claim_ids": [
+        "CLM-WEB06-B2B-RANK-02"
+      ],
+      "source_ids": [
+        "S05"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C40",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-09::WEB-08",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-08",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-09",
+      "metric_ids": [
+        "Q::S13::GOLF_BASE_LIST_PRICE"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-01"
+      ],
+      "source_ids": [
+        "S13"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-09::WEB-09",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-09",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-09",
+      "metric_ids": [
+        "Q::S13::GOLF_BASE_LIST_PRICE"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-01"
+      ],
+      "source_ids": [
+        "S13"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C28",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-09::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-09",
+      "metric_ids": [
+        "Q::S13::GOLF_BASE_LIST_PRICE"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-01"
+      ],
+      "source_ids": [
+        "S13"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C40",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-10::WEB-08",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-08",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-10",
+      "metric_ids": [
+        "Q::S14::GOLF_PASS_COURSES",
+        "Q::S14::GOLF_PASS_MONTHLY",
+        "Q::S14::GOLF_PASS_ANNUAL"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-01"
+      ],
+      "source_ids": [
+        "S14"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-10::WEB-09",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-09",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-10",
+      "metric_ids": [
+        "Q::S14::GOLF_PASS_COURSES",
+        "Q::S14::GOLF_PASS_MONTHLY",
+        "Q::S14::GOLF_PASS_ANNUAL"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-01"
+      ],
+      "source_ids": [
+        "S14"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C28",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-10::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-10",
+      "metric_ids": [
+        "Q::S14::GOLF_PASS_COURSES",
+        "Q::S14::GOLF_PASS_MONTHLY",
+        "Q::S14::GOLF_PASS_ANNUAL"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-01"
+      ],
+      "source_ids": [
+        "S14"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C40",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-11::WEB-08",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-08",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-11",
+      "metric_ids": [
+        "Q::S15::RACKET_CLUB_LIST_PRICE"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-01"
+      ],
+      "source_ids": [
+        "S15"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-11::WEB-09",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-09",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-11",
+      "metric_ids": [
+        "Q::S15::RACKET_CLUB_LIST_PRICE"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-01"
+      ],
+      "source_ids": [
+        "S15"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C28",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-11::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-11",
+      "metric_ids": [
+        "Q::S15::RACKET_CLUB_LIST_PRICE"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-01"
+      ],
+      "source_ids": [
+        "S15"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C40",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-12::WEB-08",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-08",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-12",
+      "metric_ids": [
+        "Q::S16::SYNTH_RIDERS_PACK_PRICE"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-02",
+        "CLM-WEB12-MUSIC-PAID-ARCHITECTURE"
+      ],
+      "source_ids": [
+        "S16"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-12::WEB-12",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-12",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-12",
+      "metric_ids": [
+        "Q::S16::SYNTH_RIDERS_PACK_PRICE"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-02",
+        "CLM-WEB12-MUSIC-PAID-ARCHITECTURE"
+      ],
+      "source_ids": [
+        "S16"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-12::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-12",
+      "metric_ids": [
+        "Q::S16::SYNTH_RIDERS_PACK_PRICE"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-02",
+        "CLM-WEB12-MUSIC-PAID-ARCHITECTURE"
+      ],
+      "source_ids": [
+        "S16"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C40",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-13::WEB-08",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-08",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-13",
+      "metric_ids": [
+        "Q::S18::CUBISM_LIST_PRICE"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-03"
+      ],
+      "source_ids": [
+        "S18"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-13::WEB-13",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-13",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-13",
+      "metric_ids": [
+        "Q::S18::CUBISM_LIST_PRICE"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-03"
+      ],
+      "source_ids": [
+        "S18"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C32",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-13::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-13",
+      "metric_ids": [
+        "Q::S18::CUBISM_LIST_PRICE"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-03"
+      ],
+      "source_ids": [
+        "S18"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C40",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-14::WEB-08",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-08",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-14",
+      "metric_ids": [
+        "Q::S19::PUZZLING_PLACES_LIST_PRICE"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-03"
+      ],
+      "source_ids": [
+        "S19"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-14::WEB-13",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-13",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-14",
+      "metric_ids": [
+        "Q::S19::PUZZLING_PLACES_LIST_PRICE"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-03"
+      ],
+      "source_ids": [
+        "S19"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C32",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-14::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-14",
+      "metric_ids": [
+        "Q::S19::PUZZLING_PLACES_LIST_PRICE"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-03"
+      ],
+      "source_ids": [
+        "S19"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C40",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-15::WEB-08",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-08",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-15",
+      "metric_ids": [
+        "Q::S20::NOUN_TOWN_LIST_PRICE",
+        "Q::S20::NOUN_TOWN_LANGUAGES",
+        "Q::S20::NOUN_TOWN_PLAYERS"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-04"
+      ],
+      "source_ids": [
+        "S20"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-15::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-15",
+      "metric_ids": [
+        "Q::S20::NOUN_TOWN_LIST_PRICE",
+        "Q::S20::NOUN_TOWN_LANGUAGES",
+        "Q::S20::NOUN_TOWN_PLAYERS"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-04"
+      ],
+      "source_ids": [
+        "S20"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C40",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-16::WEB-08",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-08",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-16",
+      "metric_ids": [
+        "Q::S24::LANGUAGE_RCT_COUNT"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-04"
+      ],
+      "source_ids": [
+        "S24"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-16::WEB-15",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-15",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-16",
+      "metric_ids": [
+        "Q::S24::LANGUAGE_RCT_COUNT"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-04"
+      ],
+      "source_ids": [
+        "S24"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C13",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-16::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-16",
+      "metric_ids": [
+        "Q::S24::LANGUAGE_RCT_COUNT"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-04"
+      ],
+      "source_ids": [
+        "S24"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C40",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-17::WEB-08",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-08",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-17",
+      "metric_ids": [
+        "Q::S21::ZERO_LATENCY_SYSTEM_PRICE",
+        "Q::S21::ZERO_LATENCY_REVENUE_SHARE"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-05"
+      ],
+      "source_ids": [
+        "S21"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-17::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-17",
+      "metric_ids": [
+        "Q::S21::ZERO_LATENCY_SYSTEM_PRICE",
+        "Q::S21::ZERO_LATENCY_REVENUE_SHARE"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-05"
+      ],
+      "source_ids": [
+        "S21"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C40",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-18::WEB-08",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-08",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-18",
+      "metric_ids": [
+        "Q::S22::ZERO_LATENCY_VENUES",
+        "Q::S22::ZERO_LATENCY_PLAYS"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-05"
+      ],
+      "source_ids": [
+        "S22"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C09",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-18::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-18",
+      "metric_ids": [
+        "Q::S22::ZERO_LATENCY_VENUES",
+        "Q::S22::ZERO_LATENCY_PLAYS"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-05"
+      ],
+      "source_ids": [
+        "S22"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C40",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-19::WEB-15",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-15",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-19",
+      "metric_ids": [
+        "Q::S26::FRISCO_CLOSURE_PERIOD"
+      ],
+      "claim_ids": [
+        "CLM-WEB15-COUNTER-EVIDENCE-ACCESS"
+      ],
+      "source_ids": [
+        "S26"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C13",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-19::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-19",
+      "metric_ids": [
+        "Q::S26::FRISCO_CLOSURE_PERIOD"
+      ],
+      "claim_ids": [
+        "CLM-WEB15-COUNTER-EVIDENCE-ACCESS"
+      ],
+      "source_ids": [
+        "S26"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C40",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-20::WEB-15",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-15",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-20",
+      "metric_ids": [
+        "Q::S27::FITXR_WORKOUT_LIBRARY"
+      ],
+      "claim_ids": [],
+      "source_ids": [
+        "S27"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C13",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-20::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-20",
+      "metric_ids": [
+        "Q::S27::FITXR_WORKOUT_LIBRARY"
+      ],
+      "claim_ids": [],
+      "source_ids": [
+        "S27"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C40",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-21::WEB-15",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-15",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-21",
+      "metric_ids": [
+        "Q::S28::IMMERSED_UNIQUE_USERS"
+      ],
+      "claim_ids": [],
+      "source_ids": [
+        "S28"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C13",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-21::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-21",
+      "metric_ids": [
+        "Q::S28::IMMERSED_UNIQUE_USERS"
+      ],
+      "claim_ids": [],
+      "source_ids": [
+        "S28"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C40",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-22::WEB-15",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-15",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-22",
+      "metric_ids": [
+        "Q::S29::HOUZZ_AR_USERS"
+      ],
+      "claim_ids": [],
+      "source_ids": [
+        "S29"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C13",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-22::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-22",
+      "metric_ids": [
+        "Q::S29::HOUZZ_AR_USERS"
+      ],
+      "claim_ids": [],
+      "source_ids": [
+        "S29"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C40",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-23::WEB-15",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-15",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-23",
+      "metric_ids": [
+        "Q::S30::REC_ROOM_LIFETIME_PLAYERS",
+        "Q::S30::REC_ROOM_MONTHLY_USERS"
+      ],
+      "claim_ids": [
+        "CLM-WEB15-COUNTER-EVIDENCE-ACCESS"
+      ],
+      "source_ids": [
+        "S30"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C13",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-23::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-23",
+      "metric_ids": [
+        "Q::S30::REC_ROOM_LIFETIME_PLAYERS",
+        "Q::S30::REC_ROOM_MONTHLY_USERS"
+      ],
+      "claim_ids": [
+        "CLM-WEB15-COUNTER-EVIDENCE-ACCESS"
+      ],
+      "source_ids": [
+        "S30"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C40",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-24::WEB-17",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-17",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-24",
+      "metric_ids": [
+        "Q::S34::SAVRSE_ROSTER_ROLES"
+      ],
+      "claim_ids": [
+        "CLM-WEB17-INTERNAL-COUNTS-SEPARATE",
+        "CLM-WEB17-LIMITED-EXECUTION"
+      ],
+      "source_ids": [
+        "S34"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C04",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-24::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-24",
+      "metric_ids": [
+        "Q::S34::SAVRSE_ROSTER_ROLES"
+      ],
+      "claim_ids": [
+        "CLM-WEB17-INTERNAL-COUNTS-SEPARATE",
+        "CLM-WEB17-LIMITED-EXECUTION"
+      ],
+      "source_ids": [
+        "S34"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C40",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-25::WEB-17",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-17",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-25",
+      "metric_ids": [
+        "Q::S35::SAVA_COMPANY_STAFF"
+      ],
+      "claim_ids": [
+        "CLM-WEB17-INTERNAL-COUNTS-SEPARATE"
+      ],
+      "source_ids": [
+        "S35"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C04",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-25::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-25",
+      "metric_ids": [
+        "Q::S35::SAVA_COMPANY_STAFF"
+      ],
+      "claim_ids": [
+        "CLM-WEB17-INTERNAL-COUNTS-SEPARATE"
+      ],
+      "source_ids": [
+        "S35"
+      ],
+      "data_source_component_id": "C09",
+      "render_component_id": "C40",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "DATA_DONOR",
+      "mobile_behavior": "Render bằng component đích được V1C cho phép; không tái sử dụng component nguồn ngoài phạm vi.",
+      "accessibility_behavior": "Giữ cùng text-equivalent/caveat/proves-not-proves của data object.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2B-SL-01",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-05",
+      "content_object_id": null,
+      "data_object_id": "B2B-SL-01",
+      "metric_ids": [],
+      "claim_ids": [],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S34"
+      ],
+      "data_source_component_id": "C19",
+      "render_component_id": "C19",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Shortlist row → stacked summary/accordion; giữ outcome và caveat.",
+      "accessibility_behavior": "Tên cơ hội, trạng thái và lý do giữ/loại có text tương đương.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2B-SL-02",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-05",
+      "content_object_id": null,
+      "data_object_id": "B2B-SL-02",
+      "metric_ids": [
+        "Q::S05::COMMISSION_TIME_REDUCTION",
+        "Q::S05::FOLLOW_ON_PROJECTS"
+      ],
+      "claim_ids": [],
+      "source_ids": [
+        "S05",
+        "S34"
+      ],
+      "data_source_component_id": "C19",
+      "render_component_id": "C19",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Shortlist row → stacked summary/accordion; giữ outcome và caveat.",
+      "accessibility_behavior": "Tên cơ hội, trạng thái và lý do giữ/loại có text tương đương.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2B-SL-03",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-05",
+      "content_object_id": null,
+      "data_object_id": "B2B-SL-03",
+      "metric_ids": [],
+      "claim_ids": [],
+      "source_ids": [
+        "S06",
+        "S07",
+        "S08",
+        "S34"
+      ],
+      "data_source_component_id": "C19",
+      "render_component_id": "C19",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Shortlist row → stacked summary/accordion; giữ outcome và caveat.",
+      "accessibility_behavior": "Tên cơ hội, trạng thái và lý do giữ/loại có text tương đương.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2B-SL-04",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-05",
+      "content_object_id": null,
+      "data_object_id": "B2B-SL-04",
+      "metric_ids": [
+        "Q::S09::ORF_VIZRT_CONTRACT_VALUE"
+      ],
+      "claim_ids": [],
+      "source_ids": [
+        "S09",
+        "S10",
+        "S34"
+      ],
+      "data_source_component_id": "C19",
+      "render_component_id": "C19",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Shortlist row → stacked summary/accordion; giữ outcome và caveat.",
+      "accessibility_behavior": "Tên cơ hội, trạng thái và lý do giữ/loại có text tương đương.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2B-SL-05",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-05",
+      "content_object_id": null,
+      "data_object_id": "B2B-SL-05",
+      "metric_ids": [],
+      "claim_ids": [],
+      "source_ids": [
+        "S11",
+        "S12",
+        "S34"
+      ],
+      "data_source_component_id": "C19",
+      "render_component_id": "C19",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Shortlist row → stacked summary/accordion; giữ outcome và caveat.",
+      "accessibility_behavior": "Tên cơ hội, trạng thái và lý do giữ/loại có text tương đương.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2B-SL-06",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-05",
+      "content_object_id": null,
+      "data_object_id": "B2B-SL-06",
+      "metric_ids": [],
+      "claim_ids": [],
+      "source_ids": [],
+      "data_source_component_id": "C19",
+      "render_component_id": "C19",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Shortlist row → stacked summary/accordion; giữ outcome và caveat.",
+      "accessibility_behavior": "Tên cơ hội, trạng thái và lý do giữ/loại có text tương đương.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2B-SL-07",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-05",
+      "content_object_id": null,
+      "data_object_id": "B2B-SL-07",
+      "metric_ids": [],
+      "claim_ids": [],
+      "source_ids": [],
+      "data_source_component_id": "C19",
+      "render_component_id": "C19",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Shortlist row → stacked summary/accordion; giữ outcome và caveat.",
+      "accessibility_behavior": "Tên cơ hội, trạng thái và lý do giữ/loại có text tương đương.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2B-SL-08",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-05",
+      "content_object_id": null,
+      "data_object_id": "B2B-SL-08",
+      "metric_ids": [],
+      "claim_ids": [],
+      "source_ids": [],
+      "data_source_component_id": "C19",
+      "render_component_id": "C19",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Shortlist row → stacked summary/accordion; giữ outcome và caveat.",
+      "accessibility_behavior": "Tên cơ hội, trạng thái và lý do giữ/loại có text tương đương.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2B-SL-09",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-05",
+      "content_object_id": null,
+      "data_object_id": "B2B-SL-09",
+      "metric_ids": [],
+      "claim_ids": [],
+      "source_ids": [],
+      "data_source_component_id": "C19",
+      "render_component_id": "C19",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Shortlist row → stacked summary/accordion; giữ outcome và caveat.",
+      "accessibility_behavior": "Tên cơ hội, trạng thái và lý do giữ/loại có text tương đương.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2B-SL-10",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-05",
+      "content_object_id": null,
+      "data_object_id": "B2B-SL-10",
+      "metric_ids": [],
+      "claim_ids": [],
+      "source_ids": [],
+      "data_source_component_id": "C19",
+      "render_component_id": "C19",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Shortlist row → stacked summary/accordion; giữ outcome và caveat.",
+      "accessibility_behavior": "Tên cơ hội, trạng thái và lý do giữ/loại có text tương đương.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2B-SL-11",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-05",
+      "content_object_id": null,
+      "data_object_id": "B2B-SL-11",
+      "metric_ids": [],
+      "claim_ids": [],
+      "source_ids": [],
+      "data_source_component_id": "C19",
+      "render_component_id": "C19",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Shortlist row → stacked summary/accordion; giữ outcome và caveat.",
+      "accessibility_behavior": "Tên cơ hội, trạng thái và lý do giữ/loại có text tương đương.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2B-SL-12",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-05",
+      "content_object_id": null,
+      "data_object_id": "B2B-SL-12",
+      "metric_ids": [
+        "Q::S29::HOUZZ_AR_USERS"
+      ],
+      "claim_ids": [],
+      "source_ids": [
+        "S29"
+      ],
+      "data_source_component_id": "C19",
+      "render_component_id": "C19",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Shortlist row → stacked summary/accordion; giữ outcome và caveat.",
+      "accessibility_behavior": "Tên cơ hội, trạng thái và lý do giữ/loại có text tương đương.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2C-SL-01",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-07",
+      "content_object_id": null,
+      "data_object_id": "B2C-SL-01",
+      "metric_ids": [
+        "Q::S13::GOLF_BASE_LIST_PRICE",
+        "Q::S14::GOLF_PASS_COURSES",
+        "Q::S14::GOLF_PASS_MONTHLY",
+        "Q::S14::GOLF_PASS_ANNUAL",
+        "Q::S15::RACKET_CLUB_LIST_PRICE"
+      ],
+      "claim_ids": [],
+      "source_ids": [
+        "S13",
+        "S14",
+        "S15",
+        "S34"
+      ],
+      "data_source_component_id": "C19",
+      "render_component_id": "C19",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Shortlist row → stacked summary/accordion; giữ outcome và caveat.",
+      "accessibility_behavior": "Tên cơ hội, trạng thái và lý do giữ/loại có text tương đương.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2C-SL-02",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-07",
+      "content_object_id": null,
+      "data_object_id": "B2C-SL-02",
+      "metric_ids": [
+        "Q::S16::SYNTH_RIDERS_PACK_PRICE"
+      ],
+      "claim_ids": [],
+      "source_ids": [
+        "S16",
+        "S17",
+        "S23",
+        "S34"
+      ],
+      "data_source_component_id": "C19",
+      "render_component_id": "C19",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Shortlist row → stacked summary/accordion; giữ outcome và caveat.",
+      "accessibility_behavior": "Tên cơ hội, trạng thái và lý do giữ/loại có text tương đương.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2C-SL-03",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-07",
+      "content_object_id": null,
+      "data_object_id": "B2C-SL-03",
+      "metric_ids": [
+        "Q::S18::CUBISM_LIST_PRICE",
+        "Q::S19::PUZZLING_PLACES_LIST_PRICE"
+      ],
+      "claim_ids": [],
+      "source_ids": [
+        "S18",
+        "S19"
+      ],
+      "data_source_component_id": "C19",
+      "render_component_id": "C19",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Shortlist row → stacked summary/accordion; giữ outcome và caveat.",
+      "accessibility_behavior": "Tên cơ hội, trạng thái và lý do giữ/loại có text tương đương.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2C-SL-04",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-07",
+      "content_object_id": null,
+      "data_object_id": "B2C-SL-04",
+      "metric_ids": [
+        "Q::S20::NOUN_TOWN_LIST_PRICE",
+        "Q::S20::NOUN_TOWN_LANGUAGES",
+        "Q::S20::NOUN_TOWN_PLAYERS",
+        "Q::S24::LANGUAGE_RCT_COUNT"
+      ],
+      "claim_ids": [],
+      "source_ids": [
+        "S20",
+        "S24",
+        "S25"
+      ],
+      "data_source_component_id": "C19",
+      "render_component_id": "C19",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Shortlist row → stacked summary/accordion; giữ outcome và caveat.",
+      "accessibility_behavior": "Tên cơ hội, trạng thái và lý do giữ/loại có text tương đương.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2C-SL-05",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-07",
+      "content_object_id": null,
+      "data_object_id": "B2C-SL-05",
+      "metric_ids": [
+        "Q::S21::ZERO_LATENCY_SYSTEM_PRICE",
+        "Q::S21::ZERO_LATENCY_REVENUE_SHARE",
+        "Q::S22::ZERO_LATENCY_VENUES",
+        "Q::S22::ZERO_LATENCY_PLAYS",
+        "Q::S26::FRISCO_CLOSURE_PERIOD"
+      ],
+      "claim_ids": [],
+      "source_ids": [
+        "S21",
+        "S22",
+        "S26"
+      ],
+      "data_source_component_id": "C19",
+      "render_component_id": "C19",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Shortlist row → stacked summary/accordion; giữ outcome và caveat.",
+      "accessibility_behavior": "Tên cơ hội, trạng thái và lý do giữ/loại có text tương đương.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2C-SL-06",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-07",
+      "content_object_id": null,
+      "data_object_id": "B2C-SL-06",
+      "metric_ids": [
+        "Q::S27::FITXR_WORKOUT_LIBRARY"
+      ],
+      "claim_ids": [],
+      "source_ids": [
+        "S27"
+      ],
+      "data_source_component_id": "C19",
+      "render_component_id": "C19",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Shortlist row → stacked summary/accordion; giữ outcome và caveat.",
+      "accessibility_behavior": "Tên cơ hội, trạng thái và lý do giữ/loại có text tương đương.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2C-SL-07",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-07",
+      "content_object_id": null,
+      "data_object_id": "B2C-SL-07",
+      "metric_ids": [
+        "Q::S28::IMMERSED_UNIQUE_USERS"
+      ],
+      "claim_ids": [],
+      "source_ids": [
+        "S28"
+      ],
+      "data_source_component_id": "C19",
+      "render_component_id": "C19",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Shortlist row → stacked summary/accordion; giữ outcome và caveat.",
+      "accessibility_behavior": "Tên cơ hội, trạng thái và lý do giữ/loại có text tương đương.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2C-SL-08",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-07",
+      "content_object_id": null,
+      "data_object_id": "B2C-SL-08",
+      "metric_ids": [
+        "Q::S29::HOUZZ_AR_USERS"
+      ],
+      "claim_ids": [],
+      "source_ids": [
+        "S29"
+      ],
+      "data_source_component_id": "C19",
+      "render_component_id": "C19",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Shortlist row → stacked summary/accordion; giữ outcome và caveat.",
+      "accessibility_behavior": "Tên cơ hội, trạng thái và lý do giữ/loại có text tương đương.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2C-SL-09",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-07",
+      "content_object_id": null,
+      "data_object_id": "B2C-SL-09",
+      "metric_ids": [
+        "Q::S30::REC_ROOM_LIFETIME_PLAYERS",
+        "Q::S30::REC_ROOM_MONTHLY_USERS"
+      ],
+      "claim_ids": [],
+      "source_ids": [
+        "S30"
+      ],
+      "data_source_component_id": "C19",
+      "render_component_id": "C19",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Shortlist row → stacked summary/accordion; giữ outcome và caveat.",
+      "accessibility_behavior": "Tên cơ hội, trạng thái và lý do giữ/loại có text tương đương.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2C-SL-10",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-07",
+      "content_object_id": null,
+      "data_object_id": "B2C-SL-10",
+      "metric_ids": [],
+      "claim_ids": [],
+      "source_ids": [],
+      "data_source_component_id": "C19",
+      "render_component_id": "C19",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Shortlist row → stacked summary/accordion; giữ outcome và caveat.",
+      "accessibility_behavior": "Tên cơ hội, trạng thái và lý do giữ/loại có text tương đương.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2C-SL-11",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-07",
+      "content_object_id": null,
+      "data_object_id": "B2C-SL-11",
+      "metric_ids": [],
+      "claim_ids": [],
+      "source_ids": [],
+      "data_source_component_id": "C19",
+      "render_component_id": "C19",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Shortlist row → stacked summary/accordion; giữ outcome và caveat.",
+      "accessibility_behavior": "Tên cơ hội, trạng thái và lý do giữ/loại có text tương đương.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::FINALIST::FIN-B2B-01",
+      "binding_type": "FINALIST_PROFILE",
+      "section_id": "WEB-06",
+      "content_object_id": null,
+      "data_object_id": "FIN-B2B-01",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB01-HEALTHCARE-PRIORITY",
+        "CLM-WEB06-B2B-RANK-01",
+        "CLM-WEB07-HEALTHCARE-SAVA",
+        "CLM-WEB10-HEALTHCARE-PROCUREMENT",
+        "CLM-WEB10-HEALTHCARE-ACADEMIC-CEILING",
+        "CLM-WEB10-HEALTHCARE-PARTNER-GATE"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S34"
+      ],
+      "data_source_component_id": "C20",
+      "render_component_id": "C20",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Profile card xếp dọc; giữ external rank, SAVA implication và must-not-infer.",
+      "accessibility_behavior": "Toàn bộ dữ kiện finalist có text-equivalent.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::FINALIST::FIN-B2B-02",
+      "binding_type": "FINALIST_PROFILE",
+      "section_id": "WEB-06",
+      "content_object_id": null,
+      "data_object_id": "FIN-B2B-02",
+      "metric_ids": [
+        "Q::S05::COMMISSION_TIME_REDUCTION",
+        "Q::S05::FOLLOW_ON_PROJECTS"
+      ],
+      "claim_ids": [
+        "CLM-WEB06-B2B-RANK-02",
+        "CLM-WEB07-VC-SAVA"
+      ],
+      "source_ids": [
+        "S05",
+        "S34"
+      ],
+      "data_source_component_id": "C20",
+      "render_component_id": "C20",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Profile card xếp dọc; giữ external rank, SAVA implication và must-not-infer.",
+      "accessibility_behavior": "Toàn bộ dữ kiện finalist có text-equivalent.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::FINALIST::FIN-B2B-03",
+      "binding_type": "FINALIST_PROFILE",
+      "section_id": "WEB-06",
+      "content_object_id": null,
+      "data_object_id": "FIN-B2B-03",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB06-B2B-RANK-03",
+        "CLM-WEB07-WAREHOUSE-SAVA"
+      ],
+      "source_ids": [
+        "S06",
+        "S07",
+        "S08",
+        "S34"
+      ],
+      "data_source_component_id": "C20",
+      "render_component_id": "C20",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Profile card xếp dọc; giữ external rank, SAVA implication và must-not-infer.",
+      "accessibility_behavior": "Toàn bộ dữ kiện finalist có text-equivalent.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::FINALIST::FIN-B2B-04",
+      "binding_type": "FINALIST_PROFILE",
+      "section_id": "WEB-06",
+      "content_object_id": null,
+      "data_object_id": "FIN-B2B-04",
+      "metric_ids": [
+        "Q::S09::ORF_VIZRT_CONTRACT_VALUE"
+      ],
+      "claim_ids": [
+        "CLM-WEB06-B2B-RANK-04",
+        "CLM-WEB07-BROADCAST-SAVA"
+      ],
+      "source_ids": [
+        "S09",
+        "S10",
+        "S34"
+      ],
+      "data_source_component_id": "C20",
+      "render_component_id": "C20",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Profile card xếp dọc; giữ external rank, SAVA implication và must-not-infer.",
+      "accessibility_behavior": "Toàn bộ dữ kiện finalist có text-equivalent.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::FINALIST::FIN-B2B-05",
+      "binding_type": "FINALIST_PROFILE",
+      "section_id": "WEB-06",
+      "content_object_id": null,
+      "data_object_id": "FIN-B2B-05",
+      "metric_ids": [],
+      "claim_ids": [
+        "CLM-WEB06-B2B-RANK-05",
+        "CLM-WEB07-CONSTRUCTION-SAVA"
+      ],
+      "source_ids": [
+        "S11",
+        "S12",
+        "S34"
+      ],
+      "data_source_component_id": "C20",
+      "render_component_id": "C20",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Profile card xếp dọc; giữ external rank, SAVA implication và must-not-infer.",
+      "accessibility_behavior": "Toàn bộ dữ kiện finalist có text-equivalent.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::FINALIST::FIN-B2C-01",
+      "binding_type": "FINALIST_PROFILE",
+      "section_id": "WEB-08",
+      "content_object_id": null,
+      "data_object_id": "FIN-B2C-01",
+      "metric_ids": [
+        "Q::S13::GOLF_BASE_LIST_PRICE",
+        "Q::S14::GOLF_PASS_COURSES",
+        "Q::S14::GOLF_PASS_MONTHLY",
+        "Q::S14::GOLF_PASS_ANNUAL",
+        "Q::S15::RACKET_CLUB_LIST_PRICE"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-01",
+        "CLM-WEB09-SPORTS-SAVA"
+      ],
+      "source_ids": [
+        "S13",
+        "S14",
+        "S15",
+        "S34"
+      ],
+      "data_source_component_id": "C20",
+      "render_component_id": "C20",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Profile card xếp dọc; giữ external rank, SAVA implication và must-not-infer.",
+      "accessibility_behavior": "Toàn bộ dữ kiện finalist có text-equivalent.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::FINALIST::FIN-B2C-02",
+      "binding_type": "FINALIST_PROFILE",
+      "section_id": "WEB-08",
+      "content_object_id": null,
+      "data_object_id": "FIN-B2C-02",
+      "metric_ids": [
+        "Q::S16::SYNTH_RIDERS_PACK_PRICE"
+      ],
+      "claim_ids": [
+        "CLM-WEB01-MUSIC-PRIORITY",
+        "CLM-WEB08-B2C-RANK-02",
+        "CLM-WEB12-MUSIC-SAVA",
+        "CLM-WEB12-MUSIC-PAID-ARCHITECTURE",
+        "CLM-WEB12-MUSIC-RIGHTS-LIFECYCLE",
+        "CLM-WEB12-MUSIC-PROTOTYPE-GATE"
+      ],
+      "source_ids": [
+        "S16",
+        "S17",
+        "S23",
+        "S34"
+      ],
+      "data_source_component_id": "C20",
+      "render_component_id": "C20",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Profile card xếp dọc; giữ external rank, SAVA implication và must-not-infer.",
+      "accessibility_behavior": "Toàn bộ dữ kiện finalist có text-equivalent.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::FINALIST::FIN-B2C-03",
+      "binding_type": "FINALIST_PROFILE",
+      "section_id": "WEB-08",
+      "content_object_id": null,
+      "data_object_id": "FIN-B2C-03",
+      "metric_ids": [
+        "Q::S18::CUBISM_LIST_PRICE",
+        "Q::S19::PUZZLING_PLACES_LIST_PRICE"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-03",
+        "CLM-WEB13-PUZZLE-SAVA"
+      ],
+      "source_ids": [
+        "S18",
+        "S19"
+      ],
+      "data_source_component_id": "C20",
+      "render_component_id": "C20",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Profile card xếp dọc; giữ external rank, SAVA implication và must-not-infer.",
+      "accessibility_behavior": "Toàn bộ dữ kiện finalist có text-equivalent.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::FINALIST::FIN-B2C-04",
+      "binding_type": "FINALIST_PROFILE",
+      "section_id": "WEB-08",
+      "content_object_id": null,
+      "data_object_id": "FIN-B2C-04",
+      "metric_ids": [
+        "Q::S20::NOUN_TOWN_LIST_PRICE",
+        "Q::S20::NOUN_TOWN_LANGUAGES",
+        "Q::S20::NOUN_TOWN_PLAYERS",
+        "Q::S24::LANGUAGE_RCT_COUNT"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-04",
+        "CLM-WEB08-LANGUAGE-SAVA"
+      ],
+      "source_ids": [
+        "S20",
+        "S24",
+        "S25"
+      ],
+      "data_source_component_id": "C20",
+      "render_component_id": "C20",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Profile card xếp dọc; giữ external rank, SAVA implication và must-not-infer.",
+      "accessibility_behavior": "Toàn bộ dữ kiện finalist có text-equivalent.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::FINALIST::FIN-B2C-05",
+      "binding_type": "FINALIST_PROFILE",
+      "section_id": "WEB-08",
+      "content_object_id": null,
+      "data_object_id": "FIN-B2C-05",
+      "metric_ids": [
+        "Q::S21::ZERO_LATENCY_SYSTEM_PRICE",
+        "Q::S21::ZERO_LATENCY_REVENUE_SHARE",
+        "Q::S22::ZERO_LATENCY_VENUES",
+        "Q::S22::ZERO_LATENCY_PLAYS"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-05",
+        "CLM-WEB08-LBE-SAVA"
+      ],
+      "source_ids": [
+        "S21",
+        "S22",
+        "S26"
+      ],
+      "data_source_component_id": "C20",
+      "render_component_id": "C20",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Profile card xếp dọc; giữ external rank, SAVA implication và must-not-infer.",
+      "accessibility_behavior": "Toàn bộ dữ kiện finalist có text-equivalent.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::DEEP::DD-B2B-HEALTHCARE",
+      "binding_type": "DEEP_DIVE_PROFILE",
+      "section_id": "WEB-06",
+      "content_object_id": null,
+      "data_object_id": "DD-B2B-HEALTHCARE",
+      "metric_ids": [
+        "Q::S34::SAVRSE_ROSTER_ROLES"
+      ],
+      "claim_ids": [
+        "CLM-WEB01-HEALTHCARE-PRIORITY",
+        "CLM-WEB06-B2B-RANK-01",
+        "CLM-WEB07-HEALTHCARE-SAVA",
+        "CLM-WEB10-HEALTHCARE-PROCUREMENT",
+        "CLM-WEB10-HEALTHCARE-ACADEMIC-CEILING",
+        "CLM-WEB10-HEALTHCARE-PARTNER-GATE"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S34"
+      ],
+      "data_source_component_id": "C21",
+      "render_component_id": "C21",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Deep dive chia module; không rút gọn làm mất unknown/gate/stop condition.",
+      "accessibility_behavior": "Workflow, evidence, counter-evidence và validation gate có bản text.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::DEEP::DD-B2B-VC",
+      "binding_type": "DEEP_DIVE_PROFILE",
+      "section_id": "WEB-06",
+      "content_object_id": null,
+      "data_object_id": "DD-B2B-VC",
+      "metric_ids": [
+        "Q::S05::COMMISSION_TIME_REDUCTION",
+        "Q::S05::FOLLOW_ON_PROJECTS",
+        "Q::S34::SAVRSE_ROSTER_ROLES"
+      ],
+      "claim_ids": [
+        "CLM-WEB06-B2B-RANK-02",
+        "CLM-WEB07-VC-SAVA"
+      ],
+      "source_ids": [
+        "S05",
+        "S34"
+      ],
+      "data_source_component_id": "C21",
+      "render_component_id": "C21",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Deep dive chia module; không rút gọn làm mất unknown/gate/stop condition.",
+      "accessibility_behavior": "Workflow, evidence, counter-evidence và validation gate có bản text.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::DEEP::DD-B2B-WAREHOUSE",
+      "binding_type": "DEEP_DIVE_PROFILE",
+      "section_id": "WEB-06",
+      "content_object_id": null,
+      "data_object_id": "DD-B2B-WAREHOUSE",
+      "metric_ids": [
+        "Q::S34::SAVRSE_ROSTER_ROLES"
+      ],
+      "claim_ids": [
+        "CLM-WEB06-B2B-RANK-03",
+        "CLM-WEB07-WAREHOUSE-SAVA"
+      ],
+      "source_ids": [
+        "S06",
+        "S07",
+        "S08",
+        "S34"
+      ],
+      "data_source_component_id": "C21",
+      "render_component_id": "C21",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Deep dive chia module; không rút gọn làm mất unknown/gate/stop condition.",
+      "accessibility_behavior": "Workflow, evidence, counter-evidence và validation gate có bản text.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::DEEP::DD-B2C-SPORTS",
+      "binding_type": "DEEP_DIVE_PROFILE",
+      "section_id": "WEB-08",
+      "content_object_id": null,
+      "data_object_id": "DD-B2C-SPORTS",
+      "metric_ids": [
+        "Q::S13::GOLF_BASE_LIST_PRICE",
+        "Q::S14::GOLF_PASS_COURSES",
+        "Q::S14::GOLF_PASS_MONTHLY",
+        "Q::S14::GOLF_PASS_ANNUAL",
+        "Q::S15::RACKET_CLUB_LIST_PRICE",
+        "Q::S34::SAVRSE_ROSTER_ROLES"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-01",
+        "CLM-WEB09-SPORTS-SAVA"
+      ],
+      "source_ids": [
+        "S13",
+        "S14",
+        "S15",
+        "S34"
+      ],
+      "data_source_component_id": "C21",
+      "render_component_id": "C21",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Deep dive chia module; không rút gọn làm mất unknown/gate/stop condition.",
+      "accessibility_behavior": "Workflow, evidence, counter-evidence và validation gate có bản text.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::DEEP::DD-B2C-MUSIC",
+      "binding_type": "DEEP_DIVE_PROFILE",
+      "section_id": "WEB-08",
+      "content_object_id": null,
+      "data_object_id": "DD-B2C-MUSIC",
+      "metric_ids": [
+        "Q::S16::SYNTH_RIDERS_PACK_PRICE",
+        "Q::S34::SAVRSE_ROSTER_ROLES"
+      ],
+      "claim_ids": [
+        "CLM-WEB01-MUSIC-PRIORITY",
+        "CLM-WEB08-B2C-RANK-02",
+        "CLM-WEB12-MUSIC-SAVA",
+        "CLM-WEB12-MUSIC-PAID-ARCHITECTURE",
+        "CLM-WEB12-MUSIC-RIGHTS-LIFECYCLE",
+        "CLM-WEB12-MUSIC-PROTOTYPE-GATE"
+      ],
+      "source_ids": [
+        "S16",
+        "S17",
+        "S23",
+        "S34"
+      ],
+      "data_source_component_id": "C21",
+      "render_component_id": "C21",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Deep dive chia module; không rút gọn làm mất unknown/gate/stop condition.",
+      "accessibility_behavior": "Workflow, evidence, counter-evidence và validation gate có bản text.",
+      "status": "RESOLVED"
+    },
+    {
+      "binding_id": "RB::DEEP::DD-B2C-PUZZLE",
+      "binding_type": "DEEP_DIVE_PROFILE",
+      "section_id": "WEB-08",
+      "content_object_id": null,
+      "data_object_id": "DD-B2C-PUZZLE",
+      "metric_ids": [
+        "Q::S18::CUBISM_LIST_PRICE",
+        "Q::S19::PUZZLING_PLACES_LIST_PRICE"
+      ],
+      "claim_ids": [
+        "CLM-WEB08-B2C-RANK-03",
+        "CLM-WEB13-PUZZLE-SAVA"
+      ],
+      "source_ids": [
+        "S18",
+        "S19"
+      ],
+      "data_source_component_id": "C21",
+      "render_component_id": "C21",
+      "render_component_allowed_in_section": true,
+      "asset_ids": [],
+      "display_role": "PRIMARY",
+      "mobile_behavior": "Deep dive chia module; không rút gọn làm mất unknown/gate/stop condition.",
+      "accessibility_behavior": "Workflow, evidence, counter-evidence và validation gate có bản text.",
+      "status": "RESOLVED"
+    }
+  ],
+  "component_repairs": [
+    {
+      "content_id": "WEB03-ROLES-01",
+      "section_id": "WEB-03",
+      "from_component": "C22",
+      "to_component": "C04",
+      "reason_vi": "Nội dung là thesis/logic về vai trò người dùng-người mua-người trả tiền; C04 được V1C cho phép trong WEB-03."
+    },
+    {
+      "content_id": "WEB07-ACTION-01",
+      "section_id": "WEB-07",
+      "from_component": "C23",
+      "to_component": "C07",
+      "reason_vi": "Nội dung dẫn nhập/hành động cho shortlist B2C; C07 được V1C cho phép."
+    },
+    {
+      "content_id": "WEB08-PRICE-01",
+      "section_id": "WEB-08",
+      "from_component": "C12",
+      "to_component": "C13",
+      "reason_vi": "Tín hiệu giá là evidence strip trong WEB-08; C13 được V1C cho phép."
+    },
+    {
+      "content_id": "WEB09-SPORTS-01",
+      "section_id": "WEB-09",
+      "from_component": "C27",
+      "to_component": "C28",
+      "reason_vi": "Đây là đối chiếu Market-vs-SAVA; C28 là component đúng và được V1C cho phép."
+    },
+    {
+      "content_id": "WEB09-MUSIC-01",
+      "section_id": "WEB-09",
+      "from_component": "C27",
+      "to_component": "C28",
+      "reason_vi": "Đây là đối chiếu Market-vs-SAVA; C28 là component đúng và được V1C cho phép."
+    },
+    {
+      "content_id": "WEB10-ROSTER-01",
+      "section_id": "WEB-10",
+      "from_component": "C09",
+      "to_component": "C08",
+      "reason_vi": "27 là key number nội bộ có caveat, không phải quantitative evidence card được phép ở WEB-10."
+    },
+    {
+      "content_id": "WEB10-STAFF-01",
+      "section_id": "WEB-10",
+      "from_component": "C09",
+      "to_component": "C08",
+      "reason_vi": ">80 là key number nội bộ có caveat; C08 được V1C cho phép."
+    },
+    {
+      "content_id": "WEB15-LBE-01",
+      "section_id": "WEB-15",
+      "from_component": "C09",
+      "to_component": "C13",
+      "reason_vi": "Counter-evidence được trình bày như evidence strip; C13 được V1C cho phép."
+    },
+    {
+      "content_id": "WEB15-RECROOM-01",
+      "section_id": "WEB-15",
+      "from_component": "C09",
+      "to_component": "C13",
+      "reason_vi": "Counter-evidence được trình bày như evidence strip; C13 được V1C cho phép."
+    }
+  ],
+  "defect_resolution": [
+    {
+      "defect_id": "A-WEB07-CONTAMINATION",
+      "status": "RESOLVED",
+      "resolution_vi": "Gỡ ba metric B2B và năm claim B2B khỏi WEB-07; không xóa toàn cục. Claim B2B được đặt lại ở lớp Market-vs-SAVA WEB-09; metric B2B giữ ở các section đúng theo lineage. S01–S12 cũng không còn WEB-07 trong release website sections.",
+      "final_count": 0
+    },
+    {
+      "defect_id": "B-MUSIC-CLAIM-MISBINDING",
+      "status": "RESOLVED",
+      "resolution_vi": "WEB09-MUSIC-01 đổi từ CLM-WEB09-SPORTS-SAVA sang claim hiện hữu CLM-WEB01-MUSIC-PRIORITY; không tạo claim mới.",
+      "final_count": 0
+    },
+    {
+      "defect_id": "C-COMPONENT-PLACEMENT",
+      "status": "RESOLVED",
+      "resolution_vi": "Sửa đủ 9 primary placements sang component được V1C cho phép; C01–C40/sections_used không bị sửa.",
+      "final_count": 0,
+      "repairs": [
+        {
+          "content_id": "WEB03-ROLES-01",
+          "section_id": "WEB-03",
+          "from_component": "C22",
+          "to_component": "C04",
+          "reason_vi": "Nội dung là thesis/logic về vai trò người dùng-người mua-người trả tiền; C04 được V1C cho phép trong WEB-03."
+        },
+        {
+          "content_id": "WEB07-ACTION-01",
+          "section_id": "WEB-07",
+          "from_component": "C23",
+          "to_component": "C07",
+          "reason_vi": "Nội dung dẫn nhập/hành động cho shortlist B2C; C07 được V1C cho phép."
+        },
+        {
+          "content_id": "WEB08-PRICE-01",
+          "section_id": "WEB-08",
+          "from_component": "C12",
+          "to_component": "C13",
+          "reason_vi": "Tín hiệu giá là evidence strip trong WEB-08; C13 được V1C cho phép."
+        },
+        {
+          "content_id": "WEB09-SPORTS-01",
+          "section_id": "WEB-09",
+          "from_component": "C27",
+          "to_component": "C28",
+          "reason_vi": "Đây là đối chiếu Market-vs-SAVA; C28 là component đúng và được V1C cho phép."
+        },
+        {
+          "content_id": "WEB09-MUSIC-01",
+          "section_id": "WEB-09",
+          "from_component": "C27",
+          "to_component": "C28",
+          "reason_vi": "Đây là đối chiếu Market-vs-SAVA; C28 là component đúng và được V1C cho phép."
+        },
+        {
+          "content_id": "WEB10-ROSTER-01",
+          "section_id": "WEB-10",
+          "from_component": "C09",
+          "to_component": "C08",
+          "reason_vi": "27 là key number nội bộ có caveat, không phải quantitative evidence card được phép ở WEB-10."
+        },
+        {
+          "content_id": "WEB10-STAFF-01",
+          "section_id": "WEB-10",
+          "from_component": "C09",
+          "to_component": "C08",
+          "reason_vi": ">80 là key number nội bộ có caveat; C08 được V1C cho phép."
+        },
+        {
+          "content_id": "WEB15-LBE-01",
+          "section_id": "WEB-15",
+          "from_component": "C09",
+          "to_component": "C13",
+          "reason_vi": "Counter-evidence được trình bày như evidence strip; C13 được V1C cho phép."
+        },
+        {
+          "content_id": "WEB15-RECROOM-01",
+          "section_id": "WEB-15",
+          "from_component": "C09",
+          "to_component": "C13",
+          "reason_vi": "Counter-evidence được trình bày như evidence strip; C13 được V1C cho phép."
+        }
+      ]
+    },
+    {
+      "defect_id": "C2-DATA-DONOR-RENDER",
+      "status": "RESOLVED",
+      "resolution_vi": "Tách data_source_component_id khỏi render_component_id. 57 reuse bindings đều có component đích được V1C cho phép.",
+      "final_count": 0
+    },
+    {
+      "defect_id": "D-NONCANONICAL-SOURCE-ID",
+      "status": "RESOLVED",
+      "resolution_vi": "8 shortlist records không còn dùng RPT4R2 trong namespace S01–S35. Không tìm thấy mapping Sxx đủ chính xác trong V1D nên source_ids để rỗng và dùng report_authority_reference=CURRENT_RPT4R2.",
+      "final_count": 0,
+      "affected_records": [
+        "B2B-SL-06",
+        "B2B-SL-07",
+        "B2B-SL-08",
+        "B2B-SL-09",
+        "B2B-SL-10",
+        "B2B-SL-11",
+        "B2C-SL-10",
+        "B2C-SL-11"
+      ]
+    },
+    {
+      "defect_id": "S35-URL",
+      "status": "TRUTHFULLY_UNRESOLVED_URL_NOT_BLOCKING",
+      "resolution_vi": "Không gắn SAVA Profile Deck vào S35 vì không có bằng chứng định danh exact file. Giữ S35 là tham chiếu nội bộ chưa có URL xác minh.",
+      "final_count": 1
+    }
+  ],
+  "validation": {
+    "render_binding_count": 177,
+    "primary_component_placement_violation_count": 0,
+    "reuse_render_binding_violation_count": 0,
+    "unresolved_render_binding_count": 0,
+    "all_render_component_allowed_in_section": true
+  }
+}

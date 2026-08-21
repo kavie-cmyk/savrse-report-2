@@ -1,0 +1,397 @@
+[
+  {
+    "asset_id": "AST-SVG-01-VI-V02",
+    "drive_id": "1Hy78C0DV05OUvWf_HVp2ImDXLtXab5n0",
+    "drive_url": "https://drive.google.com/file/d/1Hy78C0DV05OUvWf_HVp2ImDXLtXab5n0/view?usp=drivesdk",
+    "asset_type": "SEMANTIC_SVG",
+    "filename": "P24-12_WEB_SVG-01_Universe_Structure_vi_v02.svg",
+    "local_path": "assets/svg/P24-12_WEB_SVG-01_Universe_Structure_vi_v02.svg",
+    "section_ids": [
+      "WEB-02"
+    ],
+    "slot_id": null,
+    "caption_vi": "Đồ họa ngữ nghĩa phục vụ diễn giải; không phải bằng chứng độc lập.",
+    "alt_text_vi": "Cấu trúc 112 bản ghi cơ hội gồm 96 mục có thể xếp hạng và 16 nhóm bao quát hoặc không xếp hạng riêng; chỉ mô tả cấu trúc nghiên cứu, không phải quy mô thị trường.",
+    "illustration_label_required": false,
+    "sha256": "97a0b315e2111c81c36138977a2224fcf929eff3a1bc603a4f4fd58c7ffa842e",
+    "bytes": 3818,
+    "runtime_hotlink": false
+  },
+  {
+    "asset_id": "AST-SVG-02-VI-V03",
+    "drive_id": "18qYx8H5PQd_Xd-Med0_5WmEJ28Sor5hx",
+    "drive_url": "https://drive.google.com/file/d/18qYx8H5PQd_Xd-Med0_5WmEJ28Sor5hx/view?usp=drivesdk",
+    "asset_type": "SEMANTIC_SVG",
+    "filename": "P24-12_WEB_SVG-02_Dual_Research_Funnel_vi_v03.svg",
+    "local_path": "assets/svg/P24-12_WEB_SVG-02_Dual_Research_Funnel_vi_v03.svg",
+    "section_ids": [
+      "WEB-04"
+    ],
+    "slot_id": null,
+    "caption_vi": "Đồ họa ngữ nghĩa phục vụ diễn giải; không phải bằng chứng độc lập.",
+    "alt_text_vi": "Hai luồng sàng lọc nghiên cứu: B2B/B2G 65 xuống 12, 5 và 3; B2C 32 xuống 11, 5 và 3. Đây không phải tỷ lệ chuyển đổi thị trường.",
+    "illustration_label_required": false,
+    "sha256": "b3e4552690edb007879970cacacd38ed7f673fe173a5e421496f41611df34266",
+    "bytes": 7384,
+    "runtime_hotlink": false
+  },
+  {
+    "asset_id": "AST-SVG-03-VI-V02",
+    "drive_id": "10UrrIfSyeQbKvHo5kqe4sxOaaLpd_SBQ",
+    "drive_url": "https://drive.google.com/file/d/10UrrIfSyeQbKvHo5kqe4sxOaaLpd_SBQ/view?usp=drivesdk",
+    "asset_type": "SEMANTIC_SVG",
+    "filename": "P24-12_WEB_SVG-03_B2B_vs_B2C_Money_Logic_vi_v02.svg",
+    "local_path": "assets/svg/P24-12_WEB_SVG-03_B2B_vs_B2C_Money_Logic_vi_v02.svg",
+    "section_ids": [
+      "WEB-03"
+    ],
+    "slot_id": null,
+    "caption_vi": "Đồ họa ngữ nghĩa phục vụ diễn giải; không phải bằng chứng độc lập.",
+    "alt_text_vi": "So sánh hai logic chi tiền: B2B/B2G tách người dùng, người mua kinh tế và mua sắm hợp đồng; B2C tập trung vào hành động, chơi lại, giá và phân phối.",
+    "illustration_label_required": false,
+    "sha256": "13aa0c8f4954a4c21daae60ce18b101b7afb3b5797787a3e2aa575983493fae3",
+    "bytes": 4173,
+    "runtime_hotlink": false
+  },
+  {
+    "asset_id": "AST-SVG-04-VI-V02",
+    "drive_id": "1oHaaONvTLpKfoZb2SWKAvoXS0ewC0hQM",
+    "drive_url": "https://drive.google.com/file/d/1oHaaONvTLpKfoZb2SWKAvoXS0ewC0hQM/view?usp=drivesdk",
+    "asset_type": "SEMANTIC_SVG",
+    "filename": "P24-12_WEB_SVG-04_Healthcare_Workflow_vi_v02.svg",
+    "local_path": "assets/svg/P24-12_WEB_SVG-04_Healthcare_Workflow_vi_v02.svg",
+    "section_ids": [
+      "WEB-06"
+    ],
+    "slot_id": null,
+    "caption_vi": "Đồ họa ngữ nghĩa phục vụ diễn giải; không phải bằng chứng độc lập.",
+    "alt_text_vi": "Quy trình minh họa Healthcare từ kỹ năng có cấu trúc, thực hành, ghi nhận, đánh giá đến lặp lại; bên mua là tổ chức đào tạo hoặc mô phỏng. Không phải sản phẩm SAVA đã triển khai.",
+    "illustration_label_required": false,
+    "sha256": "a4731485d83710743cb2358949682db04072d36870372bf4ad4771a771c5e52b",
+    "bytes": 5642,
+    "runtime_hotlink": false
+  },
+  {
+    "asset_id": "AST-SVG-05-VI-V02",
+    "drive_id": "1ko7LmVhM7vNeFcSyFUdwgGIRsRq7VJrq",
+    "drive_url": "https://drive.google.com/file/d/1ko7LmVhM7vNeFcSyFUdwgGIRsRq7VJrq/view?usp=drivesdk",
+    "asset_type": "SEMANTIC_SVG",
+    "filename": "P24-12_WEB_SVG-05_Virtual_Commissioning_Control_Loop_vi_v02.svg",
+    "local_path": "assets/svg/P24-12_WEB_SVG-05_Virtual_Commissioning_Control_Loop_vi_v02.svg",
+    "section_ids": [
+      "WEB-06"
+    ],
+    "slot_id": null,
+    "caption_vi": "Đồ họa ngữ nghĩa phục vụ diễn giải; không phải bằng chứng độc lập.",
+    "alt_text_vi": "Vòng Virtual Commissioning từ mô hình máy hoặc dây chuyền, kết nối logic, kiểm thử, phát hiện lỗi đến lặp vòng hiệu chỉnh; chưa giả định SAVA có năng lực PLC/OT.",
+    "illustration_label_required": false,
+    "sha256": "72b8fa2ee249c0264358cc9cd0d54c6a4a2165445cfe839d8149cad4e2019799",
+    "bytes": 4680,
+    "runtime_hotlink": false
+  },
+  {
+    "asset_id": "AST-SVG-06-VI-V02",
+    "drive_id": "1l4QZGXmMF8NQSk2-X-f7olJylSBB8Kdw",
+    "drive_url": "https://drive.google.com/file/d/1l4QZGXmMF8NQSk2-X-f7olJylSBB8Kdw/view?usp=drivesdk",
+    "asset_type": "SEMANTIC_SVG",
+    "filename": "P24-12_WEB_SVG-06_Warehouse_Scenario_Flow_vi_v02.svg",
+    "local_path": "assets/svg/P24-12_WEB_SVG-06_Warehouse_Scenario_Flow_vi_v02.svg",
+    "section_ids": [
+      "WEB-06"
+    ],
+    "slot_id": null,
+    "caption_vi": "Đồ họa ngữ nghĩa phục vụ diễn giải; không phải bằng chứng độc lập.",
+    "alt_text_vi": "Luồng hỗ trợ quyết định Warehouse từ bài toán vật lý và dữ liệu đại diện qua mô hình bố trí, chạy kịch bản, so sánh điểm nghẽn đến ra quyết định; không tuyên bố có live twin.",
+    "illustration_label_required": false,
+    "sha256": "42583dbd2d1f670c69c129520bd6ac685a7f83e917833eb77bca6c233d6fb541",
+    "bytes": 5356,
+    "runtime_hotlink": false
+  },
+  {
+    "asset_id": "AST-SVG-07-VI-V02",
+    "drive_id": "1LWeqObaoqyFRi7qL-Ft7dfl5Xubc67Mk",
+    "drive_url": "https://drive.google.com/file/d/1LWeqObaoqyFRi7qL-Ft7dfl5Xubc67Mk/view?usp=drivesdk",
+    "asset_type": "SEMANTIC_SVG",
+    "filename": "P24-12_WEB_SVG-07_Sports_Mastery_Loop_vi_v02.svg",
+    "local_path": "assets/svg/P24-12_WEB_SVG-07_Sports_Mastery_Loop_vi_v02.svg",
+    "section_ids": [
+      "WEB-08"
+    ],
+    "slot_id": null,
+    "caption_vi": "Đồ họa ngữ nghĩa phục vụ diễn giải; không phải bằng chứng độc lập.",
+    "alt_text_vi": "Vòng thành thạo Sports từ hành động cơ thể, phản hồi tức thời, điều chỉnh kỹ thuật, cải thiện kỹ năng hoặc điểm đến chơi lại; chưa chọn môn thể thao cụ thể.",
+    "illustration_label_required": false,
+    "sha256": "cb318073be30380ff689768caeda0a0405712567108dca6781d74563616ba58e",
+    "bytes": 4605,
+    "runtime_hotlink": false
+  },
+  {
+    "asset_id": "AST-SVG-08-VI-V02",
+    "drive_id": "1tnDD0YsOQTDxX8ynFb8CgxfEOaXdhyqp",
+    "drive_url": "https://drive.google.com/file/d/1tnDD0YsOQTDxX8ynFb8CgxfEOaXdhyqp/view?usp=drivesdk",
+    "asset_type": "SEMANTIC_SVG",
+    "filename": "P24-12_WEB_SVG-08_Music_Embodied_Action_Replay_Loop_vi_v02.svg",
+    "local_path": "assets/svg/P24-12_WEB_SVG-08_Music_Embodied_Action_Replay_Loop_vi_v02.svg",
+    "section_ids": [
+      "WEB-08"
+    ],
+    "slot_id": null,
+    "caption_vi": "Đồ họa ngữ nghĩa phục vụ diễn giải; không phải bằng chứng độc lập.",
+    "alt_text_vi": "Vòng Music từ đọc nhịp hoặc tín hiệu không gian, hành động cơ thể, nhận phản hồi điểm hoặc độ chính xác đến chơi lại để thành thạo; nội dung và bản quyền vẫn cần kiểm chứng.",
+    "illustration_label_required": false,
+    "sha256": "c50197b4e97bbf8c5dc8d2cbbb43478169afd2f94fa62543d7d83454e1361383",
+    "bytes": 4813,
+    "runtime_hotlink": false
+  },
+  {
+    "asset_id": "AST-SVG-09-VI-V02",
+    "drive_id": "1q_EjbneS-4m2S8AjB_vPLcmSdSNGwteH",
+    "drive_url": "https://drive.google.com/file/d/1q_EjbneS-4m2S8AjB_vPLcmSdSNGwteH/view?usp=drivesdk",
+    "asset_type": "SEMANTIC_SVG",
+    "filename": "P24-12_WEB_SVG-09_Puzzle_Systemic_Optimization_Loop_vi_v02.svg",
+    "local_path": "assets/svg/P24-12_WEB_SVG-09_Puzzle_Systemic_Optimization_Loop_vi_v02.svg",
+    "section_ids": [
+      "WEB-08"
+    ],
+    "slot_id": null,
+    "caption_vi": "Đồ họa ngữ nghĩa phục vụ diễn giải; không phải bằng chứng độc lập.",
+    "alt_text_vi": "Vòng Puzzle hệ thống từ thao tác hoặc định tuyến, quan sát kết quả, thay đổi ràng buộc, thử cách tiếp cận khác đến tối ưu hoặc chơi lại; WHY-VR vẫn cần kiểm chứng.",
+    "illustration_label_required": false,
+    "sha256": "830339a220bc49d4903901e4a5c1e2e35fe0efeb6e161fa686b5a622c34f7ec5",
+    "bytes": 4587,
+    "runtime_hotlink": false
+  },
+  {
+    "asset_id": "AST-SVG-10-VI-V02",
+    "drive_id": "1vSw1PH1oXOGf_HHYo1Q3IoRb_ZjrgkID",
+    "drive_url": "https://drive.google.com/file/d/1vSw1PH1oXOGf_HHYo1Q3IoRb_ZjrgkID/view?usp=drivesdk",
+    "asset_type": "SEMANTIC_SVG",
+    "filename": "P24-12_WEB_SVG-10_Market_Rank_vs_SAVA_Action_Crosswalk_vi_v02.svg",
+    "local_path": "assets/svg/P24-12_WEB_SVG-10_Market_Rank_vs_SAVA_Action_Crosswalk_vi_v02.svg",
+    "section_ids": [
+      "WEB-09"
+    ],
+    "slot_id": null,
+    "caption_vi": "Đồ họa ngữ nghĩa phục vụ diễn giải; không phải bằng chứng độc lập.",
+    "alt_text_vi": "Đối chiếu ba vị trí đầu của B2B/B2G và B2C giữa xếp hạng thị trường bên ngoài với hành động SAVA; các đường nối không biểu thị độ lớn hay xác suất.",
+    "illustration_label_required": false,
+    "sha256": "927c29ba24116ee549cffb1fe0133d4e50a9415ecbb527c35624470c7211fa96",
+    "bytes": 8484,
+    "runtime_hotlink": false
+  },
+  {
+    "asset_id": "AST-SVG-11-VI-V02",
+    "drive_id": "1fKsjLzVf-t0fcvtUdU8wewemiOmN7T2E",
+    "drive_url": "https://drive.google.com/file/d/1fKsjLzVf-t0fcvtUdU8wewemiOmN7T2E/view?usp=drivesdk",
+    "asset_type": "SEMANTIC_SVG",
+    "filename": "P24-12_WEB_SVG-11_Healthcare_Validation_Path_vi_v02.svg",
+    "local_path": "assets/svg/P24-12_WEB_SVG-11_Healthcare_Validation_Path_vi_v02.svg",
+    "section_ids": [
+      "WEB-11"
+    ],
+    "slot_id": null,
+    "caption_vi": "Đồ họa ngữ nghĩa phục vụ diễn giải; không phải bằng chứng độc lập.",
+    "alt_text_vi": "Lộ trình sáu cổng Healthcare: đối tác chuyên môn hoặc lâm sàng, bên mua, cam kết thương mại, mua sắm và CNTT/bảo mật/LMS, lõi tái sử dụng, và kinh tế sau bằng chứng trả phí.",
+    "illustration_label_required": false,
+    "sha256": "7e124bbc03d5b39e86729e83039cc421bbe6baa78e85df052b8eced5e55b3704",
+    "bytes": 5974,
+    "runtime_hotlink": false
+  },
+  {
+    "asset_id": "AST-SVG-12-VI-V02",
+    "drive_id": "1MX9Tff-5G-E8m7yPby99pMlz8-BTCRk3",
+    "drive_url": "https://drive.google.com/file/d/1MX9Tff-5G-E8m7yPby99pMlz8-BTCRk3/view?usp=drivesdk",
+    "asset_type": "SEMANTIC_SVG",
+    "filename": "P24-12_WEB_SVG-12_Music_Prototype_Validation_Path_vi_v02.svg",
+    "local_path": "assets/svg/P24-12_WEB_SVG-12_Music_Prototype_Validation_Path_vi_v02.svg",
+    "section_ids": [
+      "WEB-12"
+    ],
+    "slot_id": null,
+    "caption_vi": "Đồ họa ngữ nghĩa phục vụ diễn giải; không phải bằng chứng độc lập.",
+    "alt_text_vi": "Tám kiểm tra prototype Music: hiểu cách chơi, hành động vui và ổn định, giá trị VR, chơi lại, gánh nặng nội dung, tín hiệu sẵn sàng chi trả, phân phối và kinh tế bản quyền.",
+    "illustration_label_required": false,
+    "sha256": "5bb0367f3179b10612d1bd949b2829cc4e67283795fd93eb86888e88f3dd8fe7",
+    "bytes": 5863,
+    "runtime_hotlink": false
+  },
+  {
+    "asset_id": "AST-SVG-13-VI-V02",
+    "drive_id": "1_euLV08BSsQkrOh4Nh4RuF9eiNHIR6kB",
+    "drive_url": "https://drive.google.com/file/d/1_euLV08BSsQkrOh4Nh4RuF9eiNHIR6kB/view?usp=drivesdk",
+    "asset_type": "SEMANTIC_SVG",
+    "filename": "P24-12_WEB_SVG-13_Portfolio_Role_Map_vi_v02.svg",
+    "local_path": "assets/svg/P24-12_WEB_SVG-13_Portfolio_Role_Map_vi_v02.svg",
+    "section_ids": [
+      "WEB-13"
+    ],
+    "slot_id": null,
+    "caption_vi": "Đồ họa ngữ nghĩa phục vụ diễn giải; không phải bằng chứng độc lập.",
+    "alt_text_vi": "Bản đồ danh mục theo bốn nhóm: kiểm chứng trước; có điều kiện hoặc đối chứng; giữ lựa chọn hoặc theo dõi; và tạm dừng hoặc tách riêng. Vị trí không biểu thị mức đầu tư hay xác suất.",
+    "illustration_label_required": false,
+    "sha256": "5fb7a9fdd28ee2c429d5b6abd126818d67cdc8e377cb5fdbe6d082598aca9942",
+    "bytes": 4970,
+    "runtime_hotlink": false
+  },
+  {
+    "asset_id": "AST-SVG-14-VI-V03",
+    "drive_id": "1V0JXhSq2IvUNf3Ad2KtUfJ3cFc1bwuhr",
+    "drive_url": "https://drive.google.com/file/d/1V0JXhSq2IvUNf3Ad2KtUfJ3cFc1bwuhr/view?usp=drivesdk",
+    "asset_type": "SEMANTIC_SVG",
+    "filename": "P24-12_WEB_SVG-14_Music_vs_Music_World_vi_v03.svg",
+    "local_path": "assets/svg/P24-12_WEB_SVG-14_Music_vs_Music_World_vi_v03.svg",
+    "section_ids": [
+      "WEB-14"
+    ],
+    "slot_id": null,
+    "caption_vi": "Đồ họa ngữ nghĩa phục vụ diễn giải; không phải bằng chứng độc lập.",
+    "alt_text_vi": "Luận điểm Music rhythm/action mới tách biệt Music World hiện tại. Music World tạm dừng; tái sử dụng chỉ có điều kiện sau kiểm toán kỹ thuật, sở hữu trí tuệ, giấy phép và nghĩa vụ.",
+    "illustration_label_required": false,
+    "sha256": "89bb0de0acbed7235416e64f39a0b29c19a50652282e4bf3d2030e17793ab23e",
+    "bytes": 4344,
+    "runtime_hotlink": false
+  },
+  {
+    "asset_id": "AST-WEB11-HC-EXT-01",
+    "drive_id": "1ehH_JypDFooXXeWQH62hA6zamA6gseSz",
+    "drive_url": "https://drive.google.com/file/d/1ehH_JypDFooXXeWQH62hA6zamA6gseSz/view?usp=drivesdk",
+    "asset_type": "CONTEXTUAL_ILLUSTRATION",
+    "filename": "P24-12_WEB_EXT_WEB11_Healthcare_Illustration_01_web.webp",
+    "local_path": "assets/images/P24-12_WEB_EXT_WEB11_Healthcare_Illustration_01_web.webp",
+    "section_ids": [
+      "WEB-11"
+    ],
+    "slot_id": "EXT-WEB11-HEALTHCARE",
+    "caption_vi": "Hình minh họa môi trường đào tạo kỹ năng y khoa bằng công nghệ nhập vai.",
+    "alt_text_vi": "Minh họa nhân viên y tế đeo kính thực tế ảo trong môi trường đào tạo mô phỏng; chỉ mang tính minh họa, không phải sản phẩm hay triển khai thực tế của SAVA.",
+    "illustration_label_required": true,
+    "sha256": "d70008f2dbcfb8eafd298c48d7f9ddeab0944d24ad7b682dfed80fed83b05c78",
+    "bytes": 46876,
+    "runtime_hotlink": false
+  },
+  {
+    "asset_id": "AST-WEB06-VC-EXT-01",
+    "drive_id": "1H13ebD2ieA3w6arvv1pMHJGdBNl4yF3x",
+    "drive_url": "https://drive.google.com/file/d/1H13ebD2ieA3w6arvv1pMHJGdBNl4yF3x/view?usp=drivesdk",
+    "asset_type": "CONTEXTUAL_ILLUSTRATION",
+    "filename": "P24-12_WEB_EXT_WEB06_Virtual_Commissioning_Illustration_01_web.webp",
+    "local_path": "assets/images/P24-12_WEB_EXT_WEB06_Virtual_Commissioning_Illustration_01_web.webp",
+    "section_ids": [
+      "WEB-06"
+    ],
+    "slot_id": "EXT-WEB06-VIRTUAL-COMMISSIONING",
+    "caption_vi": "Hình minh họa bối cảnh tự động hóa công nghiệp và điều khiển hệ thống trong môi trường nhà máy mô phỏng.",
+    "alt_text_vi": "Minh họa robot công nghiệp và thiết bị điều khiển trong nhà máy; chỉ mang tính minh họa, không ngụ ý SAVA có triển khai PLC/OT.",
+    "illustration_label_required": true,
+    "sha256": "eb08cd615273e627ec0a2cc578ac9bfc8e047af93a0dd3f63401689c32db3cbf",
+    "bytes": 221310,
+    "runtime_hotlink": false
+  },
+  {
+    "asset_id": "AST-WEB06-WH-EXT-01",
+    "drive_id": "18BwgmrLDiIbhpTry-O92UQn5rTrmypEo",
+    "drive_url": "https://drive.google.com/file/d/18BwgmrLDiIbhpTry-O92UQn5rTrmypEo/view?usp=drivesdk",
+    "asset_type": "CONTEXTUAL_ILLUSTRATION",
+    "filename": "P24-12_WEB_EXT_WEB06_Warehouse_Illustration_01_web.webp",
+    "local_path": "assets/images/P24-12_WEB_EXT_WEB06_Warehouse_Illustration_01_web.webp",
+    "section_ids": [
+      "WEB-06"
+    ],
+    "slot_id": "EXT-WEB06-WAREHOUSE",
+    "caption_vi": "Hình minh họa hoạt động lập kế hoạch, bố trí và dòng chảy vật tư trong kho.",
+    "alt_text_vi": "Minh họa nhóm nhân viên kho trao đổi kế hoạch vận hành bên xe nâng; chỉ mang tính minh họa, không phải triển khai thực tế của SAVA.",
+    "illustration_label_required": true,
+    "sha256": "ce598bf533781039f99c2933db8d6cac3560ff4a29368c501a7be8de1808d3c7",
+    "bytes": 180850,
+    "runtime_hotlink": false
+  },
+  {
+    "asset_id": "AST-WEB12-MU-EXT-01",
+    "drive_id": "1G-i_uL00h88f0QED1mKr_tSXWCsZE_ur",
+    "drive_url": "https://drive.google.com/file/d/1G-i_uL00h88f0QED1mKr_tSXWCsZE_ur/view?usp=drivesdk",
+    "asset_type": "CONTEXTUAL_ILLUSTRATION",
+    "filename": "P24-12_WEB_EXT_WEB12_Music_Illustration_01_web.webp",
+    "local_path": "assets/images/P24-12_WEB_EXT_WEB12_Music_Illustration_01_web.webp",
+    "section_ids": [
+      "WEB-12"
+    ],
+    "slot_id": "EXT-WEB12-MUSIC",
+    "caption_vi": "Hình minh họa trải nghiệm âm nhạc/tiết tấu nhập vai bằng cử động cơ thể và tương tác không gian.",
+    "alt_text_vi": "Minh họa người chơi đeo kính thực tế ảo chơi trống điện tử; chỉ mang tính minh họa, không phải sản phẩm hay game cụ thể của SAVA.",
+    "illustration_label_required": true,
+    "sha256": "8340121d9485382d7d39ab4bb76364c7322f8c6e3325c2bd0ca0eaa899a933b9",
+    "bytes": 103566,
+    "runtime_hotlink": false
+  },
+  {
+    "asset_id": "AST-WEB08-SP-EXT-01",
+    "drive_id": "1oHBBrmbjwumg4PY02dI-JPUNNb2JkM6L",
+    "drive_url": "https://drive.google.com/file/d/1oHBBrmbjwumg4PY02dI-JPUNNb2JkM6L/view?usp=drivesdk",
+    "asset_type": "CONTEXTUAL_ILLUSTRATION",
+    "filename": "P24-12_WEB_EXT_WEB08_Sports_Illustration_01_web.webp",
+    "local_path": "assets/images/P24-12_WEB_EXT_WEB08_Sports_Illustration_01_web.webp",
+    "section_ids": [
+      "WEB-08"
+    ],
+    "slot_id": "EXT-WEB08-SPORTS",
+    "caption_vi": "Hình minh họa luyện tập thể chất / kỹ năng vận động bằng công nghệ nhập vai.",
+    "alt_text_vi": "Minh họa người tập đeo kính thực tế ảo trong không gian tập luyện; chỉ mang tính minh họa, không ngụ ý SAVA đã chọn môn thể thao cụ thể.",
+    "illustration_label_required": true,
+    "sha256": "eb66f1356baa3e7a516e1eb1c9bad266ae2b05380305c294f76906a8c083bcc0",
+    "bytes": 59008,
+    "runtime_hotlink": false
+  },
+  {
+    "asset_id": "AST-WEB08-PZ-EXT-01",
+    "drive_id": "1NA7CfOcWv_xueHne4GcjwLzYAMviNuQU",
+    "drive_url": "https://drive.google.com/file/d/1NA7CfOcWv_xueHne4GcjwLzYAMviNuQU/view?usp=drivesdk",
+    "asset_type": "CONTEXTUAL_ILLUSTRATION",
+    "filename": "P24-12_WEB_EXT_WEB08_Puzzle_Illustration_01_web.webp",
+    "local_path": "assets/images/P24-12_WEB_EXT_WEB08_Puzzle_Illustration_01_web.webp",
+    "section_ids": [
+      "WEB-08"
+    ],
+    "slot_id": "EXT-WEB08-PUZZLE",
+    "caption_vi": "Hình minh họa giải đố không gian / logic hệ thống và tương tác 3D.",
+    "alt_text_vi": "Minh họa bàn tay thao tác khối giải đố không gian; chỉ mang tính minh họa, không ngụ ý sản phẩm hay WHY-VR đã được chứng minh.",
+    "illustration_label_required": true,
+    "sha256": "6a5c9bee4f3aec67ad0b03f6301031ab928fa532af613abae0c5664a62c54858",
+    "bytes": 71966,
+    "runtime_hotlink": false
+  },
+  {
+    "asset_id": "AST-SAVA-LOGO-WEB",
+    "drive_id": "1UR5a_dVTxS8khrHRWi9g9hrgM-dRrcLy",
+    "drive_url": "https://drive.google.com/file/d/1UR5a_dVTxS8khrHRWi9g9hrgM-dRrcLy/view?usp=drivesdk",
+    "asset_type": "OFFICIAL_LOGO",
+    "filename": "sava-meta-logo.png",
+    "local_path": "assets/brand/sava-meta-logo.png",
+    "section_ids": [
+      "WEB-01",
+      "WEB-02",
+      "WEB-03",
+      "WEB-04",
+      "WEB-05",
+      "WEB-06",
+      "WEB-07",
+      "WEB-08",
+      "WEB-09",
+      "WEB-10",
+      "WEB-11",
+      "WEB-12",
+      "WEB-13",
+      "WEB-14",
+      "WEB-15",
+      "WEB-16",
+      "WEB-17",
+      "WEB-18"
+    ],
+    "slot_id": "GLOBAL-LOGO",
+    "caption_vi": "Logo chính thức của SAVA Meta.",
+    "alt_text_vi": "Logo SAVA Meta.",
+    "illustration_label_required": false,
+    "sha256": "d561c71aed9f2cde519b05f5bb073870e34820c81c3ab1c3411a608b11ad4c55",
+    "bytes": 51990,
+    "runtime_hotlink": false
+  }
+]

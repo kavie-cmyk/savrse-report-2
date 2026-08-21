@@ -1,0 +1,4472 @@
+{
+  "phase": "P24-12-WEB-V3B-R1M",
+  "version": "v1.2",
+  "status": "COMPLETE",
+  "report_delta_status": "NON_SEMANTIC_PUBLICATION_REMEDIATION_ONLY",
+  "counts": {
+    "sections": 18,
+    "shortlists": 23,
+    "finalists": 10,
+    "deep_dives": 6,
+    "metrics": 32,
+    "claims": 40,
+    "sources": 35,
+    "components": 40,
+    "render_bindings": 177,
+    "data_donor_bindings": 57,
+    "production_assets": 21
+  },
+  "sections": [
+    {
+      "section_id": "WEB-01",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#WEB-01"
+    },
+    {
+      "section_id": "WEB-02",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#WEB-02"
+    },
+    {
+      "section_id": "WEB-03",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#WEB-03"
+    },
+    {
+      "section_id": "WEB-04",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#WEB-04"
+    },
+    {
+      "section_id": "WEB-05",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#WEB-05"
+    },
+    {
+      "section_id": "WEB-06",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#WEB-06"
+    },
+    {
+      "section_id": "WEB-07",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#WEB-07"
+    },
+    {
+      "section_id": "WEB-08",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#WEB-08"
+    },
+    {
+      "section_id": "WEB-09",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#WEB-09"
+    },
+    {
+      "section_id": "WEB-10",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#WEB-10"
+    },
+    {
+      "section_id": "WEB-11",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#WEB-11"
+    },
+    {
+      "section_id": "WEB-12",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#WEB-12"
+    },
+    {
+      "section_id": "WEB-13",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#WEB-13"
+    },
+    {
+      "section_id": "WEB-14",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#WEB-14"
+    },
+    {
+      "section_id": "WEB-15",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#WEB-15"
+    },
+    {
+      "section_id": "WEB-16",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#WEB-16"
+    },
+    {
+      "section_id": "WEB-17",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#WEB-17"
+    },
+    {
+      "section_id": "WEB-18",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#WEB-18"
+    }
+  ],
+  "shortlists": [
+    {
+      "record_id": "B2B-SL-01",
+      "lane": "B2B/B2G",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#shortlist-B2B-SL-01"
+    },
+    {
+      "record_id": "B2B-SL-02",
+      "lane": "B2B/B2G",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#shortlist-B2B-SL-02"
+    },
+    {
+      "record_id": "B2B-SL-03",
+      "lane": "B2B/B2G",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#shortlist-B2B-SL-03"
+    },
+    {
+      "record_id": "B2B-SL-04",
+      "lane": "B2B/B2G",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#shortlist-B2B-SL-04"
+    },
+    {
+      "record_id": "B2B-SL-05",
+      "lane": "B2B/B2G",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#shortlist-B2B-SL-05"
+    },
+    {
+      "record_id": "B2B-SL-06",
+      "lane": "B2B/B2G",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#shortlist-B2B-SL-06"
+    },
+    {
+      "record_id": "B2B-SL-07",
+      "lane": "B2B/B2G",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#shortlist-B2B-SL-07"
+    },
+    {
+      "record_id": "B2B-SL-08",
+      "lane": "B2B/B2G",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#shortlist-B2B-SL-08"
+    },
+    {
+      "record_id": "B2B-SL-09",
+      "lane": "B2B/B2G",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#shortlist-B2B-SL-09"
+    },
+    {
+      "record_id": "B2B-SL-10",
+      "lane": "B2B/B2G",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#shortlist-B2B-SL-10"
+    },
+    {
+      "record_id": "B2B-SL-11",
+      "lane": "B2B/B2G",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#shortlist-B2B-SL-11"
+    },
+    {
+      "record_id": "B2B-SL-12",
+      "lane": "B2B/B2G",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#shortlist-B2B-SL-12"
+    },
+    {
+      "record_id": "B2C-SL-01",
+      "lane": "B2C",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#shortlist-B2C-SL-01"
+    },
+    {
+      "record_id": "B2C-SL-02",
+      "lane": "B2C",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#shortlist-B2C-SL-02"
+    },
+    {
+      "record_id": "B2C-SL-03",
+      "lane": "B2C",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#shortlist-B2C-SL-03"
+    },
+    {
+      "record_id": "B2C-SL-04",
+      "lane": "B2C",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#shortlist-B2C-SL-04"
+    },
+    {
+      "record_id": "B2C-SL-05",
+      "lane": "B2C",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#shortlist-B2C-SL-05"
+    },
+    {
+      "record_id": "B2C-SL-06",
+      "lane": "B2C",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#shortlist-B2C-SL-06"
+    },
+    {
+      "record_id": "B2C-SL-07",
+      "lane": "B2C",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#shortlist-B2C-SL-07"
+    },
+    {
+      "record_id": "B2C-SL-08",
+      "lane": "B2C",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#shortlist-B2C-SL-08"
+    },
+    {
+      "record_id": "B2C-SL-09",
+      "lane": "B2C",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#shortlist-B2C-SL-09"
+    },
+    {
+      "record_id": "B2C-SL-10",
+      "lane": "B2C",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#shortlist-B2C-SL-10"
+    },
+    {
+      "record_id": "B2C-SL-11",
+      "lane": "B2C",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#shortlist-B2C-SL-11"
+    }
+  ],
+  "finalists": [
+    {
+      "finalist_id": "FIN-B2B-01",
+      "lane": "B2B/B2G",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#finalist-FIN-B2B-01"
+    },
+    {
+      "finalist_id": "FIN-B2B-02",
+      "lane": "B2B/B2G",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#finalist-FIN-B2B-02"
+    },
+    {
+      "finalist_id": "FIN-B2B-03",
+      "lane": "B2B/B2G",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#finalist-FIN-B2B-03"
+    },
+    {
+      "finalist_id": "FIN-B2B-04",
+      "lane": "B2B/B2G",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#finalist-FIN-B2B-04"
+    },
+    {
+      "finalist_id": "FIN-B2B-05",
+      "lane": "B2B/B2G",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#finalist-FIN-B2B-05"
+    },
+    {
+      "finalist_id": "FIN-B2C-01",
+      "lane": "B2C",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#finalist-FIN-B2C-01"
+    },
+    {
+      "finalist_id": "FIN-B2C-02",
+      "lane": "B2C",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#finalist-FIN-B2C-02"
+    },
+    {
+      "finalist_id": "FIN-B2C-03",
+      "lane": "B2C",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#finalist-FIN-B2C-03"
+    },
+    {
+      "finalist_id": "FIN-B2C-04",
+      "lane": "B2C",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#finalist-FIN-B2C-04"
+    },
+    {
+      "finalist_id": "FIN-B2C-05",
+      "lane": "B2C",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#finalist-FIN-B2C-05"
+    }
+  ],
+  "deep_dives": [
+    {
+      "deep_dive_id": "DD-B2B-HEALTHCARE",
+      "lane": "B2B/B2G",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#deep-DD-B2B-HEALTHCARE"
+    },
+    {
+      "deep_dive_id": "DD-B2B-VC",
+      "lane": "B2B/B2G",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#deep-DD-B2B-VC"
+    },
+    {
+      "deep_dive_id": "DD-B2B-WAREHOUSE",
+      "lane": "B2B/B2G",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#deep-DD-B2B-WAREHOUSE"
+    },
+    {
+      "deep_dive_id": "DD-B2C-SPORTS",
+      "lane": "B2C",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#deep-DD-B2C-SPORTS"
+    },
+    {
+      "deep_dive_id": "DD-B2C-MUSIC",
+      "lane": "B2C",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#deep-DD-B2C-MUSIC"
+    },
+    {
+      "deep_dive_id": "DD-B2C-PUZZLE",
+      "lane": "B2C",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#deep-DD-B2C-PUZZLE"
+    }
+  ],
+  "metrics": [
+    {
+      "metric_id": "Q::S31::OPPORTUNITY_UNIVERSE_TOTAL",
+      "status": "IMPLEMENTED",
+      "dom_selector": "[data-metric-id=\"Q::S31::OPPORTUNITY_UNIVERSE_TOTAL\"]"
+    },
+    {
+      "metric_id": "Q::S31::RANKABLE_RECORDS",
+      "status": "IMPLEMENTED",
+      "dom_selector": "[data-metric-id=\"Q::S31::RANKABLE_RECORDS\"]"
+    },
+    {
+      "metric_id": "Q::S31::UMBRELLA_NONRANKABLE_RECORDS",
+      "status": "IMPLEMENTED",
+      "dom_selector": "[data-metric-id=\"Q::S31::UMBRELLA_NONRANKABLE_RECORDS\"]"
+    },
+    {
+      "metric_id": "Q::S32::B2B_FUNNEL",
+      "status": "IMPLEMENTED",
+      "dom_selector": "[data-metric-id=\"Q::S32::B2B_FUNNEL\"]"
+    },
+    {
+      "metric_id": "Q::S32::B2C_FUNNEL",
+      "status": "IMPLEMENTED",
+      "dom_selector": "[data-metric-id=\"Q::S32::B2C_FUNNEL\"]"
+    },
+    {
+      "metric_id": "Q::S09::ORF_VIZRT_CONTRACT_VALUE",
+      "status": "IMPLEMENTED",
+      "dom_selector": "[data-metric-id=\"Q::S09::ORF_VIZRT_CONTRACT_VALUE\"]"
+    },
+    {
+      "metric_id": "Q::S05::COMMISSION_TIME_REDUCTION",
+      "status": "IMPLEMENTED",
+      "dom_selector": "[data-metric-id=\"Q::S05::COMMISSION_TIME_REDUCTION\"]"
+    },
+    {
+      "metric_id": "Q::S05::FOLLOW_ON_PROJECTS",
+      "status": "IMPLEMENTED",
+      "dom_selector": "[data-metric-id=\"Q::S05::FOLLOW_ON_PROJECTS\"]"
+    },
+    {
+      "metric_id": "Q::S13::GOLF_BASE_LIST_PRICE",
+      "status": "IMPLEMENTED",
+      "dom_selector": "[data-metric-id=\"Q::S13::GOLF_BASE_LIST_PRICE\"]"
+    },
+    {
+      "metric_id": "Q::S14::GOLF_PASS_COURSES",
+      "status": "IMPLEMENTED",
+      "dom_selector": "[data-metric-id=\"Q::S14::GOLF_PASS_COURSES\"]"
+    },
+    {
+      "metric_id": "Q::S14::GOLF_PASS_MONTHLY",
+      "status": "IMPLEMENTED",
+      "dom_selector": "[data-metric-id=\"Q::S14::GOLF_PASS_MONTHLY\"]"
+    },
+    {
+      "metric_id": "Q::S14::GOLF_PASS_ANNUAL",
+      "status": "IMPLEMENTED",
+      "dom_selector": "[data-metric-id=\"Q::S14::GOLF_PASS_ANNUAL\"]"
+    },
+    {
+      "metric_id": "Q::S15::RACKET_CLUB_LIST_PRICE",
+      "status": "IMPLEMENTED",
+      "dom_selector": "[data-metric-id=\"Q::S15::RACKET_CLUB_LIST_PRICE\"]"
+    },
+    {
+      "metric_id": "Q::S16::SYNTH_RIDERS_PACK_PRICE",
+      "status": "IMPLEMENTED",
+      "dom_selector": "[data-metric-id=\"Q::S16::SYNTH_RIDERS_PACK_PRICE\"]"
+    },
+    {
+      "metric_id": "Q::S18::CUBISM_LIST_PRICE",
+      "status": "IMPLEMENTED",
+      "dom_selector": "[data-metric-id=\"Q::S18::CUBISM_LIST_PRICE\"]"
+    },
+    {
+      "metric_id": "Q::S19::PUZZLING_PLACES_LIST_PRICE",
+      "status": "IMPLEMENTED",
+      "dom_selector": "[data-metric-id=\"Q::S19::PUZZLING_PLACES_LIST_PRICE\"]"
+    },
+    {
+      "metric_id": "Q::S20::NOUN_TOWN_LIST_PRICE",
+      "status": "IMPLEMENTED",
+      "dom_selector": "[data-metric-id=\"Q::S20::NOUN_TOWN_LIST_PRICE\"]"
+    },
+    {
+      "metric_id": "Q::S20::NOUN_TOWN_LANGUAGES",
+      "status": "IMPLEMENTED",
+      "dom_selector": "[data-metric-id=\"Q::S20::NOUN_TOWN_LANGUAGES\"]"
+    },
+    {
+      "metric_id": "Q::S20::NOUN_TOWN_PLAYERS",
+      "status": "IMPLEMENTED",
+      "dom_selector": "[data-metric-id=\"Q::S20::NOUN_TOWN_PLAYERS\"]"
+    },
+    {
+      "metric_id": "Q::S24::LANGUAGE_RCT_COUNT",
+      "status": "IMPLEMENTED",
+      "dom_selector": "[data-metric-id=\"Q::S24::LANGUAGE_RCT_COUNT\"]"
+    },
+    {
+      "metric_id": "Q::S21::ZERO_LATENCY_SYSTEM_PRICE",
+      "status": "IMPLEMENTED",
+      "dom_selector": "[data-metric-id=\"Q::S21::ZERO_LATENCY_SYSTEM_PRICE\"]"
+    },
+    {
+      "metric_id": "Q::S21::ZERO_LATENCY_REVENUE_SHARE",
+      "status": "IMPLEMENTED",
+      "dom_selector": "[data-metric-id=\"Q::S21::ZERO_LATENCY_REVENUE_SHARE\"]"
+    },
+    {
+      "metric_id": "Q::S22::ZERO_LATENCY_VENUES",
+      "status": "IMPLEMENTED",
+      "dom_selector": "[data-metric-id=\"Q::S22::ZERO_LATENCY_VENUES\"]"
+    },
+    {
+      "metric_id": "Q::S22::ZERO_LATENCY_PLAYS",
+      "status": "IMPLEMENTED",
+      "dom_selector": "[data-metric-id=\"Q::S22::ZERO_LATENCY_PLAYS\"]"
+    },
+    {
+      "metric_id": "Q::S26::FRISCO_CLOSURE_PERIOD",
+      "status": "IMPLEMENTED",
+      "dom_selector": "[data-metric-id=\"Q::S26::FRISCO_CLOSURE_PERIOD\"]"
+    },
+    {
+      "metric_id": "Q::S27::FITXR_WORKOUT_LIBRARY",
+      "status": "IMPLEMENTED",
+      "dom_selector": "[data-metric-id=\"Q::S27::FITXR_WORKOUT_LIBRARY\"]"
+    },
+    {
+      "metric_id": "Q::S28::IMMERSED_UNIQUE_USERS",
+      "status": "IMPLEMENTED",
+      "dom_selector": "[data-metric-id=\"Q::S28::IMMERSED_UNIQUE_USERS\"]"
+    },
+    {
+      "metric_id": "Q::S29::HOUZZ_AR_USERS",
+      "status": "IMPLEMENTED",
+      "dom_selector": "[data-metric-id=\"Q::S29::HOUZZ_AR_USERS\"]"
+    },
+    {
+      "metric_id": "Q::S30::REC_ROOM_LIFETIME_PLAYERS",
+      "status": "IMPLEMENTED",
+      "dom_selector": "[data-metric-id=\"Q::S30::REC_ROOM_LIFETIME_PLAYERS\"]"
+    },
+    {
+      "metric_id": "Q::S30::REC_ROOM_MONTHLY_USERS",
+      "status": "IMPLEMENTED",
+      "dom_selector": "[data-metric-id=\"Q::S30::REC_ROOM_MONTHLY_USERS\"]"
+    },
+    {
+      "metric_id": "Q::S34::SAVRSE_ROSTER_ROLES",
+      "status": "IMPLEMENTED",
+      "dom_selector": "[data-metric-id=\"Q::S34::SAVRSE_ROSTER_ROLES\"]"
+    },
+    {
+      "metric_id": "Q::S35::SAVA_COMPANY_STAFF",
+      "status": "IMPLEMENTED",
+      "dom_selector": "[data-metric-id=\"Q::S35::SAVA_COMPANY_STAFF\"]"
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "CLM-WEB01-HEALTHCARE-PRIORITY",
+      "status": "TRACEABLE",
+      "source_ids": [
+        "S32",
+        "S34"
+      ],
+      "release_website_sections": [
+        "WEB-01"
+      ]
+    },
+    {
+      "claim_id": "CLM-WEB01-MUSIC-PRIORITY",
+      "status": "TRACEABLE",
+      "source_ids": [
+        "S32",
+        "S34"
+      ],
+      "release_website_sections": [
+        "WEB-01",
+        "WEB-09"
+      ]
+    },
+    {
+      "claim_id": "CLM-WEB01-NO-CASH-ENGINE",
+      "status": "TRACEABLE",
+      "source_ids": [
+        "S33"
+      ],
+      "release_website_sections": [
+        "WEB-01"
+      ]
+    },
+    {
+      "claim_id": "CLM-WEB02-UNIVERSE-COUNT",
+      "status": "TRACEABLE",
+      "source_ids": [
+        "S31"
+      ],
+      "release_website_sections": [
+        "WEB-02"
+      ]
+    },
+    {
+      "claim_id": "CLM-WEB02-RANKABLE-UMBRELLA",
+      "status": "TRACEABLE",
+      "source_ids": [
+        "S31"
+      ],
+      "release_website_sections": [
+        "WEB-02"
+      ]
+    },
+    {
+      "claim_id": "CLM-WEB03-B2B-FUNNEL",
+      "status": "TRACEABLE",
+      "source_ids": [
+        "S32"
+      ],
+      "release_website_sections": [
+        "WEB-03"
+      ]
+    },
+    {
+      "claim_id": "CLM-WEB04-B2C-FUNNEL",
+      "status": "TRACEABLE",
+      "source_ids": [
+        "S32"
+      ],
+      "release_website_sections": [
+        "WEB-04"
+      ]
+    },
+    {
+      "claim_id": "CLM-WEB05-MARKET-RANK-SAVA-OVERLAY",
+      "status": "TRACEABLE",
+      "source_ids": [
+        "S32",
+        "S34"
+      ],
+      "release_website_sections": [
+        "WEB-05"
+      ]
+    },
+    {
+      "claim_id": "CLM-WEB06-B2B-RANK-01",
+      "status": "TRACEABLE",
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S32"
+      ],
+      "release_website_sections": [
+        "WEB-06"
+      ]
+    },
+    {
+      "claim_id": "CLM-WEB06-B2B-RANK-02",
+      "status": "TRACEABLE",
+      "source_ids": [
+        "S05",
+        "S32"
+      ],
+      "release_website_sections": [
+        "WEB-06"
+      ]
+    },
+    {
+      "claim_id": "CLM-WEB06-B2B-RANK-03",
+      "status": "TRACEABLE",
+      "source_ids": [
+        "S06",
+        "S07",
+        "S08",
+        "S32"
+      ],
+      "release_website_sections": [
+        "WEB-06"
+      ]
+    },
+    {
+      "claim_id": "CLM-WEB06-B2B-RANK-04",
+      "status": "TRACEABLE",
+      "source_ids": [
+        "S09",
+        "S10",
+        "S32"
+      ],
+      "release_website_sections": [
+        "WEB-06"
+      ]
+    },
+    {
+      "claim_id": "CLM-WEB06-B2B-RANK-05",
+      "status": "TRACEABLE",
+      "source_ids": [
+        "S11",
+        "S12",
+        "S32"
+      ],
+      "release_website_sections": [
+        "WEB-06"
+      ]
+    },
+    {
+      "claim_id": "CLM-WEB07-HEALTHCARE-SAVA",
+      "status": "TRACEABLE",
+      "source_ids": [
+        "S32",
+        "S34"
+      ],
+      "release_website_sections": [
+        "WEB-09"
+      ]
+    },
+    {
+      "claim_id": "CLM-WEB07-VC-SAVA",
+      "status": "TRACEABLE",
+      "source_ids": [
+        "S32",
+        "S34"
+      ],
+      "release_website_sections": [
+        "WEB-09"
+      ]
+    },
+    {
+      "claim_id": "CLM-WEB07-WAREHOUSE-SAVA",
+      "status": "TRACEABLE",
+      "source_ids": [
+        "S32",
+        "S34"
+      ],
+      "release_website_sections": [
+        "WEB-09"
+      ]
+    },
+    {
+      "claim_id": "CLM-WEB07-BROADCAST-SAVA",
+      "status": "TRACEABLE",
+      "source_ids": [
+        "S32",
+        "S34"
+      ],
+      "release_website_sections": [
+        "WEB-09"
+      ]
+    },
+    {
+      "claim_id": "CLM-WEB07-CONSTRUCTION-SAVA",
+      "status": "TRACEABLE",
+      "source_ids": [
+        "S32",
+        "S34"
+      ],
+      "release_website_sections": [
+        "WEB-09"
+      ]
+    },
+    {
+      "claim_id": "CLM-WEB08-B2C-RANK-01",
+      "status": "TRACEABLE",
+      "source_ids": [
+        "S13",
+        "S14",
+        "S15",
+        "S32"
+      ],
+      "release_website_sections": [
+        "WEB-08"
+      ]
+    },
+    {
+      "claim_id": "CLM-WEB08-B2C-RANK-02",
+      "status": "TRACEABLE",
+      "source_ids": [
+        "S16",
+        "S17",
+        "S23",
+        "S32"
+      ],
+      "release_website_sections": [
+        "WEB-08"
+      ]
+    },
+    {
+      "claim_id": "CLM-WEB08-B2C-RANK-03",
+      "status": "TRACEABLE",
+      "source_ids": [
+        "S18",
+        "S19",
+        "S32"
+      ],
+      "release_website_sections": [
+        "WEB-08"
+      ]
+    },
+    {
+      "claim_id": "CLM-WEB08-B2C-RANK-04",
+      "status": "TRACEABLE",
+      "source_ids": [
+        "S20",
+        "S24",
+        "S25",
+        "S32"
+      ],
+      "release_website_sections": [
+        "WEB-08"
+      ]
+    },
+    {
+      "claim_id": "CLM-WEB08-B2C-RANK-05",
+      "status": "TRACEABLE",
+      "source_ids": [
+        "S21",
+        "S22",
+        "S26",
+        "S32"
+      ],
+      "release_website_sections": [
+        "WEB-08"
+      ]
+    },
+    {
+      "claim_id": "CLM-WEB09-SPORTS-SAVA",
+      "status": "TRACEABLE",
+      "source_ids": [
+        "S32",
+        "S34"
+      ],
+      "release_website_sections": [
+        "WEB-09"
+      ]
+    },
+    {
+      "claim_id": "CLM-WEB12-MUSIC-SAVA",
+      "status": "TRACEABLE",
+      "source_ids": [
+        "S32",
+        "S34"
+      ],
+      "release_website_sections": [
+        "WEB-12"
+      ]
+    },
+    {
+      "claim_id": "CLM-WEB13-PUZZLE-SAVA",
+      "status": "TRACEABLE",
+      "source_ids": [
+        "S32",
+        "S34"
+      ],
+      "release_website_sections": [
+        "WEB-13"
+      ]
+    },
+    {
+      "claim_id": "CLM-WEB08-LANGUAGE-SAVA",
+      "status": "TRACEABLE",
+      "source_ids": [
+        "S32"
+      ],
+      "release_website_sections": [
+        "WEB-08"
+      ]
+    },
+    {
+      "claim_id": "CLM-WEB08-LBE-SAVA",
+      "status": "TRACEABLE",
+      "source_ids": [
+        "S32"
+      ],
+      "release_website_sections": [
+        "WEB-08"
+      ]
+    },
+    {
+      "claim_id": "CLM-WEB10-HEALTHCARE-PROCUREMENT",
+      "status": "TRACEABLE",
+      "source_ids": [
+        "S01",
+        "S02"
+      ],
+      "release_website_sections": [
+        "WEB-10"
+      ]
+    },
+    {
+      "claim_id": "CLM-WEB10-HEALTHCARE-ACADEMIC-CEILING",
+      "status": "TRACEABLE",
+      "source_ids": [
+        "S03",
+        "S04"
+      ],
+      "release_website_sections": [
+        "WEB-10"
+      ]
+    },
+    {
+      "claim_id": "CLM-WEB10-HEALTHCARE-PARTNER-GATE",
+      "status": "TRACEABLE",
+      "source_ids": [
+        "S34",
+        "S33"
+      ],
+      "release_website_sections": [
+        "WEB-10"
+      ]
+    },
+    {
+      "claim_id": "CLM-WEB12-MUSIC-PAID-ARCHITECTURE",
+      "status": "TRACEABLE",
+      "source_ids": [
+        "S16"
+      ],
+      "release_website_sections": [
+        "WEB-12"
+      ]
+    },
+    {
+      "claim_id": "CLM-WEB12-MUSIC-RIGHTS-LIFECYCLE",
+      "status": "TRACEABLE",
+      "source_ids": [
+        "S17"
+      ],
+      "release_website_sections": [
+        "WEB-12"
+      ]
+    },
+    {
+      "claim_id": "CLM-WEB12-MUSIC-PROTOTYPE-GATE",
+      "status": "TRACEABLE",
+      "source_ids": [
+        "S33",
+        "S34"
+      ],
+      "release_website_sections": [
+        "WEB-12"
+      ]
+    },
+    {
+      "claim_id": "CLM-WEB14-MUSICWORLD-PAUSE",
+      "status": "TRACEABLE",
+      "source_ids": [
+        "S33",
+        "S34"
+      ],
+      "release_website_sections": [
+        "WEB-14"
+      ]
+    },
+    {
+      "claim_id": "CLM-WEB17-INTERNAL-COUNTS-SEPARATE",
+      "status": "TRACEABLE",
+      "source_ids": [
+        "S34",
+        "S35"
+      ],
+      "release_website_sections": [
+        "WEB-17"
+      ]
+    },
+    {
+      "claim_id": "CLM-WEB15-COUNTER-EVIDENCE-ACCESS",
+      "status": "TRACEABLE",
+      "source_ids": [
+        "S23",
+        "S26",
+        "S30",
+        "S33"
+      ],
+      "release_website_sections": [
+        "WEB-15"
+      ]
+    },
+    {
+      "claim_id": "CLM-WEB16-CITATION-SEMANTIC-CEILING",
+      "status": "TRACEABLE",
+      "source_ids": [
+        "S31",
+        "S33"
+      ],
+      "release_website_sections": [
+        "WEB-16"
+      ]
+    },
+    {
+      "claim_id": "CLM-WEB17-LIMITED-EXECUTION",
+      "status": "TRACEABLE",
+      "source_ids": [
+        "S33",
+        "S34"
+      ],
+      "release_website_sections": [
+        "WEB-17"
+      ]
+    },
+    {
+      "claim_id": "CLM-WEB18-SOURCE-HUB-COUNT",
+      "status": "TRACEABLE",
+      "source_ids": [
+        "S31",
+        "S33"
+      ],
+      "release_website_sections": [
+        "WEB-18"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "S01",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#source-S01",
+      "direct_url_resolvable": true
+    },
+    {
+      "source_id": "S02",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#source-S02",
+      "direct_url_resolvable": true
+    },
+    {
+      "source_id": "S03",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#source-S03",
+      "direct_url_resolvable": true
+    },
+    {
+      "source_id": "S04",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#source-S04",
+      "direct_url_resolvable": true
+    },
+    {
+      "source_id": "S05",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#source-S05",
+      "direct_url_resolvable": true
+    },
+    {
+      "source_id": "S06",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#source-S06",
+      "direct_url_resolvable": true
+    },
+    {
+      "source_id": "S07",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#source-S07",
+      "direct_url_resolvable": true
+    },
+    {
+      "source_id": "S08",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#source-S08",
+      "direct_url_resolvable": true
+    },
+    {
+      "source_id": "S09",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#source-S09",
+      "direct_url_resolvable": true
+    },
+    {
+      "source_id": "S10",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#source-S10",
+      "direct_url_resolvable": true
+    },
+    {
+      "source_id": "S11",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#source-S11",
+      "direct_url_resolvable": true
+    },
+    {
+      "source_id": "S12",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#source-S12",
+      "direct_url_resolvable": true
+    },
+    {
+      "source_id": "S13",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#source-S13",
+      "direct_url_resolvable": true
+    },
+    {
+      "source_id": "S14",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#source-S14",
+      "direct_url_resolvable": true
+    },
+    {
+      "source_id": "S15",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#source-S15",
+      "direct_url_resolvable": true
+    },
+    {
+      "source_id": "S16",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#source-S16",
+      "direct_url_resolvable": true
+    },
+    {
+      "source_id": "S17",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#source-S17",
+      "direct_url_resolvable": true
+    },
+    {
+      "source_id": "S18",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#source-S18",
+      "direct_url_resolvable": true
+    },
+    {
+      "source_id": "S19",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#source-S19",
+      "direct_url_resolvable": true
+    },
+    {
+      "source_id": "S20",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#source-S20",
+      "direct_url_resolvable": true
+    },
+    {
+      "source_id": "S21",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#source-S21",
+      "direct_url_resolvable": true
+    },
+    {
+      "source_id": "S22",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#source-S22",
+      "direct_url_resolvable": true
+    },
+    {
+      "source_id": "S23",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#source-S23",
+      "direct_url_resolvable": true
+    },
+    {
+      "source_id": "S24",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#source-S24",
+      "direct_url_resolvable": true
+    },
+    {
+      "source_id": "S25",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#source-S25",
+      "direct_url_resolvable": true
+    },
+    {
+      "source_id": "S26",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#source-S26",
+      "direct_url_resolvable": true
+    },
+    {
+      "source_id": "S27",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#source-S27",
+      "direct_url_resolvable": true
+    },
+    {
+      "source_id": "S28",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#source-S28",
+      "direct_url_resolvable": true
+    },
+    {
+      "source_id": "S29",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#source-S29",
+      "direct_url_resolvable": true
+    },
+    {
+      "source_id": "S30",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#source-S30",
+      "direct_url_resolvable": true
+    },
+    {
+      "source_id": "S31",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#source-S31",
+      "direct_url_resolvable": true
+    },
+    {
+      "source_id": "S32",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#source-S32",
+      "direct_url_resolvable": true
+    },
+    {
+      "source_id": "S33",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#source-S33",
+      "direct_url_resolvable": true
+    },
+    {
+      "source_id": "S34",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#source-S34",
+      "direct_url_resolvable": true
+    },
+    {
+      "source_id": "S35",
+      "status": "IMPLEMENTED",
+      "dom_selector": "#source-S35",
+      "direct_url_resolvable": false
+    }
+  ],
+  "components": [
+    {
+      "component_id": "C01",
+      "component_name": "ExecutiveHero",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector": ".cmp-C01",
+      "sections_used": [
+        "WEB-01"
+      ],
+      "notes": "Semantic HTML/CSS/vanilla JS implementation; contract retained."
+    },
+    {
+      "component_id": "C02",
+      "component_name": "SourceStatePill",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector": ".cmp-C02",
+      "sections_used": [
+        "WEB-01",
+        "WEB-02",
+        "WEB-16",
+        "WEB-18"
+      ],
+      "notes": "Semantic HTML/CSS/vanilla JS implementation; contract retained."
+    },
+    {
+      "component_id": "C03",
+      "component_name": "StickyAnchorNav",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector": ".cmp-C03",
+      "sections_used": [
+        "WEB-01",
+        "WEB-02",
+        "WEB-03",
+        "WEB-04",
+        "WEB-05",
+        "WEB-06",
+        "WEB-07",
+        "WEB-08",
+        "WEB-09",
+        "WEB-10",
+        "WEB-11",
+        "WEB-12",
+        "WEB-13",
+        "WEB-14",
+        "WEB-15",
+        "WEB-16",
+        "WEB-17",
+        "WEB-18"
+      ],
+      "notes": "Semantic HTML/CSS/vanilla JS implementation; contract retained."
+    },
+    {
+      "component_id": "C04",
+      "component_name": "ThesisStrip",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector": ".cmp-C04",
+      "sections_used": [
+        "WEB-01",
+        "WEB-03",
+        "WEB-09",
+        "WEB-17"
+      ],
+      "notes": "Semantic HTML/CSS/vanilla JS implementation; contract retained."
+    },
+    {
+      "component_id": "C05",
+      "component_name": "DecisionNowCard",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector": ".cmp-C05",
+      "sections_used": [
+        "WEB-01",
+        "WEB-09",
+        "WEB-17"
+      ],
+      "notes": "Semantic HTML/CSS/vanilla JS implementation; contract retained."
+    },
+    {
+      "component_id": "C06",
+      "component_name": "NotYetApprovedCard",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector": ".cmp-C06",
+      "sections_used": [
+        "WEB-01",
+        "WEB-17"
+      ],
+      "notes": "Semantic HTML/CSS/vanilla JS implementation; contract retained."
+    },
+    {
+      "component_id": "C07",
+      "component_name": "SectionIntro",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector": ".cmp-C07",
+      "sections_used": [
+        "WEB-02",
+        "WEB-03",
+        "WEB-05",
+        "WEB-06",
+        "WEB-07",
+        "WEB-08",
+        "WEB-09",
+        "WEB-10",
+        "WEB-11",
+        "WEB-12",
+        "WEB-13",
+        "WEB-14",
+        "WEB-15",
+        "WEB-16",
+        "WEB-17",
+        "WEB-18"
+      ],
+      "notes": "Semantic HTML/CSS/vanilla JS implementation; contract retained."
+    },
+    {
+      "component_id": "C08",
+      "component_name": "KeyNumberCard",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector": ".cmp-C08",
+      "sections_used": [
+        "WEB-02",
+        "WEB-04",
+        "WEB-10",
+        "WEB-16"
+      ],
+      "notes": "Semantic HTML/CSS/vanilla JS implementation; contract retained."
+    },
+    {
+      "component_id": "C09",
+      "component_name": "QuantEvidenceCard",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector": ".cmp-C09",
+      "sections_used": [
+        "WEB-02",
+        "WEB-06",
+        "WEB-08",
+        "WEB-11",
+        "WEB-12",
+        "WEB-16"
+      ],
+      "notes": "Semantic HTML/CSS/vanilla JS implementation; contract retained."
+    },
+    {
+      "component_id": "C10",
+      "component_name": "EvidenceClassBadge",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector": ".cmp-C10",
+      "sections_used": [
+        "WEB-02",
+        "WEB-05",
+        "WEB-06",
+        "WEB-07",
+        "WEB-08",
+        "WEB-10",
+        "WEB-16",
+        "WEB-18"
+      ],
+      "notes": "Semantic HTML/CSS/vanilla JS implementation; contract retained."
+    },
+    {
+      "component_id": "C11",
+      "component_name": "CaveatBadge",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector": ".cmp-C11",
+      "sections_used": [
+        "WEB-02",
+        "WEB-05",
+        "WEB-06",
+        "WEB-07",
+        "WEB-08",
+        "WEB-10",
+        "WEB-15",
+        "WEB-16"
+      ],
+      "notes": "Semantic HTML/CSS/vanilla JS implementation; contract retained."
+    },
+    {
+      "component_id": "C12",
+      "component_name": "ProvesNotProvesPair",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector": ".cmp-C12",
+      "sections_used": [
+        "WEB-02",
+        "WEB-11",
+        "WEB-12",
+        "WEB-16"
+      ],
+      "notes": "Semantic HTML/CSS/vanilla JS implementation; contract retained."
+    },
+    {
+      "component_id": "C13",
+      "component_name": "EvidenceStrip",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector": ".cmp-C13",
+      "sections_used": [
+        "WEB-02",
+        "WEB-06",
+        "WEB-08",
+        "WEB-11",
+        "WEB-12",
+        "WEB-15",
+        "WEB-16"
+      ],
+      "notes": "Semantic HTML/CSS/vanilla JS implementation; contract retained."
+    },
+    {
+      "component_id": "C14",
+      "component_name": "DualFunnel",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector": ".cmp-C14",
+      "sections_used": [
+        "WEB-04"
+      ],
+      "notes": "Semantic HTML/CSS/vanilla JS implementation; contract retained."
+    },
+    {
+      "component_id": "C15",
+      "component_name": "FunnelStage",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector": ".cmp-C15",
+      "sections_used": [
+        "WEB-04"
+      ],
+      "notes": "Semantic HTML/CSS/vanilla JS implementation; contract retained."
+    },
+    {
+      "component_id": "C16",
+      "component_name": "RankLadder",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector": ".cmp-C16",
+      "sections_used": [
+        "WEB-06",
+        "WEB-08",
+        "WEB-09"
+      ],
+      "notes": "Semantic HTML/CSS/vanilla JS implementation; contract retained."
+    },
+    {
+      "component_id": "C17",
+      "component_name": "RankRow",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector": ".cmp-C17",
+      "sections_used": [
+        "WEB-06",
+        "WEB-08",
+        "WEB-09"
+      ],
+      "notes": "Semantic HTML/CSS/vanilla JS implementation; contract retained."
+    },
+    {
+      "component_id": "C18",
+      "component_name": "ShortlistExplorer",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector": ".cmp-C18",
+      "sections_used": [
+        "WEB-05",
+        "WEB-07"
+      ],
+      "notes": "Semantic HTML/CSS/vanilla JS implementation; contract retained."
+    },
+    {
+      "component_id": "C19",
+      "component_name": "ShortlistRow",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector": ".cmp-C19",
+      "sections_used": [
+        "WEB-05",
+        "WEB-07"
+      ],
+      "notes": "Semantic HTML/CSS/vanilla JS implementation; contract retained."
+    },
+    {
+      "component_id": "C20",
+      "component_name": "FinalistProfileCard",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector": ".cmp-C20",
+      "sections_used": [
+        "WEB-06",
+        "WEB-08"
+      ],
+      "notes": "Semantic HTML/CSS/vanilla JS implementation; contract retained."
+    },
+    {
+      "component_id": "C21",
+      "component_name": "DeepDiveProfile",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector": ".cmp-C21",
+      "sections_used": [
+        "WEB-06",
+        "WEB-08",
+        "WEB-11",
+        "WEB-12"
+      ],
+      "notes": "Semantic HTML/CSS/vanilla JS implementation; contract retained."
+    },
+    {
+      "component_id": "C22",
+      "component_name": "BuyerUserPayerCard",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector": ".cmp-C22",
+      "sections_used": [
+        "WEB-06",
+        "WEB-08",
+        "WEB-11"
+      ],
+      "notes": "Semantic HTML/CSS/vanilla JS implementation; contract retained."
+    },
+    {
+      "component_id": "C23",
+      "component_name": "WorkflowDiagram",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector": ".cmp-C23",
+      "sections_used": [
+        "WEB-11",
+        "WEB-12"
+      ],
+      "notes": "Semantic HTML/CSS/vanilla JS implementation; contract retained."
+    },
+    {
+      "component_id": "C24",
+      "component_name": "ValidationPath",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector": ".cmp-C24",
+      "sections_used": [
+        "WEB-11",
+        "WEB-12",
+        "WEB-17"
+      ],
+      "notes": "Semantic HTML/CSS/vanilla JS implementation; contract retained."
+    },
+    {
+      "component_id": "C25",
+      "component_name": "GateNode",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector": ".cmp-C25",
+      "sections_used": [
+        "WEB-11",
+        "WEB-12"
+      ],
+      "notes": "Semantic HTML/CSS/vanilla JS implementation; contract retained."
+    },
+    {
+      "component_id": "C26",
+      "component_name": "KillGateCard",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector": ".cmp-C26",
+      "sections_used": [
+        "WEB-11",
+        "WEB-12",
+        "WEB-15",
+        "WEB-17"
+      ],
+      "notes": "Semantic HTML/CSS/vanilla JS implementation; contract retained."
+    },
+    {
+      "component_id": "C27",
+      "component_name": "ComparisonMatrix",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector": ".cmp-C27",
+      "sections_used": [
+        "WEB-06",
+        "WEB-08"
+      ],
+      "notes": "Semantic HTML/CSS/vanilla JS implementation; contract retained."
+    },
+    {
+      "component_id": "C28",
+      "component_name": "MarketVsSAVASplitPanel",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector": ".cmp-C28",
+      "sections_used": [
+        "WEB-03",
+        "WEB-09"
+      ],
+      "notes": "Semantic HTML/CSS/vanilla JS implementation; contract retained."
+    },
+    {
+      "component_id": "C29",
+      "component_name": "CapabilityGapCard",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector": ".cmp-C29",
+      "sections_used": [
+        "WEB-10",
+        "WEB-11",
+        "WEB-12"
+      ],
+      "notes": "Semantic HTML/CSS/vanilla JS implementation; contract retained."
+    },
+    {
+      "component_id": "C30",
+      "component_name": "ReuseBoundaryCard",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector": ".cmp-C30",
+      "sections_used": [
+        "WEB-10",
+        "WEB-14"
+      ],
+      "notes": "Semantic HTML/CSS/vanilla JS implementation; contract retained."
+    },
+    {
+      "component_id": "C31",
+      "component_name": "PortfolioMap",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector": ".cmp-C31",
+      "sections_used": [
+        "WEB-13",
+        "WEB-17"
+      ],
+      "notes": "Semantic HTML/CSS/vanilla JS implementation; contract retained."
+    },
+    {
+      "component_id": "C32",
+      "component_name": "PortfolioRoleCard",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector": ".cmp-C32",
+      "sections_used": [
+        "WEB-13",
+        "WEB-17"
+      ],
+      "notes": "Semantic HTML/CSS/vanilla JS implementation; contract retained."
+    },
+    {
+      "component_id": "C33",
+      "component_name": "SequencingLine",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector": ".cmp-C33",
+      "sections_used": [
+        "WEB-13",
+        "WEB-17"
+      ],
+      "notes": "Semantic HTML/CSS/vanilla JS implementation; contract retained."
+    },
+    {
+      "component_id": "C34",
+      "component_name": "MusicWorldSeparationPanel",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector": ".cmp-C34",
+      "sections_used": [
+        "WEB-12",
+        "WEB-14"
+      ],
+      "notes": "Semantic HTML/CSS/vanilla JS implementation; contract retained."
+    },
+    {
+      "component_id": "C35",
+      "component_name": "UncertaintyCard",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector": ".cmp-C35",
+      "sections_used": [
+        "WEB-10",
+        "WEB-14",
+        "WEB-15",
+        "WEB-18"
+      ],
+      "notes": "Semantic HTML/CSS/vanilla JS implementation; contract retained."
+    },
+    {
+      "component_id": "C36",
+      "component_name": "MethodologyAccordion",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector": ".cmp-C36",
+      "sections_used": [
+        "WEB-04",
+        "WEB-15",
+        "WEB-18"
+      ],
+      "notes": "Semantic HTML/CSS/vanilla JS implementation; contract retained."
+    },
+    {
+      "component_id": "C37",
+      "component_name": "CitationTrigger",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector": ".cmp-C37",
+      "sections_used": [
+        "WEB-01",
+        "WEB-02",
+        "WEB-05",
+        "WEB-06",
+        "WEB-07",
+        "WEB-08",
+        "WEB-09",
+        "WEB-10",
+        "WEB-11",
+        "WEB-12",
+        "WEB-15",
+        "WEB-16",
+        "WEB-18"
+      ],
+      "notes": "Semantic HTML/CSS/vanilla JS implementation; contract retained."
+    },
+    {
+      "component_id": "C38",
+      "component_name": "CitationDrawer",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector": ".cmp-C38",
+      "sections_used": [
+        "WEB-02",
+        "WEB-16",
+        "WEB-18"
+      ],
+      "notes": "Semantic HTML/CSS/vanilla JS implementation; contract retained."
+    },
+    {
+      "component_id": "C39",
+      "component_name": "SourceRegisterRow",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector": ".cmp-C39",
+      "sections_used": [
+        "WEB-16",
+        "WEB-18"
+      ],
+      "notes": "Semantic HTML/CSS/vanilla JS implementation; contract retained."
+    },
+    {
+      "component_id": "C40",
+      "component_name": "TechnicalTraceabilityBlock",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector": ".cmp-C40",
+      "sections_used": [
+        "WEB-16",
+        "WEB-18"
+      ],
+      "notes": "Semantic HTML/CSS/vanilla JS implementation; contract retained."
+    }
+  ],
+  "render_bindings": [
+    {
+      "binding_id": "RB::PRIMARY::WEB01-HERO-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-01",
+      "content_object_id": "WEB01-HERO-01",
+      "data_object_id": "WEB01-HERO-01",
+      "render_component_id": "C01",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB01-HERO-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB01-MARKET-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-01",
+      "content_object_id": "WEB01-MARKET-01",
+      "data_object_id": "WEB01-MARKET-01",
+      "render_component_id": "C04",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB01-MARKET-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB01-SAVA-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-01",
+      "content_object_id": "WEB01-SAVA-01",
+      "data_object_id": "WEB01-SAVA-01",
+      "render_component_id": "C05",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB01-SAVA-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB01-NOTAPPROVED-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-01",
+      "content_object_id": "WEB01-NOTAPPROVED-01",
+      "data_object_id": "WEB01-NOTAPPROVED-01",
+      "render_component_id": "C06",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB01-NOTAPPROVED-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB01-HC-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-01",
+      "content_object_id": "WEB01-HC-01",
+      "data_object_id": "WEB01-HC-01",
+      "render_component_id": "C05",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB01-HC-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB01-MUSIC-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-01",
+      "content_object_id": "WEB01-MUSIC-01",
+      "data_object_id": "WEB01-MUSIC-01",
+      "render_component_id": "C05",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB01-MUSIC-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB01-SOURCE-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-01",
+      "content_object_id": "WEB01-SOURCE-01",
+      "data_object_id": "WEB01-SOURCE-01",
+      "render_component_id": "C02",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB01-SOURCE-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB02-UNIVERSE-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-02",
+      "content_object_id": "WEB02-UNIVERSE-01",
+      "data_object_id": "WEB02-UNIVERSE-01",
+      "render_component_id": "C08",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB02-UNIVERSE-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB02-FUNNELS-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-02",
+      "content_object_id": "WEB02-FUNNELS-01",
+      "data_object_id": "WEB02-FUNNELS-01",
+      "render_component_id": "C12",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB02-FUNNELS-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB02-EVIDENCE-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-02",
+      "content_object_id": "WEB02-EVIDENCE-01",
+      "data_object_id": "WEB02-EVIDENCE-01",
+      "render_component_id": "C10",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB02-EVIDENCE-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB03-B2B-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-03",
+      "content_object_id": "WEB03-B2B-01",
+      "data_object_id": "WEB03-B2B-01",
+      "render_component_id": "C28",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB03-B2B-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB03-B2C-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-03",
+      "content_object_id": "WEB03-B2C-01",
+      "data_object_id": "WEB03-B2C-01",
+      "render_component_id": "C28",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB03-B2C-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB03-ROLES-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-03",
+      "content_object_id": "WEB03-ROLES-01",
+      "data_object_id": "WEB03-ROLES-01",
+      "render_component_id": "C04",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB03-ROLES-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB04-B2B-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-04",
+      "content_object_id": "WEB04-B2B-01",
+      "data_object_id": "WEB04-B2B-01",
+      "render_component_id": "C14",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB04-B2B-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB04-B2C-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-04",
+      "content_object_id": "WEB04-B2C-01",
+      "data_object_id": "WEB04-B2C-01",
+      "render_component_id": "C14",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB04-B2C-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB04-STAGES-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-04",
+      "content_object_id": "WEB04-STAGES-01",
+      "data_object_id": "WEB04-STAGES-01",
+      "render_component_id": "C15",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB04-STAGES-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB05-EXPLORER-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-05",
+      "content_object_id": "WEB05-EXPLORER-01",
+      "data_object_id": "WEB05-EXPLORER-01",
+      "render_component_id": "C18",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB05-EXPLORER-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB05-RULE-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-05",
+      "content_object_id": "WEB05-RULE-01",
+      "data_object_id": "WEB05-RULE-01",
+      "render_component_id": "C11",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB05-RULE-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB06-RANK-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-06",
+      "content_object_id": "WEB06-RANK-01",
+      "data_object_id": "WEB06-RANK-01",
+      "render_component_id": "C16",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB06-RANK-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB06-FINALISTS-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-06",
+      "content_object_id": "WEB06-FINALISTS-01",
+      "data_object_id": "WEB06-FINALISTS-01",
+      "render_component_id": "C20",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB06-FINALISTS-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB06-DEEP-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-06",
+      "content_object_id": "WEB06-DEEP-01",
+      "data_object_id": "WEB06-DEEP-01",
+      "render_component_id": "C21",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB06-DEEP-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB07-EXPLORER-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-07",
+      "content_object_id": "WEB07-EXPLORER-01",
+      "data_object_id": "WEB07-EXPLORER-01",
+      "render_component_id": "C18",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB07-EXPLORER-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB07-ACTION-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-07",
+      "content_object_id": "WEB07-ACTION-01",
+      "data_object_id": "WEB07-ACTION-01",
+      "render_component_id": "C07",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB07-ACTION-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB08-RANK-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-08",
+      "content_object_id": "WEB08-RANK-01",
+      "data_object_id": "WEB08-RANK-01",
+      "render_component_id": "C16",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB08-RANK-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB08-FINALISTS-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-08",
+      "content_object_id": "WEB08-FINALISTS-01",
+      "data_object_id": "WEB08-FINALISTS-01",
+      "render_component_id": "C20",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB08-FINALISTS-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB08-PRICE-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-08",
+      "content_object_id": "WEB08-PRICE-01",
+      "data_object_id": "WEB08-PRICE-01",
+      "render_component_id": "C13",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB08-PRICE-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB09-CROSSWALK-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-09",
+      "content_object_id": "WEB09-CROSSWALK-01",
+      "data_object_id": "WEB09-CROSSWALK-01",
+      "render_component_id": "C28",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB09-CROSSWALK-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB09-SPORTS-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-09",
+      "content_object_id": "WEB09-SPORTS-01",
+      "data_object_id": "WEB09-SPORTS-01",
+      "render_component_id": "C28",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB09-SPORTS-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB09-MUSIC-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-09",
+      "content_object_id": "WEB09-MUSIC-01",
+      "data_object_id": "WEB09-MUSIC-01",
+      "render_component_id": "C28",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB09-MUSIC-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB10-ROSTER-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-10",
+      "content_object_id": "WEB10-ROSTER-01",
+      "data_object_id": "WEB10-ROSTER-01",
+      "render_component_id": "C08",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB10-ROSTER-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB10-STAFF-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-10",
+      "content_object_id": "WEB10-STAFF-01",
+      "data_object_id": "WEB10-STAFF-01",
+      "render_component_id": "C08",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB10-STAFF-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB10-GAP-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-10",
+      "content_object_id": "WEB10-GAP-01",
+      "data_object_id": "WEB10-GAP-01",
+      "render_component_id": "C29",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB10-GAP-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB10-REUSE-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-10",
+      "content_object_id": "WEB10-REUSE-01",
+      "data_object_id": "WEB10-REUSE-01",
+      "render_component_id": "C30",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB10-REUSE-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB11-PATH-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-11",
+      "content_object_id": "WEB11-PATH-01",
+      "data_object_id": "WEB11-PATH-01",
+      "render_component_id": "C24",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB11-PATH-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [
+        "AST-SVG-11-VI-V02",
+        "AST-WEB11-HC-EXT-01"
+      ],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB11-WORKFLOW-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-11",
+      "content_object_id": "WEB11-WORKFLOW-01",
+      "data_object_id": "WEB11-WORKFLOW-01",
+      "render_component_id": "C23",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB11-WORKFLOW-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [
+        "AST-SVG-11-VI-V02",
+        "AST-WEB11-HC-EXT-01"
+      ],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB11-KILL-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-11",
+      "content_object_id": "WEB11-KILL-01",
+      "data_object_id": "WEB11-KILL-01",
+      "render_component_id": "C26",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB11-KILL-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [
+        "AST-SVG-11-VI-V02",
+        "AST-WEB11-HC-EXT-01"
+      ],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB12-LOOP-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-12",
+      "content_object_id": "WEB12-LOOP-01",
+      "data_object_id": "WEB12-LOOP-01",
+      "render_component_id": "C23",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB12-LOOP-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [
+        "AST-SVG-12-VI-V02",
+        "AST-WEB12-MU-EXT-01"
+      ],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB12-GATES-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-12",
+      "content_object_id": "WEB12-GATES-01",
+      "data_object_id": "WEB12-GATES-01",
+      "render_component_id": "C24",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB12-GATES-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [
+        "AST-SVG-12-VI-V02",
+        "AST-WEB12-MU-EXT-01"
+      ],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB12-PRICE-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-12",
+      "content_object_id": "WEB12-PRICE-01",
+      "data_object_id": "WEB12-PRICE-01",
+      "render_component_id": "C09",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB12-PRICE-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [
+        "AST-SVG-12-VI-V02",
+        "AST-WEB12-MU-EXT-01"
+      ],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB12-KILL-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-12",
+      "content_object_id": "WEB12-KILL-01",
+      "data_object_id": "WEB12-KILL-01",
+      "render_component_id": "C26",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB12-KILL-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [
+        "AST-SVG-12-VI-V02",
+        "AST-WEB12-MU-EXT-01"
+      ],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB13-MAP-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-13",
+      "content_object_id": "WEB13-MAP-01",
+      "data_object_id": "WEB13-MAP-01",
+      "render_component_id": "C31",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB13-MAP-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB13-SEQUENCE-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-13",
+      "content_object_id": "WEB13-SEQUENCE-01",
+      "data_object_id": "WEB13-SEQUENCE-01",
+      "render_component_id": "C33",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB13-SEQUENCE-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB14-SEPARATE-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-14",
+      "content_object_id": "WEB14-SEPARATE-01",
+      "data_object_id": "WEB14-SEPARATE-01",
+      "render_component_id": "C34",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB14-SEPARATE-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [
+        "AST-SVG-14-VI-V03"
+      ],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB14-PAUSE-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-14",
+      "content_object_id": "WEB14-PAUSE-01",
+      "data_object_id": "WEB14-PAUSE-01",
+      "render_component_id": "C34",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB14-PAUSE-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [
+        "AST-SVG-14-VI-V03"
+      ],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB14-REUSE-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-14",
+      "content_object_id": "WEB14-REUSE-01",
+      "data_object_id": "WEB14-REUSE-01",
+      "render_component_id": "C30",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB14-REUSE-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [
+        "AST-SVG-14-VI-V03"
+      ],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB15-COUNTER-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-15",
+      "content_object_id": "WEB15-COUNTER-01",
+      "data_object_id": "WEB15-COUNTER-01",
+      "render_component_id": "C35",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB15-COUNTER-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB15-LBE-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-15",
+      "content_object_id": "WEB15-LBE-01",
+      "data_object_id": "WEB15-LBE-01",
+      "render_component_id": "C13",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB15-LBE-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB15-RECROOM-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-15",
+      "content_object_id": "WEB15-RECROOM-01",
+      "data_object_id": "WEB15-RECROOM-01",
+      "render_component_id": "C13",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB15-RECROOM-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-REGISTER-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-REGISTER-01",
+      "data_object_id": "WEB16-REGISTER-01",
+      "render_component_id": "C09",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB16-REGISTER-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-GRAMMAR-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-GRAMMAR-01",
+      "data_object_id": "WEB16-GRAMMAR-01",
+      "render_component_id": "C12",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB16-GRAMMAR-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB17-APPROVE-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-17",
+      "content_object_id": "WEB17-APPROVE-01",
+      "data_object_id": "WEB17-APPROVE-01",
+      "render_component_id": "C05",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB17-APPROVE-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB17-NOTYET-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-17",
+      "content_object_id": "WEB17-NOTYET-01",
+      "data_object_id": "WEB17-NOTYET-01",
+      "render_component_id": "C06",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB17-NOTYET-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB17-LINE-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-17",
+      "content_object_id": "WEB17-LINE-01",
+      "data_object_id": "WEB17-LINE-01",
+      "render_component_id": "C33",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB17-LINE-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB18-METHOD-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-18",
+      "content_object_id": "WEB18-METHOD-01",
+      "data_object_id": "WEB18-METHOD-01",
+      "render_component_id": "C36",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB18-METHOD-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB18-SOURCES-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-18",
+      "content_object_id": "WEB18-SOURCES-01",
+      "data_object_id": "WEB18-SOURCES-01",
+      "render_component_id": "C37",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB18-SOURCES-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB18-TRACE-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-18",
+      "content_object_id": "WEB18-TRACE-01",
+      "data_object_id": "WEB18-TRACE-01",
+      "render_component_id": "C40",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB18-TRACE-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-01",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-01",
+      "data_object_id": "WEB16-METRIC-01",
+      "render_component_id": "C09",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB16-METRIC-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-02",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-02",
+      "data_object_id": "WEB16-METRIC-02",
+      "render_component_id": "C09",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB16-METRIC-02",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-03",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-03",
+      "data_object_id": "WEB16-METRIC-03",
+      "render_component_id": "C09",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB16-METRIC-03",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-04",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-04",
+      "data_object_id": "WEB16-METRIC-04",
+      "render_component_id": "C09",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB16-METRIC-04",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-05",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-05",
+      "data_object_id": "WEB16-METRIC-05",
+      "render_component_id": "C09",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB16-METRIC-05",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-06",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-06",
+      "data_object_id": "WEB16-METRIC-06",
+      "render_component_id": "C09",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB16-METRIC-06",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-07",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-07",
+      "data_object_id": "WEB16-METRIC-07",
+      "render_component_id": "C09",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB16-METRIC-07",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-08",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-08",
+      "data_object_id": "WEB16-METRIC-08",
+      "render_component_id": "C09",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB16-METRIC-08",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-09",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-09",
+      "data_object_id": "WEB16-METRIC-09",
+      "render_component_id": "C09",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB16-METRIC-09",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-10",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-10",
+      "data_object_id": "WEB16-METRIC-10",
+      "render_component_id": "C09",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB16-METRIC-10",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-11",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-11",
+      "data_object_id": "WEB16-METRIC-11",
+      "render_component_id": "C09",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB16-METRIC-11",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-12",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-12",
+      "data_object_id": "WEB16-METRIC-12",
+      "render_component_id": "C09",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB16-METRIC-12",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-13",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-13",
+      "data_object_id": "WEB16-METRIC-13",
+      "render_component_id": "C09",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB16-METRIC-13",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-14",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-14",
+      "data_object_id": "WEB16-METRIC-14",
+      "render_component_id": "C09",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB16-METRIC-14",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-15",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-15",
+      "data_object_id": "WEB16-METRIC-15",
+      "render_component_id": "C09",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB16-METRIC-15",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-16",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-16",
+      "data_object_id": "WEB16-METRIC-16",
+      "render_component_id": "C09",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB16-METRIC-16",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-17",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-17",
+      "data_object_id": "WEB16-METRIC-17",
+      "render_component_id": "C09",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB16-METRIC-17",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-18",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-18",
+      "data_object_id": "WEB16-METRIC-18",
+      "render_component_id": "C09",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB16-METRIC-18",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-19",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-19",
+      "data_object_id": "WEB16-METRIC-19",
+      "render_component_id": "C09",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB16-METRIC-19",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-20",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-20",
+      "data_object_id": "WEB16-METRIC-20",
+      "render_component_id": "C09",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB16-METRIC-20",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-21",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-21",
+      "data_object_id": "WEB16-METRIC-21",
+      "render_component_id": "C09",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB16-METRIC-21",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-22",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-22",
+      "data_object_id": "WEB16-METRIC-22",
+      "render_component_id": "C09",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB16-METRIC-22",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-23",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-23",
+      "data_object_id": "WEB16-METRIC-23",
+      "render_component_id": "C09",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB16-METRIC-23",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-24",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-24",
+      "data_object_id": "WEB16-METRIC-24",
+      "render_component_id": "C09",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB16-METRIC-24",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::PRIMARY::WEB16-METRIC-25",
+      "binding_type": "PRIMARY_CONTENT_RENDER",
+      "section_id": "WEB-16",
+      "content_object_id": "WEB16-METRIC-25",
+      "data_object_id": "WEB16-METRIC-25",
+      "render_component_id": "C09",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#content-WEB16-METRIC-25",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-01::WEB-02",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-02",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-01",
+      "render_component_id": "C09",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-01-WEB-02",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-01::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-01",
+      "render_component_id": "C40",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-01-WEB-18",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-02::WEB-02",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-02",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-02",
+      "render_component_id": "C09",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-02-WEB-02",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-02::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-02",
+      "render_component_id": "C40",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-02-WEB-18",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-03::WEB-02",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-02",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-03",
+      "render_component_id": "C09",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-03-WEB-02",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-03::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-03",
+      "render_component_id": "C40",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-03-WEB-18",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-04::WEB-03",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-03",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-04",
+      "render_component_id": "C04",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-04-WEB-03",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-04::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-04",
+      "render_component_id": "C40",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-04-WEB-18",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-05::WEB-04",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-04",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-05",
+      "render_component_id": "C14",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-05-WEB-04",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-05::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-05",
+      "render_component_id": "C40",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-05-WEB-18",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-06::WEB-06",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-06",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-06",
+      "render_component_id": "C09",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-06-WEB-06",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-06::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-06",
+      "render_component_id": "C40",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-06-WEB-18",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-07::WEB-06",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-06",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-07",
+      "render_component_id": "C09",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-07-WEB-06",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-07::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-07",
+      "render_component_id": "C40",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-07-WEB-18",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-08::WEB-06",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-06",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-08",
+      "render_component_id": "C09",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-08-WEB-06",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-08::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-08",
+      "render_component_id": "C40",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-08-WEB-18",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-09::WEB-08",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-08",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-09",
+      "render_component_id": "C09",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-09-WEB-08",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-09::WEB-09",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-09",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-09",
+      "render_component_id": "C28",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-09-WEB-09",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-09::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-09",
+      "render_component_id": "C40",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-09-WEB-18",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-10::WEB-08",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-08",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-10",
+      "render_component_id": "C09",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-10-WEB-08",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-10::WEB-09",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-09",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-10",
+      "render_component_id": "C28",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-10-WEB-09",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-10::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-10",
+      "render_component_id": "C40",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-10-WEB-18",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-11::WEB-08",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-08",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-11",
+      "render_component_id": "C09",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-11-WEB-08",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-11::WEB-09",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-09",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-11",
+      "render_component_id": "C28",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-11-WEB-09",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-11::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-11",
+      "render_component_id": "C40",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-11-WEB-18",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-12::WEB-08",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-08",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-12",
+      "render_component_id": "C09",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-12-WEB-08",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-12::WEB-12",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-12",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-12",
+      "render_component_id": "C09",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-12-WEB-12",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-12::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-12",
+      "render_component_id": "C40",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-12-WEB-18",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-13::WEB-08",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-08",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-13",
+      "render_component_id": "C09",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-13-WEB-08",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-13::WEB-13",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-13",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-13",
+      "render_component_id": "C32",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-13-WEB-13",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-13::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-13",
+      "render_component_id": "C40",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-13-WEB-18",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-14::WEB-08",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-08",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-14",
+      "render_component_id": "C09",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-14-WEB-08",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-14::WEB-13",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-13",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-14",
+      "render_component_id": "C32",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-14-WEB-13",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-14::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-14",
+      "render_component_id": "C40",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-14-WEB-18",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-15::WEB-08",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-08",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-15",
+      "render_component_id": "C09",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-15-WEB-08",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-15::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-15",
+      "render_component_id": "C40",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-15-WEB-18",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-16::WEB-08",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-08",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-16",
+      "render_component_id": "C09",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-16-WEB-08",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-16::WEB-15",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-15",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-16",
+      "render_component_id": "C13",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-16-WEB-15",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-16::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-16",
+      "render_component_id": "C40",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-16-WEB-18",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-17::WEB-08",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-08",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-17",
+      "render_component_id": "C09",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-17-WEB-08",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-17::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-17",
+      "render_component_id": "C40",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-17-WEB-18",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-18::WEB-08",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-08",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-18",
+      "render_component_id": "C09",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-18-WEB-08",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-18::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-18",
+      "render_component_id": "C40",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-18-WEB-18",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-19::WEB-15",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-15",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-19",
+      "render_component_id": "C13",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-19-WEB-15",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-19::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-19",
+      "render_component_id": "C40",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-19-WEB-18",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-20::WEB-15",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-15",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-20",
+      "render_component_id": "C13",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-20-WEB-15",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-20::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-20",
+      "render_component_id": "C40",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-20-WEB-18",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-21::WEB-15",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-15",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-21",
+      "render_component_id": "C13",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-21-WEB-15",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-21::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-21",
+      "render_component_id": "C40",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-21-WEB-18",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-22::WEB-15",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-15",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-22",
+      "render_component_id": "C13",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-22-WEB-15",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-22::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-22",
+      "render_component_id": "C40",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-22-WEB-18",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-23::WEB-15",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-15",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-23",
+      "render_component_id": "C13",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-23-WEB-15",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-23::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-23",
+      "render_component_id": "C40",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-23-WEB-18",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-24::WEB-17",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-17",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-24",
+      "render_component_id": "C04",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-24-WEB-17",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-24::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-24",
+      "render_component_id": "C40",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-24-WEB-18",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-25::WEB-17",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-17",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-25",
+      "render_component_id": "C04",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-25-WEB-17",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::REUSE::WEB16-METRIC-25::WEB-18",
+      "binding_type": "DATA_DONOR_REUSE",
+      "section_id": "WEB-18",
+      "content_object_id": null,
+      "data_object_id": "WEB16-METRIC-25",
+      "render_component_id": "C40",
+      "implementation_status": "DATA_DONOR_RESOLVED",
+      "dom_selector_or_target": "#donor-RB-REUSE-WEB16-METRIC-25-WEB-18",
+      "data_donor_status": "RESOLVED",
+      "asset_ids": [],
+      "notes": "Resolved as non-visible donor with explicit DOM trace marker."
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2B-SL-01",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-05",
+      "content_object_id": null,
+      "data_object_id": "B2B-SL-01",
+      "render_component_id": "C19",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#shortlist-B2B-SL-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2B-SL-02",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-05",
+      "content_object_id": null,
+      "data_object_id": "B2B-SL-02",
+      "render_component_id": "C19",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#shortlist-B2B-SL-02",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2B-SL-03",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-05",
+      "content_object_id": null,
+      "data_object_id": "B2B-SL-03",
+      "render_component_id": "C19",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#shortlist-B2B-SL-03",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2B-SL-04",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-05",
+      "content_object_id": null,
+      "data_object_id": "B2B-SL-04",
+      "render_component_id": "C19",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#shortlist-B2B-SL-04",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2B-SL-05",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-05",
+      "content_object_id": null,
+      "data_object_id": "B2B-SL-05",
+      "render_component_id": "C19",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#shortlist-B2B-SL-05",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2B-SL-06",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-05",
+      "content_object_id": null,
+      "data_object_id": "B2B-SL-06",
+      "render_component_id": "C19",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#shortlist-B2B-SL-06",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2B-SL-07",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-05",
+      "content_object_id": null,
+      "data_object_id": "B2B-SL-07",
+      "render_component_id": "C19",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#shortlist-B2B-SL-07",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2B-SL-08",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-05",
+      "content_object_id": null,
+      "data_object_id": "B2B-SL-08",
+      "render_component_id": "C19",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#shortlist-B2B-SL-08",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2B-SL-09",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-05",
+      "content_object_id": null,
+      "data_object_id": "B2B-SL-09",
+      "render_component_id": "C19",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#shortlist-B2B-SL-09",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2B-SL-10",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-05",
+      "content_object_id": null,
+      "data_object_id": "B2B-SL-10",
+      "render_component_id": "C19",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#shortlist-B2B-SL-10",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2B-SL-11",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-05",
+      "content_object_id": null,
+      "data_object_id": "B2B-SL-11",
+      "render_component_id": "C19",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#shortlist-B2B-SL-11",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2B-SL-12",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-05",
+      "content_object_id": null,
+      "data_object_id": "B2B-SL-12",
+      "render_component_id": "C19",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#shortlist-B2B-SL-12",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2C-SL-01",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-07",
+      "content_object_id": null,
+      "data_object_id": "B2C-SL-01",
+      "render_component_id": "C19",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#shortlist-B2C-SL-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2C-SL-02",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-07",
+      "content_object_id": null,
+      "data_object_id": "B2C-SL-02",
+      "render_component_id": "C19",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#shortlist-B2C-SL-02",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2C-SL-03",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-07",
+      "content_object_id": null,
+      "data_object_id": "B2C-SL-03",
+      "render_component_id": "C19",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#shortlist-B2C-SL-03",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2C-SL-04",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-07",
+      "content_object_id": null,
+      "data_object_id": "B2C-SL-04",
+      "render_component_id": "C19",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#shortlist-B2C-SL-04",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2C-SL-05",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-07",
+      "content_object_id": null,
+      "data_object_id": "B2C-SL-05",
+      "render_component_id": "C19",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#shortlist-B2C-SL-05",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2C-SL-06",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-07",
+      "content_object_id": null,
+      "data_object_id": "B2C-SL-06",
+      "render_component_id": "C19",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#shortlist-B2C-SL-06",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2C-SL-07",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-07",
+      "content_object_id": null,
+      "data_object_id": "B2C-SL-07",
+      "render_component_id": "C19",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#shortlist-B2C-SL-07",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2C-SL-08",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-07",
+      "content_object_id": null,
+      "data_object_id": "B2C-SL-08",
+      "render_component_id": "C19",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#shortlist-B2C-SL-08",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2C-SL-09",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-07",
+      "content_object_id": null,
+      "data_object_id": "B2C-SL-09",
+      "render_component_id": "C19",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#shortlist-B2C-SL-09",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2C-SL-10",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-07",
+      "content_object_id": null,
+      "data_object_id": "B2C-SL-10",
+      "render_component_id": "C19",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#shortlist-B2C-SL-10",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::SHORTLIST::B2C-SL-11",
+      "binding_type": "SHORTLIST_ROW",
+      "section_id": "WEB-07",
+      "content_object_id": null,
+      "data_object_id": "B2C-SL-11",
+      "render_component_id": "C19",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#shortlist-B2C-SL-11",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::FINALIST::FIN-B2B-01",
+      "binding_type": "FINALIST_PROFILE",
+      "section_id": "WEB-06",
+      "content_object_id": null,
+      "data_object_id": "FIN-B2B-01",
+      "render_component_id": "C20",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#finalist-FIN-B2B-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::FINALIST::FIN-B2B-02",
+      "binding_type": "FINALIST_PROFILE",
+      "section_id": "WEB-06",
+      "content_object_id": null,
+      "data_object_id": "FIN-B2B-02",
+      "render_component_id": "C20",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#finalist-FIN-B2B-02",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::FINALIST::FIN-B2B-03",
+      "binding_type": "FINALIST_PROFILE",
+      "section_id": "WEB-06",
+      "content_object_id": null,
+      "data_object_id": "FIN-B2B-03",
+      "render_component_id": "C20",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#finalist-FIN-B2B-03",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::FINALIST::FIN-B2B-04",
+      "binding_type": "FINALIST_PROFILE",
+      "section_id": "WEB-06",
+      "content_object_id": null,
+      "data_object_id": "FIN-B2B-04",
+      "render_component_id": "C20",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#finalist-FIN-B2B-04",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::FINALIST::FIN-B2B-05",
+      "binding_type": "FINALIST_PROFILE",
+      "section_id": "WEB-06",
+      "content_object_id": null,
+      "data_object_id": "FIN-B2B-05",
+      "render_component_id": "C20",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#finalist-FIN-B2B-05",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::FINALIST::FIN-B2C-01",
+      "binding_type": "FINALIST_PROFILE",
+      "section_id": "WEB-08",
+      "content_object_id": null,
+      "data_object_id": "FIN-B2C-01",
+      "render_component_id": "C20",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#finalist-FIN-B2C-01",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::FINALIST::FIN-B2C-02",
+      "binding_type": "FINALIST_PROFILE",
+      "section_id": "WEB-08",
+      "content_object_id": null,
+      "data_object_id": "FIN-B2C-02",
+      "render_component_id": "C20",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#finalist-FIN-B2C-02",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::FINALIST::FIN-B2C-03",
+      "binding_type": "FINALIST_PROFILE",
+      "section_id": "WEB-08",
+      "content_object_id": null,
+      "data_object_id": "FIN-B2C-03",
+      "render_component_id": "C20",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#finalist-FIN-B2C-03",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::FINALIST::FIN-B2C-04",
+      "binding_type": "FINALIST_PROFILE",
+      "section_id": "WEB-08",
+      "content_object_id": null,
+      "data_object_id": "FIN-B2C-04",
+      "render_component_id": "C20",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#finalist-FIN-B2C-04",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::FINALIST::FIN-B2C-05",
+      "binding_type": "FINALIST_PROFILE",
+      "section_id": "WEB-08",
+      "content_object_id": null,
+      "data_object_id": "FIN-B2C-05",
+      "render_component_id": "C20",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#finalist-FIN-B2C-05",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::DEEP::DD-B2B-HEALTHCARE",
+      "binding_type": "DEEP_DIVE_PROFILE",
+      "section_id": "WEB-06",
+      "content_object_id": null,
+      "data_object_id": "DD-B2B-HEALTHCARE",
+      "render_component_id": "C21",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#deep-DD-B2B-HEALTHCARE",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::DEEP::DD-B2B-VC",
+      "binding_type": "DEEP_DIVE_PROFILE",
+      "section_id": "WEB-06",
+      "content_object_id": null,
+      "data_object_id": "DD-B2B-VC",
+      "render_component_id": "C21",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#deep-DD-B2B-VC",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::DEEP::DD-B2B-WAREHOUSE",
+      "binding_type": "DEEP_DIVE_PROFILE",
+      "section_id": "WEB-06",
+      "content_object_id": null,
+      "data_object_id": "DD-B2B-WAREHOUSE",
+      "render_component_id": "C21",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#deep-DD-B2B-WAREHOUSE",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::DEEP::DD-B2C-SPORTS",
+      "binding_type": "DEEP_DIVE_PROFILE",
+      "section_id": "WEB-08",
+      "content_object_id": null,
+      "data_object_id": "DD-B2C-SPORTS",
+      "render_component_id": "C21",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#deep-DD-B2C-SPORTS",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::DEEP::DD-B2C-MUSIC",
+      "binding_type": "DEEP_DIVE_PROFILE",
+      "section_id": "WEB-08",
+      "content_object_id": null,
+      "data_object_id": "DD-B2C-MUSIC",
+      "render_component_id": "C21",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#deep-DD-B2C-MUSIC",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    },
+    {
+      "binding_id": "RB::DEEP::DD-B2C-PUZZLE",
+      "binding_type": "DEEP_DIVE_PROFILE",
+      "section_id": "WEB-08",
+      "content_object_id": null,
+      "data_object_id": "DD-B2C-PUZZLE",
+      "render_component_id": "C21",
+      "implementation_status": "IMPLEMENTED",
+      "dom_selector_or_target": "#deep-DD-B2C-PUZZLE",
+      "data_donor_status": "N/A",
+      "asset_ids": [],
+      "notes": "Pre-rendered in HTML; JavaScript enhances interaction only."
+    }
+  ],
+  "production_assets": [
+    {
+      "asset_id": "AST-SVG-01-VI-V02",
+      "drive_id": "1Hy78C0DV05OUvWf_HVp2ImDXLtXab5n0",
+      "drive_url": "https://drive.google.com/file/d/1Hy78C0DV05OUvWf_HVp2ImDXLtXab5n0/view?usp=drivesdk",
+      "asset_type": "SEMANTIC_SVG",
+      "filename": "P24-12_WEB_SVG-01_Universe_Structure_vi_v02.svg",
+      "local_path": "assets/svg/P24-12_WEB_SVG-01_Universe_Structure_vi_v02.svg",
+      "section_ids": [
+        "WEB-02"
+      ],
+      "slot_id": null,
+      "caption_vi": "Đồ họa ngữ nghĩa phục vụ diễn giải; không phải bằng chứng độc lập.",
+      "alt_text_vi": "Cấu trúc 112 bản ghi cơ hội gồm 96 mục có thể xếp hạng và 16 nhóm bao quát hoặc không xếp hạng riêng; chỉ mô tả cấu trúc nghiên cứu, không phải quy mô thị trường.",
+      "illustration_label_required": false,
+      "sha256": "97a0b315e2111c81c36138977a2224fcf929eff3a1bc603a4f4fd58c7ffa842e",
+      "bytes": 3818,
+      "runtime_hotlink": false
+    },
+    {
+      "asset_id": "AST-SVG-02-VI-V03",
+      "drive_id": "18qYx8H5PQd_Xd-Med0_5WmEJ28Sor5hx",
+      "drive_url": "https://drive.google.com/file/d/18qYx8H5PQd_Xd-Med0_5WmEJ28Sor5hx/view?usp=drivesdk",
+      "asset_type": "SEMANTIC_SVG",
+      "filename": "P24-12_WEB_SVG-02_Dual_Research_Funnel_vi_v03.svg",
+      "local_path": "assets/svg/P24-12_WEB_SVG-02_Dual_Research_Funnel_vi_v03.svg",
+      "section_ids": [
+        "WEB-04"
+      ],
+      "slot_id": null,
+      "caption_vi": "Đồ họa ngữ nghĩa phục vụ diễn giải; không phải bằng chứng độc lập.",
+      "alt_text_vi": "Hai luồng sàng lọc nghiên cứu: B2B/B2G 65 xuống 12, 5 và 3; B2C 32 xuống 11, 5 và 3. Đây không phải tỷ lệ chuyển đổi thị trường.",
+      "illustration_label_required": false,
+      "sha256": "b3e4552690edb007879970cacacd38ed7f673fe173a5e421496f41611df34266",
+      "bytes": 7384,
+      "runtime_hotlink": false
+    },
+    {
+      "asset_id": "AST-SVG-03-VI-V02",
+      "drive_id": "10UrrIfSyeQbKvHo5kqe4sxOaaLpd_SBQ",
+      "drive_url": "https://drive.google.com/file/d/10UrrIfSyeQbKvHo5kqe4sxOaaLpd_SBQ/view?usp=drivesdk",
+      "asset_type": "SEMANTIC_SVG",
+      "filename": "P24-12_WEB_SVG-03_B2B_vs_B2C_Money_Logic_vi_v02.svg",
+      "local_path": "assets/svg/P24-12_WEB_SVG-03_B2B_vs_B2C_Money_Logic_vi_v02.svg",
+      "section_ids": [
+        "WEB-03"
+      ],
+      "slot_id": null,
+      "caption_vi": "Đồ họa ngữ nghĩa phục vụ diễn giải; không phải bằng chứng độc lập.",
+      "alt_text_vi": "So sánh hai logic chi tiền: B2B/B2G tách người dùng, người mua kinh tế và mua sắm hợp đồng; B2C tập trung vào hành động, chơi lại, giá và phân phối.",
+      "illustration_label_required": false,
+      "sha256": "13aa0c8f4954a4c21daae60ce18b101b7afb3b5797787a3e2aa575983493fae3",
+      "bytes": 4173,
+      "runtime_hotlink": false
+    },
+    {
+      "asset_id": "AST-SVG-04-VI-V02",
+      "drive_id": "1oHaaONvTLpKfoZb2SWKAvoXS0ewC0hQM",
+      "drive_url": "https://drive.google.com/file/d/1oHaaONvTLpKfoZb2SWKAvoXS0ewC0hQM/view?usp=drivesdk",
+      "asset_type": "SEMANTIC_SVG",
+      "filename": "P24-12_WEB_SVG-04_Healthcare_Workflow_vi_v02.svg",
+      "local_path": "assets/svg/P24-12_WEB_SVG-04_Healthcare_Workflow_vi_v02.svg",
+      "section_ids": [
+        "WEB-06"
+      ],
+      "slot_id": null,
+      "caption_vi": "Đồ họa ngữ nghĩa phục vụ diễn giải; không phải bằng chứng độc lập.",
+      "alt_text_vi": "Quy trình minh họa Healthcare từ kỹ năng có cấu trúc, thực hành, ghi nhận, đánh giá đến lặp lại; bên mua là tổ chức đào tạo hoặc mô phỏng. Không phải sản phẩm SAVA đã triển khai.",
+      "illustration_label_required": false,
+      "sha256": "a4731485d83710743cb2358949682db04072d36870372bf4ad4771a771c5e52b",
+      "bytes": 5642,
+      "runtime_hotlink": false
+    },
+    {
+      "asset_id": "AST-SVG-05-VI-V02",
+      "drive_id": "1ko7LmVhM7vNeFcSyFUdwgGIRsRq7VJrq",
+      "drive_url": "https://drive.google.com/file/d/1ko7LmVhM7vNeFcSyFUdwgGIRsRq7VJrq/view?usp=drivesdk",
+      "asset_type": "SEMANTIC_SVG",
+      "filename": "P24-12_WEB_SVG-05_Virtual_Commissioning_Control_Loop_vi_v02.svg",
+      "local_path": "assets/svg/P24-12_WEB_SVG-05_Virtual_Commissioning_Control_Loop_vi_v02.svg",
+      "section_ids": [
+        "WEB-06"
+      ],
+      "slot_id": null,
+      "caption_vi": "Đồ họa ngữ nghĩa phục vụ diễn giải; không phải bằng chứng độc lập.",
+      "alt_text_vi": "Vòng Virtual Commissioning từ mô hình máy hoặc dây chuyền, kết nối logic, kiểm thử, phát hiện lỗi đến lặp vòng hiệu chỉnh; chưa giả định SAVA có năng lực PLC/OT.",
+      "illustration_label_required": false,
+      "sha256": "72b8fa2ee249c0264358cc9cd0d54c6a4a2165445cfe839d8149cad4e2019799",
+      "bytes": 4680,
+      "runtime_hotlink": false
+    },
+    {
+      "asset_id": "AST-SVG-06-VI-V02",
+      "drive_id": "1l4QZGXmMF8NQSk2-X-f7olJylSBB8Kdw",
+      "drive_url": "https://drive.google.com/file/d/1l4QZGXmMF8NQSk2-X-f7olJylSBB8Kdw/view?usp=drivesdk",
+      "asset_type": "SEMANTIC_SVG",
+      "filename": "P24-12_WEB_SVG-06_Warehouse_Scenario_Flow_vi_v02.svg",
+      "local_path": "assets/svg/P24-12_WEB_SVG-06_Warehouse_Scenario_Flow_vi_v02.svg",
+      "section_ids": [
+        "WEB-06"
+      ],
+      "slot_id": null,
+      "caption_vi": "Đồ họa ngữ nghĩa phục vụ diễn giải; không phải bằng chứng độc lập.",
+      "alt_text_vi": "Luồng hỗ trợ quyết định Warehouse từ bài toán vật lý và dữ liệu đại diện qua mô hình bố trí, chạy kịch bản, so sánh điểm nghẽn đến ra quyết định; không tuyên bố có live twin.",
+      "illustration_label_required": false,
+      "sha256": "42583dbd2d1f670c69c129520bd6ac685a7f83e917833eb77bca6c233d6fb541",
+      "bytes": 5356,
+      "runtime_hotlink": false
+    },
+    {
+      "asset_id": "AST-SVG-07-VI-V02",
+      "drive_id": "1LWeqObaoqyFRi7qL-Ft7dfl5Xubc67Mk",
+      "drive_url": "https://drive.google.com/file/d/1LWeqObaoqyFRi7qL-Ft7dfl5Xubc67Mk/view?usp=drivesdk",
+      "asset_type": "SEMANTIC_SVG",
+      "filename": "P24-12_WEB_SVG-07_Sports_Mastery_Loop_vi_v02.svg",
+      "local_path": "assets/svg/P24-12_WEB_SVG-07_Sports_Mastery_Loop_vi_v02.svg",
+      "section_ids": [
+        "WEB-08"
+      ],
+      "slot_id": null,
+      "caption_vi": "Đồ họa ngữ nghĩa phục vụ diễn giải; không phải bằng chứng độc lập.",
+      "alt_text_vi": "Vòng thành thạo Sports từ hành động cơ thể, phản hồi tức thời, điều chỉnh kỹ thuật, cải thiện kỹ năng hoặc điểm đến chơi lại; chưa chọn môn thể thao cụ thể.",
+      "illustration_label_required": false,
+      "sha256": "cb318073be30380ff689768caeda0a0405712567108dca6781d74563616ba58e",
+      "bytes": 4605,
+      "runtime_hotlink": false
+    },
+    {
+      "asset_id": "AST-SVG-08-VI-V02",
+      "drive_id": "1tnDD0YsOQTDxX8ynFb8CgxfEOaXdhyqp",
+      "drive_url": "https://drive.google.com/file/d/1tnDD0YsOQTDxX8ynFb8CgxfEOaXdhyqp/view?usp=drivesdk",
+      "asset_type": "SEMANTIC_SVG",
+      "filename": "P24-12_WEB_SVG-08_Music_Embodied_Action_Replay_Loop_vi_v02.svg",
+      "local_path": "assets/svg/P24-12_WEB_SVG-08_Music_Embodied_Action_Replay_Loop_vi_v02.svg",
+      "section_ids": [
+        "WEB-08"
+      ],
+      "slot_id": null,
+      "caption_vi": "Đồ họa ngữ nghĩa phục vụ diễn giải; không phải bằng chứng độc lập.",
+      "alt_text_vi": "Vòng Music từ đọc nhịp hoặc tín hiệu không gian, hành động cơ thể, nhận phản hồi điểm hoặc độ chính xác đến chơi lại để thành thạo; nội dung và bản quyền vẫn cần kiểm chứng.",
+      "illustration_label_required": false,
+      "sha256": "c50197b4e97bbf8c5dc8d2cbbb43478169afd2f94fa62543d7d83454e1361383",
+      "bytes": 4813,
+      "runtime_hotlink": false
+    },
+    {
+      "asset_id": "AST-SVG-09-VI-V02",
+      "drive_id": "1q_EjbneS-4m2S8AjB_vPLcmSdSNGwteH",
+      "drive_url": "https://drive.google.com/file/d/1q_EjbneS-4m2S8AjB_vPLcmSdSNGwteH/view?usp=drivesdk",
+      "asset_type": "SEMANTIC_SVG",
+      "filename": "P24-12_WEB_SVG-09_Puzzle_Systemic_Optimization_Loop_vi_v02.svg",
+      "local_path": "assets/svg/P24-12_WEB_SVG-09_Puzzle_Systemic_Optimization_Loop_vi_v02.svg",
+      "section_ids": [
+        "WEB-08"
+      ],
+      "slot_id": null,
+      "caption_vi": "Đồ họa ngữ nghĩa phục vụ diễn giải; không phải bằng chứng độc lập.",
+      "alt_text_vi": "Vòng Puzzle hệ thống từ thao tác hoặc định tuyến, quan sát kết quả, thay đổi ràng buộc, thử cách tiếp cận khác đến tối ưu hoặc chơi lại; WHY-VR vẫn cần kiểm chứng.",
+      "illustration_label_required": false,
+      "sha256": "830339a220bc49d4903901e4a5c1e2e35fe0efeb6e161fa686b5a622c34f7ec5",
+      "bytes": 4587,
+      "runtime_hotlink": false
+    },
+    {
+      "asset_id": "AST-SVG-10-VI-V02",
+      "drive_id": "1vSw1PH1oXOGf_HHYo1Q3IoRb_ZjrgkID",
+      "drive_url": "https://drive.google.com/file/d/1vSw1PH1oXOGf_HHYo1Q3IoRb_ZjrgkID/view?usp=drivesdk",
+      "asset_type": "SEMANTIC_SVG",
+      "filename": "P24-12_WEB_SVG-10_Market_Rank_vs_SAVA_Action_Crosswalk_vi_v02.svg",
+      "local_path": "assets/svg/P24-12_WEB_SVG-10_Market_Rank_vs_SAVA_Action_Crosswalk_vi_v02.svg",
+      "section_ids": [
+        "WEB-09"
+      ],
+      "slot_id": null,
+      "caption_vi": "Đồ họa ngữ nghĩa phục vụ diễn giải; không phải bằng chứng độc lập.",
+      "alt_text_vi": "Đối chiếu ba vị trí đầu của B2B/B2G và B2C giữa xếp hạng thị trường bên ngoài với hành động SAVA; các đường nối không biểu thị độ lớn hay xác suất.",
+      "illustration_label_required": false,
+      "sha256": "927c29ba24116ee549cffb1fe0133d4e50a9415ecbb527c35624470c7211fa96",
+      "bytes": 8484,
+      "runtime_hotlink": false
+    },
+    {
+      "asset_id": "AST-SVG-11-VI-V02",
+      "drive_id": "1fKsjLzVf-t0fcvtUdU8wewemiOmN7T2E",
+      "drive_url": "https://drive.google.com/file/d/1fKsjLzVf-t0fcvtUdU8wewemiOmN7T2E/view?usp=drivesdk",
+      "asset_type": "SEMANTIC_SVG",
+      "filename": "P24-12_WEB_SVG-11_Healthcare_Validation_Path_vi_v02.svg",
+      "local_path": "assets/svg/P24-12_WEB_SVG-11_Healthcare_Validation_Path_vi_v02.svg",
+      "section_ids": [
+        "WEB-11"
+      ],
+      "slot_id": null,
+      "caption_vi": "Đồ họa ngữ nghĩa phục vụ diễn giải; không phải bằng chứng độc lập.",
+      "alt_text_vi": "Lộ trình sáu cổng Healthcare: đối tác chuyên môn hoặc lâm sàng, bên mua, cam kết thương mại, mua sắm và CNTT/bảo mật/LMS, lõi tái sử dụng, và kinh tế sau bằng chứng trả phí.",
+      "illustration_label_required": false,
+      "sha256": "7e124bbc03d5b39e86729e83039cc421bbe6baa78e85df052b8eced5e55b3704",
+      "bytes": 5974,
+      "runtime_hotlink": false
+    },
+    {
+      "asset_id": "AST-SVG-12-VI-V02",
+      "drive_id": "1MX9Tff-5G-E8m7yPby99pMlz8-BTCRk3",
+      "drive_url": "https://drive.google.com/file/d/1MX9Tff-5G-E8m7yPby99pMlz8-BTCRk3/view?usp=drivesdk",
+      "asset_type": "SEMANTIC_SVG",
+      "filename": "P24-12_WEB_SVG-12_Music_Prototype_Validation_Path_vi_v02.svg",
+      "local_path": "assets/svg/P24-12_WEB_SVG-12_Music_Prototype_Validation_Path_vi_v02.svg",
+      "section_ids": [
+        "WEB-12"
+      ],
+      "slot_id": null,
+      "caption_vi": "Đồ họa ngữ nghĩa phục vụ diễn giải; không phải bằng chứng độc lập.",
+      "alt_text_vi": "Tám kiểm tra prototype Music: hiểu cách chơi, hành động vui và ổn định, giá trị VR, chơi lại, gánh nặng nội dung, tín hiệu sẵn sàng chi trả, phân phối và kinh tế bản quyền.",
+      "illustration_label_required": false,
+      "sha256": "5bb0367f3179b10612d1bd949b2829cc4e67283795fd93eb86888e88f3dd8fe7",
+      "bytes": 5863,
+      "runtime_hotlink": false
+    },
+    {
+      "asset_id": "AST-SVG-13-VI-V02",
+      "drive_id": "1_euLV08BSsQkrOh4Nh4RuF9eiNHIR6kB",
+      "drive_url": "https://drive.google.com/file/d/1_euLV08BSsQkrOh4Nh4RuF9eiNHIR6kB/view?usp=drivesdk",
+      "asset_type": "SEMANTIC_SVG",
+      "filename": "P24-12_WEB_SVG-13_Portfolio_Role_Map_vi_v02.svg",
+      "local_path": "assets/svg/P24-12_WEB_SVG-13_Portfolio_Role_Map_vi_v02.svg",
+      "section_ids": [
+        "WEB-13"
+      ],
+      "slot_id": null,
+      "caption_vi": "Đồ họa ngữ nghĩa phục vụ diễn giải; không phải bằng chứng độc lập.",
+      "alt_text_vi": "Bản đồ danh mục theo bốn nhóm: kiểm chứng trước; có điều kiện hoặc đối chứng; giữ lựa chọn hoặc theo dõi; và tạm dừng hoặc tách riêng. Vị trí không biểu thị mức đầu tư hay xác suất.",
+      "illustration_label_required": false,
+      "sha256": "5fb7a9fdd28ee2c429d5b6abd126818d67cdc8e377cb5fdbe6d082598aca9942",
+      "bytes": 4970,
+      "runtime_hotlink": false
+    },
+    {
+      "asset_id": "AST-SVG-14-VI-V03",
+      "drive_id": "1V0JXhSq2IvUNf3Ad2KtUfJ3cFc1bwuhr",
+      "drive_url": "https://drive.google.com/file/d/1V0JXhSq2IvUNf3Ad2KtUfJ3cFc1bwuhr/view?usp=drivesdk",
+      "asset_type": "SEMANTIC_SVG",
+      "filename": "P24-12_WEB_SVG-14_Music_vs_Music_World_vi_v03.svg",
+      "local_path": "assets/svg/P24-12_WEB_SVG-14_Music_vs_Music_World_vi_v03.svg",
+      "section_ids": [
+        "WEB-14"
+      ],
+      "slot_id": null,
+      "caption_vi": "Đồ họa ngữ nghĩa phục vụ diễn giải; không phải bằng chứng độc lập.",
+      "alt_text_vi": "Luận điểm Music rhythm/action mới tách biệt Music World hiện tại. Music World tạm dừng; tái sử dụng chỉ có điều kiện sau kiểm toán kỹ thuật, sở hữu trí tuệ, giấy phép và nghĩa vụ.",
+      "illustration_label_required": false,
+      "sha256": "89bb0de0acbed7235416e64f39a0b29c19a50652282e4bf3d2030e17793ab23e",
+      "bytes": 4344,
+      "runtime_hotlink": false
+    },
+    {
+      "asset_id": "AST-WEB11-HC-EXT-01",
+      "drive_id": "1ehH_JypDFooXXeWQH62hA6zamA6gseSz",
+      "drive_url": "https://drive.google.com/file/d/1ehH_JypDFooXXeWQH62hA6zamA6gseSz/view?usp=drivesdk",
+      "asset_type": "CONTEXTUAL_ILLUSTRATION",
+      "filename": "P24-12_WEB_EXT_WEB11_Healthcare_Illustration_01_web.webp",
+      "local_path": "assets/images/P24-12_WEB_EXT_WEB11_Healthcare_Illustration_01_web.webp",
+      "section_ids": [
+        "WEB-11"
+      ],
+      "slot_id": "EXT-WEB11-HEALTHCARE",
+      "caption_vi": "Hình minh họa môi trường đào tạo kỹ năng y khoa bằng công nghệ nhập vai.",
+      "alt_text_vi": "Minh họa nhân viên y tế đeo kính thực tế ảo trong môi trường đào tạo mô phỏng; chỉ mang tính minh họa, không phải sản phẩm hay triển khai thực tế của SAVA.",
+      "illustration_label_required": true,
+      "sha256": "d70008f2dbcfb8eafd298c48d7f9ddeab0944d24ad7b682dfed80fed83b05c78",
+      "bytes": 46876,
+      "runtime_hotlink": false
+    },
+    {
+      "asset_id": "AST-WEB06-VC-EXT-01",
+      "drive_id": "1H13ebD2ieA3w6arvv1pMHJGdBNl4yF3x",
+      "drive_url": "https://drive.google.com/file/d/1H13ebD2ieA3w6arvv1pMHJGdBNl4yF3x/view?usp=drivesdk",
+      "asset_type": "CONTEXTUAL_ILLUSTRATION",
+      "filename": "P24-12_WEB_EXT_WEB06_Virtual_Commissioning_Illustration_01_web.webp",
+      "local_path": "assets/images/P24-12_WEB_EXT_WEB06_Virtual_Commissioning_Illustration_01_web.webp",
+      "section_ids": [
+        "WEB-06"
+      ],
+      "slot_id": "EXT-WEB06-VIRTUAL-COMMISSIONING",
+      "caption_vi": "Hình minh họa bối cảnh tự động hóa công nghiệp và điều khiển hệ thống trong môi trường nhà máy mô phỏng.",
+      "alt_text_vi": "Minh họa robot công nghiệp và thiết bị điều khiển trong nhà máy; chỉ mang tính minh họa, không ngụ ý SAVA có triển khai PLC/OT.",
+      "illustration_label_required": true,
+      "sha256": "eb08cd615273e627ec0a2cc578ac9bfc8e047af93a0dd3f63401689c32db3cbf",
+      "bytes": 221310,
+      "runtime_hotlink": false
+    },
+    {
+      "asset_id": "AST-WEB06-WH-EXT-01",
+      "drive_id": "18BwgmrLDiIbhpTry-O92UQn5rTrmypEo",
+      "drive_url": "https://drive.google.com/file/d/18BwgmrLDiIbhpTry-O92UQn5rTrmypEo/view?usp=drivesdk",
+      "asset_type": "CONTEXTUAL_ILLUSTRATION",
+      "filename": "P24-12_WEB_EXT_WEB06_Warehouse_Illustration_01_web.webp",
+      "local_path": "assets/images/P24-12_WEB_EXT_WEB06_Warehouse_Illustration_01_web.webp",
+      "section_ids": [
+        "WEB-06"
+      ],
+      "slot_id": "EXT-WEB06-WAREHOUSE",
+      "caption_vi": "Hình minh họa hoạt động lập kế hoạch, bố trí và dòng chảy vật tư trong kho.",
+      "alt_text_vi": "Minh họa nhóm nhân viên kho trao đổi kế hoạch vận hành bên xe nâng; chỉ mang tính minh họa, không phải triển khai thực tế của SAVA.",
+      "illustration_label_required": true,
+      "sha256": "ce598bf533781039f99c2933db8d6cac3560ff4a29368c501a7be8de1808d3c7",
+      "bytes": 180850,
+      "runtime_hotlink": false
+    },
+    {
+      "asset_id": "AST-WEB12-MU-EXT-01",
+      "drive_id": "1G-i_uL00h88f0QED1mKr_tSXWCsZE_ur",
+      "drive_url": "https://drive.google.com/file/d/1G-i_uL00h88f0QED1mKr_tSXWCsZE_ur/view?usp=drivesdk",
+      "asset_type": "CONTEXTUAL_ILLUSTRATION",
+      "filename": "P24-12_WEB_EXT_WEB12_Music_Illustration_01_web.webp",
+      "local_path": "assets/images/P24-12_WEB_EXT_WEB12_Music_Illustration_01_web.webp",
+      "section_ids": [
+        "WEB-12"
+      ],
+      "slot_id": "EXT-WEB12-MUSIC",
+      "caption_vi": "Hình minh họa trải nghiệm âm nhạc/tiết tấu nhập vai bằng cử động cơ thể và tương tác không gian.",
+      "alt_text_vi": "Minh họa người chơi đeo kính thực tế ảo chơi trống điện tử; chỉ mang tính minh họa, không phải sản phẩm hay game cụ thể của SAVA.",
+      "illustration_label_required": true,
+      "sha256": "8340121d9485382d7d39ab4bb76364c7322f8c6e3325c2bd0ca0eaa899a933b9",
+      "bytes": 103566,
+      "runtime_hotlink": false
+    },
+    {
+      "asset_id": "AST-WEB08-SP-EXT-01",
+      "drive_id": "1oHBBrmbjwumg4PY02dI-JPUNNb2JkM6L",
+      "drive_url": "https://drive.google.com/file/d/1oHBBrmbjwumg4PY02dI-JPUNNb2JkM6L/view?usp=drivesdk",
+      "asset_type": "CONTEXTUAL_ILLUSTRATION",
+      "filename": "P24-12_WEB_EXT_WEB08_Sports_Illustration_01_web.webp",
+      "local_path": "assets/images/P24-12_WEB_EXT_WEB08_Sports_Illustration_01_web.webp",
+      "section_ids": [
+        "WEB-08"
+      ],
+      "slot_id": "EXT-WEB08-SPORTS",
+      "caption_vi": "Hình minh họa luyện tập thể chất / kỹ năng vận động bằng công nghệ nhập vai.",
+      "alt_text_vi": "Minh họa người tập đeo kính thực tế ảo trong không gian tập luyện; chỉ mang tính minh họa, không ngụ ý SAVA đã chọn môn thể thao cụ thể.",
+      "illustration_label_required": true,
+      "sha256": "eb66f1356baa3e7a516e1eb1c9bad266ae2b05380305c294f76906a8c083bcc0",
+      "bytes": 59008,
+      "runtime_hotlink": false
+    },
+    {
+      "asset_id": "AST-WEB08-PZ-EXT-01",
+      "drive_id": "1NA7CfOcWv_xueHne4GcjwLzYAMviNuQU",
+      "drive_url": "https://drive.google.com/file/d/1NA7CfOcWv_xueHne4GcjwLzYAMviNuQU/view?usp=drivesdk",
+      "asset_type": "CONTEXTUAL_ILLUSTRATION",
+      "filename": "P24-12_WEB_EXT_WEB08_Puzzle_Illustration_01_web.webp",
+      "local_path": "assets/images/P24-12_WEB_EXT_WEB08_Puzzle_Illustration_01_web.webp",
+      "section_ids": [
+        "WEB-08"
+      ],
+      "slot_id": "EXT-WEB08-PUZZLE",
+      "caption_vi": "Hình minh họa giải đố không gian / logic hệ thống và tương tác 3D.",
+      "alt_text_vi": "Minh họa bàn tay thao tác khối giải đố không gian; chỉ mang tính minh họa, không ngụ ý sản phẩm hay WHY-VR đã được chứng minh.",
+      "illustration_label_required": true,
+      "sha256": "6a5c9bee4f3aec67ad0b03f6301031ab928fa532af613abae0c5664a62c54858",
+      "bytes": 71966,
+      "runtime_hotlink": false
+    },
+    {
+      "asset_id": "AST-SAVA-LOGO-WEB",
+      "drive_id": "1UR5a_dVTxS8khrHRWi9g9hrgM-dRrcLy",
+      "drive_url": "https://drive.google.com/file/d/1UR5a_dVTxS8khrHRWi9g9hrgM-dRrcLy/view?usp=drivesdk",
+      "asset_type": "OFFICIAL_LOGO",
+      "filename": "sava-meta-logo.png",
+      "local_path": "assets/brand/sava-meta-logo.png",
+      "section_ids": [
+        "WEB-01",
+        "WEB-02",
+        "WEB-03",
+        "WEB-04",
+        "WEB-05",
+        "WEB-06",
+        "WEB-07",
+        "WEB-08",
+        "WEB-09",
+        "WEB-10",
+        "WEB-11",
+        "WEB-12",
+        "WEB-13",
+        "WEB-14",
+        "WEB-15",
+        "WEB-16",
+        "WEB-17",
+        "WEB-18"
+      ],
+      "slot_id": "GLOBAL-LOGO",
+      "caption_vi": "Logo chính thức của SAVA Meta.",
+      "alt_text_vi": "Logo SAVA Meta.",
+      "illustration_label_required": false,
+      "sha256": "d561c71aed9f2cde519b05f5bb073870e34820c81c3ab1c3411a608b11ad4c55",
+      "bytes": 51990,
+      "runtime_hotlink": false
+    }
+  ],
+  "unresolved_count": 0,
+  "phase_status": "WEB-V2 COMPLETE — PRODUCTION BUILD READY FOR INDEPENDENT WEB-V3 QA",
+  "closure_phase": "P24-12-WEB-V2R",
+  "qa": {
+    "visible_language": "PASS",
+    "semantic_smoke": "PASS",
+    "responsive": "PASS",
+    "interaction": "PASS",
+    "runtime_pass": true,
+    "console_error_count": 0,
+    "page_error_count": 0,
+    "drive_readback": "PASS"
+  },
+  "github_write": "NO",
+  "deployment": "NO",
+  "future_github_target": "kavie-cmyk/savrse-report-2",
+  "drive_persistence_status": "PASS",
+  "drive_readback_verified": true,
+  "unresolved_blockers": 0,
+  "artifact_references": {
+    "release_identity_authority": "OUTER_V1_2_RELEASE_MANIFEST",
+    "current_candidate_version": "v1.2",
+    "parent_v1_1": {
+      "production_folder_id": "13rxddkcBXhEr3eoabUSHe-rvN6F6P0-q",
+      "site_folder_id": "1Egd8JBK9w7yyPLiDB9ZkIHGmbv3jjgiP",
+      "zip_id": "1pX4nMW-3xX7IAaFdcigIr5uyExgwbqud",
+      "zip_sha256": "260de8bf0557184bd370ccf6f0e036f76a3e178fe31a436a6e9a58ae8f56ef2d"
+    },
+    "current_v1_2_persisted_ids": "SEE_OUTER_V1_2_RELEASE_MANIFEST"
+  },
+  "release_build": "v1.2",
+  "release_metadata_patch": "RELEASE_METADATA_IDENTITY_RECONCILIATION_ONLY",
+  "parent_build": "v1.1",
+  "parent_zip_drive_id": "1pX4nMW-3xX7IAaFdcigIr5uyExgwbqud",
+  "parent_zip_sha256": "260de8bf0557184bd370ccf6f0e036f76a3e178fe31a436a6e9a58ae8f56ef2d",
+  "original_functional_patch": "V3B-001 / mobile navigation accessibility",
+  "release_identity_authority": "OUTER_V1_2_RELEASE_MANIFEST",
+  "research_semantic_diff": "ZERO",
+  "content_diff": "ZERO",
+  "html_functional_diff": "ZERO",
+  "css_diff": "ZERO",
+  "javascript_diff": "ZERO",
+  "visual_asset_diff": "ZERO",
+  "v3a_inheritance": "PRESERVED",
+  "next_required_phase": "WEB-V3B-R2"
+}
