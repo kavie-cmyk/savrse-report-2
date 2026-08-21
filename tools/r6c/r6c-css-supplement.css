@@ -1,0 +1,143 @@
+/* ============================================================
+   R6C CSS supplement — CEO causal narrative layout additions
+   P24-12-WEB-R6C · 2026-08-21
+   Minimal structural additions only (visual redesign is R6V scope).
+   ============================================================ */
+
+/* --- 4-question conclusion pattern --- */
+.conclusion-block {
+  margin-top: 28px;
+  padding: 18px 20px;
+  background: rgba(0,0,0,0.04);
+  border-left: 4px solid #b8860b;
+  border-radius: 6px;
+  font-size: 0.95rem;
+  line-height: 1.55;
+}
+.conclusion-block p { margin: 6px 0; }
+.light .conclusion-block { background: rgba(0,0,0,0.05); }
+.dark .conclusion-block { background: rgba(255,255,255,0.06); border-left-color: #d4a017; }
+
+/* --- causal transition line --- */
+.transition {
+  margin-top: 22px;
+  padding-top: 12px;
+  border-top: 1px dashed rgba(0,0,0,0.18);
+  font-size: 0.95rem;
+  font-style: normal;
+  color: #555;
+}
+.transition em { color: #8a6d1a; font-style: italic; }
+.dark .transition { color: rgba(255,255,255,0.7); border-top-color: rgba(255,255,255,0.25); }
+.dark .transition em { color: #f0c84d; }
+
+/* --- evidence proof-point cards --- */
+.evidence-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+  margin-top: 18px;
+}
+@media (max-width: 768px) { .evidence-grid { grid-template-columns: 1fr; } }
+.evidence-card {
+  background: #fff;
+  border: 1px solid #e2e2e2;
+  border-radius: 8px;
+  padding: 16px 18px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+}
+.light .evidence-card { background: #fdfdfd; }
+.evidence-card p { margin: 6px 0; font-size: 0.92rem; line-height: 1.5; }
+.evidence-fact { font-weight: 600; }
+
+/* --- capability table wrapper --- */
+.cap-table-wrap { overflow-x: auto; margin-top: 18px; }
+.cap-block { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-top: 20px; }
+@media (max-width: 768px) { .cap-block { grid-template-columns: 1fr; } }
+
+/* --- Healthcare offer grid (reuse .offer-4 present) --- */
+.offer-block { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px; margin-top: 18px; }
+@media (max-width: 768px) { .offer-block { grid-template-columns: 1fr; } }
+.role-block { margin-top: 22px; padding: 16px 18px; background: rgba(0,0,0,0.035); border-radius: 8px; }
+.role-block p { margin: 8px 0; }
+
+/* --- productization path --- */
+.productization { margin-top: 22px; }
+.pf-step { display: flex; gap: 12px; align-items: flex-start; padding: 10px 0; border-bottom: 1px solid rgba(0,0,0,0.08); }
+.pf-step > span { flex: 0 0 130px; font-weight: 700; color: #8a6d1a; font-size: 0.9rem; }
+.pf-step p { margin: 0; font-size: 0.93rem; }
+
+/* --- prototype question cards --- */
+.prototype-questions { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin-top: 18px; }
+@media (max-width: 768px) { .prototype-questions { grid-template-columns: 1fr; } }
+.pq { display: flex; gap: 12px; background: #fff; border: 1px solid #e2e2e2; border-radius: 8px; padding: 14px 16px; }
+.light .pq { background: #fdfdfd; }
+.pq-n { flex: 0 0 30px; height: 30px; border-radius: 50%; background: #b8860b; color: #fff; display: flex; align-items: center; justify-content: center; font-weight: 700; }
+.pq p { margin: 0 0 6px; }
+.pq .mini-detail { font-size: 0.86rem; color: #444; line-height: 1.5; }
+
+/* --- unknown / to-be-validated --- */
+.unknown-block { margin-top: 22px; padding: 16px 18px; background: rgba(184,134,11,0.08); border: 1px solid rgba(184,134,11,0.3); border-radius: 8px; }
+
+/* --- capital flow --- */
+.cap-flow { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: center; margin: 14px 0; }
+.cap-flow > span:not(.cf-arrow) { background: #b8860b; color: #fff; padding: 8px 14px; border-radius: 6px; font-weight: 700; font-size: 0.9rem; }
+.cf-arrow { color: #8a6d1a; font-weight: 700; }
+
+/* --- bounded parallel --- */
+.bounded-parallel { margin-top: 22px; padding: 18px 20px; background: rgba(184,134,11,0.08); border: 1px solid rgba(184,134,11,0.3); border-radius: 8px; }
+
+/* --- funnel meaning --- */
+.funnel-meaning { margin-top: 20px; padding: 16px 18px; background: rgba(0,0,0,0.035); border-radius: 8px; }
+.funnel-meaning ul { margin: 8px 0 8px 18px; }
+.funnel-meaning li { margin: 4px 0; font-size: 0.92rem; }
+
+/* --- B2B / B2C test callouts --- */
+.b2b-test, .b2c-test {
+  margin-top: 14px;
+  padding: 14px 16px;
+  border-radius: 8px;
+  font-size: 0.93rem;
+  border-left: 4px solid;
+}
+.b2b-test { background: rgba(0,60,120,0.06); border-left-color: #1f4e79; }
+.b2c-test { background: rgba(120,0,60,0.06); border-left-color: #7a1f52; }
+
+/* --- stop cards (healthcare + music 90-day) --- */
+.stop-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; margin-top: 20px; }
+@media (max-width: 768px) { .stop-grid { grid-template-columns: 1fr; } }
+.stop-card { border-radius: 8px; padding: 16px 18px; border: 1px solid; }
+.stop-card h4 { margin-top: 0; font-size: 0.95rem; }
+.stop-card p { margin: 6px 0; font-size: 0.9rem; line-height: 1.5; }
+.stop-card.go { background: rgba(46,125,50,0.07); border-color: rgba(46,125,50,0.35); }
+.stop-card.narrow { background: rgba(237,108,2,0.07); border-color: rgba(237,108,2,0.35); }
+.stop-card.stop { background: rgba(198,40,40,0.07); border-color: rgba(198,40,40,0.35); }
+
+/* --- conclusion line --- */
+.conclusion-line { margin-top: 12px; padding: 10px 12px; background: rgba(184,134,11,0.1); border-radius: 6px; font-weight: 600; }
+
+/* --- management clock --- */
+.management-clock { margin-top: 22px; padding: 20px; background: rgba(255,255,255,0.07); border-radius: 8px; }
+.clock-final { font-size: 1.05rem; line-height: 1.6; color: #fff; }
+
+/* --- filter group (shortlist) --- */
+.filter-group { display: flex; flex-wrap: wrap; gap: 6px; }
+.filter-group .filter-btn {
+  background: #eee; border: 1px solid #ccc; color: #333;
+  padding: 5px 10px; border-radius: 16px; cursor: pointer; font-size: 0.85rem;
+}
+.filter-group .filter-btn.is-active { background: #b8860b; border-color: #b8860b; color: #fff; }
+
+/* --- risk column wide (counter-thesis) --- */
+.risk-col.wide { grid-column: 1 / -1; }
+
+/* --- evidence classification tag reuse --- */
+.cs-tag { display: inline-block; background: rgba(184,134,11,0.12); color: #6b5208; border: 1px solid rgba(184,134,11,0.35); padding: 2px 8px; border-radius: 12px; font-size: 0.75rem; font-weight: 600; margin-bottom: 8px; }
+
+/* --- concept status small --- */
+.concept-status { display: inline-block; padding: 2px 10px; border-radius: 12px; font-size: 0.75rem; font-weight: 700; margin-bottom: 8px; background: rgba(0,0,0,0.08); }
+.concept-status.primary { background: #b8860b; color: #fff; }
+
+/* --- offer-4 already exists; ensure consistent gap --- */
+.offer-4 { background: #fff; border: 1px solid #e2e2e2; border-radius: 8px; padding: 14px 16px; }
+.light .offer-4 { background: #fdfdfd; }
