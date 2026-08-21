@@ -13,6 +13,19 @@
     });
   }
 
+  // ---- Expand/collapse detail toggles ("Xem phạm vi đầy đủ") ----
+  qa('[data-expand]').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      const target = q(`#${btn.dataset.expand}`);
+      if (!target) return;
+      const isHidden = target.hasAttribute('hidden');
+      target.toggleAttribute('hidden', !isHidden);
+      btn.setAttribute('aria-expanded', String(isHidden));
+      btn.textContent = isHidden ? 'Thu gọn' : 'Xem phạm vi đầy đủ';
+    });
+    btn.setAttribute('aria-expanded', 'false');
+  });
+
   // ---- Scrollspy for anchor nav ----
   const links = qa('.anchor-nav a');
   const obs = new IntersectionObserver((entries) => {
