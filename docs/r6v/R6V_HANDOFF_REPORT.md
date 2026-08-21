@@ -9,11 +9,11 @@
 - Pre-R6V main SHA: `a430aa16af14bed218dfe9ea370b3d974a40940e`
 - R6C content baseline SHA: `31d1eaced99b8711715efb3368ca8ad8a1bee2e0`
 - Backup tag: `archive/pre-r6v-full-20260821` (pushed)
-- R6V final SHA: (set after commit)
+- R6V final SHA: `eea05f47318826e2ca81f93bc2da56c85b901167` (main)
 
 ## Live
 - GitHub Pages URL: https://kavie-cmyk.github.io/savrse-report-2/
-- HTTP result / deployment status: (set after deploy)
+- HTTP result: **200** · Deployment status: **built / LIVE (R6V confirmed serving)**
 
 ## Content
 - R6C coverage preserved: ✅ (25 sections + B8 appendix + 35 sources + drawer)
