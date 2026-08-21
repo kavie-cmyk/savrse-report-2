@@ -1,12 +1,25 @@
-# Savrse Management Research Website — WEB-V2
+# Savrse Business Plan — CEO Website (savrse-report-3)
 
-Static, offline-friendly CEO-facing microsite. This package is production candidate **v1.2** (release-metadata identity reconciliation only), inheriting the v1.1 mobile-navigation accessibility patch. Open `index.html` directly or serve this directory as a static site.
+Static, offline-friendly CEO-facing **Business Plan / Kế hoạch Kinh doanh** microsite (P24-12-WEB-BP-R4), based on BP-4M (CEO Management Edition) with BP-4MC Music concept integration (PULSE DEFLECTOR / COUNTERBEAT / PHASE TETHER).
 
-## Deployment boundary
-- Current status: WEB-V3B-R1M metadata reconciliation complete in-package; exact HTTP-browser closure remains required in WEB-V3B-R2.
-- GitHub target reserved for a later authorized publication phase: `kavie-cmyk/savrse-report-2`.
-- Publish the **contents of this `/site` directory at repository root**; do not add an outer `site/` path to public URLs.
-- GitHub write: NO. Deployment: NO. WEB-V3C: NOT AUTHORIZED.
+## Live
+- Repository: `https://github.com/kavie-cmyk/savrse-report-3`
+- Live site: `https://kavie-cmyk.github.io/savrse-report-3/`
+- Deployment: GitHub Pages (main branch, / root). GitHub write: YES (active development). Deployment: YES.
+
+## Content authority
+- BP-4M (CEO Management Edition) = primary CEO narrative authority.
+- BP-4 Master = authoritative substance authority.
+- BP-4MC = Music product-concept appendix (3 concepts).
+- RPT-4R2 = research/evidence authority (market context, source traceability).
+
+## Repositories
+- `savrse-report-3` = ACTIVE working repo (all new work happens here).
+- `savrse-report-2` = FROZEN snapshot baseline (archive tag `archive/report-2-pre-r4-20260821`).
 
 ## Runtime
 HTML5 + CSS3 + Vanilla JavaScript + local SVG/WebP/PNG assets. No CDN, framework, runtime API or external content fetch.
+
+## Status
+- P24-12-WEB-BP-R4 implementation: technical QA complete.
+- Final CEO / visual approval: PENDING USER REVIEW (not self-certified).
