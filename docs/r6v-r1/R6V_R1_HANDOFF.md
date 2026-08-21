@@ -1,4 +1,4 @@
-# R6V-R1 HANDOFF
+﻿# R6V-R1 HANDOFF
 
 **Phase:** P24-12-WEB-R6V-R1 — Executive Editorial Recomposition
 **Date:** 2026-08-21
@@ -7,12 +7,12 @@
 
 ## Repository
 - Pre-R1 SHA: `ac1c4902b1f2df571fecdce58ef82510720a7fcc`
-- Final SHA: (set after commit)
+- Final SHA: `d446be76c1392296bc14047e883016430e86c081`
 - Backup tag: `archive/pre-r6v-r1-20260821` (pushed)
 
 ## Live
 - URL: https://kavie-cmyk.github.io/savrse-report-2/
-- Deployment status: (set after deploy)
+- Deployment status: built (verify live below)
 
 ## What changed (structural)
 1. **Duplicate hero removed** — legacy R6C-01 hero deleted; single R6V cover remains.
@@ -55,3 +55,4 @@ All R6C / RPT-4R2 / BP-4M v1.4 substance preserved. Material content loss = 0 (o
 
 ## USER REVIEW STATUS
 READY FOR USER VISUAL REVIEW
+
