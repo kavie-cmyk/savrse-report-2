@@ -3,13 +3,13 @@
   const q = (s, c = document) => c.querySelector(s);
   const qa = (s, c = document) => [...c.querySelectorAll(s)];
 
-  // ---- Mobile nav toggle (V3B-001 compliant) ----
-  const nav = q('#anchor-nav');
-  const toggle = q('#nav-toggle');
+  // ---- Mobile nav toggle (V3B-001 compliant; supports R6V navbar + legacy) ----
+  const nav = q('#anchor-nav') || q('.r6v-navbar-inner');
+  const toggle = q('#nav-toggle') || q('#r6v-nav-toggle');
   if (toggle && nav) {
     toggle.addEventListener('click', () => {
-      const collapsed = nav.classList.toggle('is-collapsed');
-      toggle.setAttribute('aria-expanded', String(!collapsed));
+      const isOpen = nav.classList.toggle('is-open');
+      toggle.setAttribute('aria-expanded', String(isOpen));
     });
   }
 
@@ -26,8 +26,8 @@
     btn.setAttribute('aria-expanded', 'false');
   });
 
-  // ---- Scrollspy for anchor nav ----
-  const links = qa('.anchor-nav a');
+  // ---- Scrollspy for anchor nav (R6V + legacy) ----
+  const links = qa('.anchor-nav a, .r6v-navbar a');
   const obs = new IntersectionObserver((entries) => {
     for (const en of entries) {
       if (en.isIntersecting) {
