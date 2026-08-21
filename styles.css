@@ -1012,3 +1012,262 @@ main { display: block; }
   .r6v-clock { grid-template-columns: 1fr; }
   .r6v-blueprint-chain { grid-template-columns: 1fr; }
 }
+/* ============================================================
+   R6V-R1 — Executive Editorial Recomposition
+   P24-12-WEB-R6V-R1 · 2026-08-21
+   Single active design system. Level-2 detail disclosures.
+   Varied chapter treatments. Typography refinement.
+   ============================================================ */
+
+/* ---------- Level-2 detail disclosure (management detail) ---------- */
+.r6v-detail {
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background: #fff;
+  margin: 18px 0;
+  overflow: hidden;
+  box-shadow: 0 2px 14px rgba(10,26,63,0.04);
+}
+.r6v-detail > summary {
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 18px 24px;
+  font-weight: 700;
+  font-size: 15px;
+  color: var(--royal-600);
+  background: var(--lav-100);
+  border-bottom: 1px solid var(--line);
+}
+.r6v-detail > summary::-webkit-details-marker { display: none; }
+.r6v-detail > summary .r6v-detail-arrow {
+  font-size: 22px;
+  font-weight: 800;
+  color: var(--electric-500);
+  transition: transform 0.2s ease;
+  flex: 0 0 auto;
+}
+.r6v-detail[open] > summary .r6v-detail-arrow { transform: rotate(45deg); }
+.r6v-detail .r6v-detail-body { padding: 20px 24px; }
+.r6v-detail .r6v-detail-body .site-section {
+  padding: 12px 0;
+  background: transparent !important;
+  color: var(--ink-900);
+}
+.r6v-detail .r6v-detail-body .shell { padding: 0; max-width: none; }
+.r6v-detail .r6v-detail-body .section-header h2 { font-size: 24px; }
+.r6v-detail .r6v-detail-body .transition { display: none; }
+.r6v-detail .r6v-detail-body .conclusion-block { margin-top: 16px; }
+
+/* ---------- Varied chapter treatments ---------- */
+/* CH1 — research: white/light analytical canvas */
+.r6v-chapter.ch-research { background: var(--lav-100); color: var(--ink-900); }
+.r6v-chapter.ch-research::before {
+  background: radial-gradient(800px 320px at 90% 0%, rgba(63,132,234,0.14), transparent 55%);
+}
+.r6v-chapter.ch-research .r6v-chapter-num { color: var(--electric-500); }
+.r6v-chapter.ch-research .r6v-chapter-num .r6v-cn { background: #fff; border-color: var(--line); color: var(--royal-600); }
+.r6v-chapter.ch-research h2 { color: var(--navy-900); }
+.r6v-chapter.ch-research p { color: var(--ink-700); }
+.r6v-chapter.ch-research .r6v-chapter-nav a { background: #fff; border: 1px solid var(--line); color: var(--royal-600); }
+.r6v-chapter.ch-research .r6v-chapter-nav a:hover { background: var(--royal-600); color: #fff; }
+
+/* CH3 — decision bridge: deep navy transition (default dark) */
+.r6v-chapter.ch-bridge { background: var(--navy-900); }
+
+/* CH4 — Healthcare: bright clinical editorial (light, subtle green tint) */
+.r6v-chapter.ch-health { background: #f0f8f4; color: var(--ink-900); }
+.r6v-chapter.ch-health::before { background: radial-gradient(800px 320px at 90% 0%, rgba(30,158,106,0.14), transparent 55%); }
+.r6v-chapter.ch-health .r6v-chapter-num { color: var(--ok); }
+.r6v-chapter.ch-health .r6v-chapter-num .r6v-cn { background: #fff; border-color: #cfe8da; color: #176b43; }
+.r6v-chapter.ch-health h2 { color: var(--navy-900); }
+.r6v-chapter.ch-health p { color: var(--ink-700); }
+.r6v-chapter.ch-health .r6v-chapter-nav a { background: #fff; border: 1px solid #cfe8da; color: #176b43; }
+.r6v-chapter.ch-health .r6v-chapter-nav a:hover { background: var(--ok); color: #fff; }
+
+/* CH5 — Music: dark cinematic (concept-art-led) */
+.r6v-chapter.ch-music { background: linear-gradient(135deg, #0d0a1f, #1a1238 55%, #2f1b4a); }
+.r6v-chapter.ch-music::before { background: radial-gradient(800px 360px at 85% 0%, rgba(123,92,214,0.35), transparent 55%); }
+
+/* CH6 — 90 days: operating-plan canvas (mist blue) */
+.r6v-chapter.ch-ops { background: #eef3fb; color: var(--ink-900); }
+.r6v-chapter.ch-ops .r6v-chapter-num { color: var(--electric-500); }
+.r6v-chapter.ch-ops .r6v-chapter-num .r6v-cn { background: #fff; border-color: var(--line); color: var(--royal-600); }
+.r6v-chapter.ch-ops h2 { color: var(--navy-900); }
+.r6v-chapter.ch-ops p { color: var(--ink-700); }
+.r6v-chapter.ch-ops .r6v-chapter-nav a { background: #fff; border: 1px solid var(--line); color: var(--royal-600); }
+.r6v-chapter.ch-ops .r6v-chapter-nav a:hover { background: var(--royal-600); color: #fff; }
+
+/* CH7 — finance: white typographic/data composition */
+.r6v-chapter.ch-finance { background: #fff; color: var(--ink-900); }
+.r6v-chapter.ch-finance .r6v-chapter-num { color: var(--electric-500); }
+.r6v-chapter.ch-finance .r6v-chapter-num .r6v-cn { background: var(--lav-100); border-color: var(--line); color: var(--royal-600); }
+.r6v-chapter.ch-finance h2 { color: var(--navy-900); }
+.r6v-chapter.ch-finance p { color: var(--ink-700); }
+.r6v-chapter.ch-finance .r6v-chapter-nav a { background: var(--lav-100); border: 1px solid var(--line); color: var(--royal-600); }
+.r6v-chapter.ch-finance .r6v-chapter-nav a:hover { background: var(--royal-600); color: #fff; }
+
+/* ---------- Typography refinement ---------- */
+.r6v-cover h1 { letter-spacing: -0.03em; }
+.r6v-chapter h2 { letter-spacing: -0.025em; }
+.section-header h1, .section-header h2 { letter-spacing: -0.025em; }
+/* Reduce all-caps walls: let section-index be lighter */
+.section-index { font-weight: 700; letter-spacing: 0.1em; }
+
+/* ---------- Evidence callout variation ---------- */
+.r6v-proof-card { border-top-width: 3px; }
+.r6v-proof-card:nth-child(4n+1) { border-top-color: var(--royal-600); }
+.r6v-proof-card:nth-child(4n+2) { border-top-color: var(--ok); }
+.r6v-proof-card:nth-child(4n+3) { border-top-color: var(--warn); }
+.r6v-proof-card:nth-child(4n+4) { border-top-color: #7b5cd6; }
+
+/* ---------- Reduce boxed feel on steps/chips ---------- */
+.r6v-tm-step { border: none; border-bottom: 1px solid rgba(0,0,0,0.06); border-radius: 0; padding: 10px 4px; background: transparent; }
+.r6v-tm-arrow { font-size: 14px; padding: 0 8px; }
+.r6v-bp-step { border-top-width: 3px; }
+
+/* ---------- Responsive for details ---------- */
+@media (max-width: 768px) {
+  .r6v-detail > summary { padding: 14px 16px; font-size: 14px; }
+  .r6v-detail .r6v-detail-body { padding: 14px 16px; }
+}
+
+
+/* ============================================================
+   R6V-R1 — Executive Editorial Recomposition
+   P24-12-WEB-R6V-R1 · 2026-08-21
+   Single active design system. Level-2 detail disclosures.
+   Varied chapter treatments. Typography refinement.
+   ============================================================ */
+
+/* ---------- Level-2 detail disclosure (management detail) ---------- */
+.r6v-detail {
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background: #fff;
+  margin: 18px 0;
+  overflow: hidden;
+  box-shadow: 0 2px 14px rgba(10,26,63,0.04);
+}
+.r6v-detail > summary {
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 18px 24px;
+  font-weight: 700;
+  font-size: 15px;
+  color: var(--royal-600);
+  background: var(--lav-100);
+  border-bottom: 1px solid var(--line);
+}
+.r6v-detail > summary::-webkit-details-marker { display: none; }
+.r6v-detail > summary .r6v-detail-arrow {
+  font-size: 22px;
+  font-weight: 800;
+  color: var(--electric-500);
+  transition: transform 0.2s ease;
+  flex: 0 0 auto;
+}
+.r6v-detail[open] > summary .r6v-detail-arrow { transform: rotate(45deg); }
+.r6v-detail .r6v-detail-body { padding: 20px 24px; }
+.r6v-detail .r6v-detail-body .site-section {
+  padding: 12px 0;
+  background: transparent !important;
+  color: var(--ink-900);
+}
+.r6v-detail .r6v-detail-body .shell { padding: 0; max-width: none; }
+.r6v-detail .r6v-detail-body .section-header h2 { font-size: 24px; }
+.r6v-detail .r6v-detail-body .transition { display: none; }
+.r6v-detail .r6v-detail-body .conclusion-block { margin-top: 16px; }
+
+/* ---------- Varied chapter treatments ---------- */
+/* CH1 — research: white/light analytical canvas */
+.r6v-chapter.ch-research { background: var(--lav-100); color: var(--ink-900); }
+.r6v-chapter.ch-research::before {
+  background: radial-gradient(800px 320px at 90% 0%, rgba(63,132,234,0.14), transparent 55%);
+}
+.r6v-chapter.ch-research .r6v-chapter-num { color: var(--electric-500); }
+.r6v-chapter.ch-research .r6v-chapter-num .r6v-cn { background: #fff; border-color: var(--line); color: var(--royal-600); }
+.r6v-chapter.ch-research h2 { color: var(--navy-900); }
+.r6v-chapter.ch-research p { color: var(--ink-700); }
+.r6v-chapter.ch-research .r6v-chapter-nav a { background: #fff; border: 1px solid var(--line); color: var(--royal-600); }
+.r6v-chapter.ch-research .r6v-chapter-nav a:hover { background: var(--royal-600); color: #fff; }
+
+/* CH3 — decision bridge: deep navy transition (default dark) */
+.r6v-chapter.ch-bridge { background: var(--navy-900); }
+
+/* CH4 — Healthcare: bright clinical editorial (light, subtle green tint) */
+.r6v-chapter.ch-health { background: #f0f8f4; color: var(--ink-900); }
+.r6v-chapter.ch-health::before { background: radial-gradient(800px 320px at 90% 0%, rgba(30,158,106,0.14), transparent 55%); }
+.r6v-chapter.ch-health .r6v-chapter-num { color: var(--ok); }
+.r6v-chapter.ch-health .r6v-chapter-num .r6v-cn { background: #fff; border-color: #cfe8da; color: #176b43; }
+.r6v-chapter.ch-health h2 { color: var(--navy-900); }
+.r6v-chapter.ch-health p { color: var(--ink-700); }
+.r6v-chapter.ch-health .r6v-chapter-nav a { background: #fff; border: 1px solid #cfe8da; color: #176b43; }
+.r6v-chapter.ch-health .r6v-chapter-nav a:hover { background: var(--ok); color: #fff; }
+
+/* CH5 — Music: dark cinematic (concept-art-led) */
+.r6v-chapter.ch-music { background: linear-gradient(135deg, #0d0a1f, #1a1238 55%, #2f1b4a); }
+.r6v-chapter.ch-music::before { background: radial-gradient(800px 360px at 85% 0%, rgba(123,92,214,0.35), transparent 55%); }
+
+/* CH6 — 90 days: operating-plan canvas (mist blue) */
+.r6v-chapter.ch-ops { background: #eef3fb; color: var(--ink-900); }
+.r6v-chapter.ch-ops .r6v-chapter-num { color: var(--electric-500); }
+.r6v-chapter.ch-ops .r6v-chapter-num .r6v-cn { background: #fff; border-color: var(--line); color: var(--royal-600); }
+.r6v-chapter.ch-ops h2 { color: var(--navy-900); }
+.r6v-chapter.ch-ops p { color: var(--ink-700); }
+.r6v-chapter.ch-ops .r6v-chapter-nav a { background: #fff; border: 1px solid var(--line); color: var(--royal-600); }
+.r6v-chapter.ch-ops .r6v-chapter-nav a:hover { background: var(--royal-600); color: #fff; }
+
+/* CH7 — finance: white typographic/data composition */
+.r6v-chapter.ch-finance { background: #fff; color: var(--ink-900); }
+.r6v-chapter.ch-finance .r6v-chapter-num { color: var(--electric-500); }
+.r6v-chapter.ch-finance .r6v-chapter-num .r6v-cn { background: var(--lav-100); border-color: var(--line); color: var(--royal-600); }
+.r6v-chapter.ch-finance h2 { color: var(--navy-900); }
+.r6v-chapter.ch-finance p { color: var(--ink-700); }
+.r6v-chapter.ch-finance .r6v-chapter-nav a { background: var(--lav-100); border: 1px solid var(--line); color: var(--royal-600); }
+.r6v-chapter.ch-finance .r6v-chapter-nav a:hover { background: var(--royal-600); color: #fff; }
+
+/* ---------- Typography refinement ---------- */
+.r6v-cover h1 { letter-spacing: -0.03em; }
+.r6v-chapter h2 { letter-spacing: -0.025em; }
+.section-header h1, .section-header h2 { letter-spacing: -0.025em; }
+/* Reduce all-caps walls: let section-index be lighter */
+.section-index { font-weight: 700; letter-spacing: 0.1em; }
+
+/* ---------- Evidence callout variation ---------- */
+.r6v-proof-card { border-top-width: 3px; }
+.r6v-proof-card:nth-child(4n+1) { border-top-color: var(--royal-600); }
+.r6v-proof-card:nth-child(4n+2) { border-top-color: var(--ok); }
+.r6v-proof-card:nth-child(4n+3) { border-top-color: var(--warn); }
+.r6v-proof-card:nth-child(4n+4) { border-top-color: #7b5cd6; }
+
+/* ---------- Reduce boxed feel on steps/chips ---------- */
+.r6v-tm-step { border: none; border-bottom: 1px solid rgba(0,0,0,0.06); border-radius: 0; padding: 10px 4px; background: transparent; }
+.r6v-tm-arrow { font-size: 14px; padding: 0 8px; }
+.r6v-bp-step { border-top-width: 3px; }
+
+/* ---------- Responsive for details ---------- */
+@media (max-width: 768px) {
+  .r6v-detail > summary { padding: 14px 16px; font-size: 14px; }
+  .r6v-detail .r6v-detail-body { padding: 14px 16px; }
+}
+
+/* CH2 filtering + CH8 decision (R6V-R1) */
+.r6v-chapter.ch-filter { background: linear-gradient(180deg, #fff 0%, var(--lav-100) 100%); color: var(--ink-900); }
+.r6v-chapter.ch-filter::before { background: radial-gradient(760px 300px at 10% 0%, rgba(63,132,234,0.16), transparent 55%); }
+.r6v-chapter.ch-filter .r6v-chapter-num { color: var(--electric-500); }
+.r6v-chapter.ch-filter .r6v-chapter-num .r6v-cn { background: #fff; border-color: var(--line); color: var(--royal-600); }
+.r6v-chapter.ch-filter h2 { color: var(--navy-900); }
+.r6v-chapter.ch-filter p { color: var(--ink-700); }
+.r6v-chapter.ch-filter .r6v-chapter-nav a { background: #fff; border: 1px solid var(--line); color: var(--royal-600); }
+.r6v-chapter.ch-filter .r6v-chapter-nav a:hover { background: var(--royal-600); color: #fff; }
+.r6v-chapter.ch-decision { background: linear-gradient(150deg, #0a1a3f 0%, #123a78 55%, #1b4a94 100%); }
+.r6v-chapter.ch-decision::before { background: radial-gradient(900px 380px at 90% 0%, rgba(57,195,232,0.3), transparent 55%); }
+.r6v-chapter.ch-decision .r6v-chapter-num .r6v-cn { background: var(--cyan-400); color: var(--navy-900); border: none; }
