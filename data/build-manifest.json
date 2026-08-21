@@ -2,7 +2,7 @@
   "build_id": "P24-12-WEB-V2-20260821-v1.2",
   "version": "v1.2",
   "date": "2026-08-21",
-  "status": "BP_R4_REARCHITECTED_DEPLOYED",
+  "status": "BP_R5_FULL_CEO_WEBSITE_DEPLOYED",
   "production_status": "METADATA_RECONCILED_CANDIDATE",
   "parent_build": "P24-12-WEB-V2-20260821-v1.1",
   "parent_production_folder_id": "13rxddkcBXhEr3eoabUSHe-rvN6F6P0-q",
@@ -87,12 +87,18 @@
   "v3a_inheritance": "PRESERVED_PENDING_R1M_BYTE_DIFF_AUDIT",
   "next_required_phase": "WEB-V3B-R2",
   "unresolved_blockers": 0,
-  "website_phase": "P24-12-WEB-BP-R4",
-  "repo": "kavie-cmyk/savrse-report-3",
-  "live_url": "https://kavie-cmyk.github.io/savrse-report-3/",
+  "website_phase": "P24-12-WEB-BP-R5",
+  "repo": "kavie-cmyk/savrse-report-2",
+  "live_url": "https://kavie-cmyk.github.io/savrse-report-2/",
   "r4": {
     "bp4m_narrative": "INTEGRATED",
     "bp4mc_music_concepts": "PULSE_DEFLECTOR_PRIMARY",
+    "final_approval": "PENDING_USER_REVIEW"
+  },
+  "r5": {
+    "rpt4r2_research_journey": "INTEGRATED",
+    "bp4m_v14_business_plan": "INTEGRATED",
+    "concept_illustrations": "PULSE_COUNTERBEAT_PHASE",
     "final_approval": "PENDING_USER_REVIEW"
   }
 }
