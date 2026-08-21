@@ -25,7 +25,7 @@ CEO top-down content reconciliation + causal decision narrative rebuild of the S
 - Baseline branch: `main` (kavie-cmyk/savrse-report-2)
 - Working branch: `content/r6c-ceo-narrative`
 - Baseline commit: `a430aa16af14bed218dfe9ea370b3d974a40940e`
-- R6C commit: (set after commit — see R6C handoff)
+- R6C commit: `01330aa246e68270dda5269e825cb0ab5fec7f7e` (pushed to origin; main untouched)
 
 ## 54.4 Coverage findings
 
