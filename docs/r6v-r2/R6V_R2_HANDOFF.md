@@ -1,4 +1,4 @@
-# R6V-R2 HANDOFF
+﻿# R6V-R2 HANDOFF
 
 **Phase:** P24-12-WEB-R6V-R2 · 2026-08-21
 **Repo:** kavie-cmyk/savrse-report-2 · **Branch:** main
@@ -7,7 +7,7 @@
 ## Repository
 - Pre-R2 SHA: `abf67306d4d587ef9d238ac72da1871894d3b3b8`
 - Backup tag: `archive/pre-r6v-r2-20260821` (pushed)
-- Final SHA: (set after commit)
+- Final SHA: `7a9e360026131315059413695aed9b32036a227c`
 
 ## Live
 - URL: https://kavie-cmyk.github.io/savrse-report-2/ (verify after deploy)
@@ -33,3 +33,4 @@ HTML balanced · IDs 0 dup · nav resolves · citation nesting 0 · overflow 144
 
 ## USER REVIEW STATUS
 READY FOR USER REVIEW — FINAL VISUAL APPROVAL PENDING USER
+
