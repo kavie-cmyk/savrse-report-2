@@ -1,6 +1,6 @@
-# Savrse Business Plan — CEO Website (savrse-report-2)
+﻿# Savrse Business Plan — CEO Website (savrse-report-2)
 
-Static, offline-friendly CEO-facing **Business Plan / Kế hoạch Kinh doanh** microsite (P24-12-WEB-R6V-FULL), the complete research-to-decision-to-business-plan website for the CEO, based on RPT-4R2 (research journey) + BP-4M v1.4 (full business plan) with BP-4MC Music concept illustrations (PULSE DEFLECTOR / COUNTERBEAT / PHASE TETHER). R6C content baseline promoted to main; R6V executive visual storytelling layer applied.
+Static, offline-friendly CEO-facing **Business Plan / Kế hoạch Kinh doanh** microsite (P24-12-WEB-R6V-R2), the complete research-to-decision-to-business-plan website for the CEO, based on RPT-4R2 (research journey) + BP-4M v1.4 (full business plan) with BP-4MC Music concept illustrations (PULSE DEFLECTOR / COUNTERBEAT / PHASE TETHER). R6C content baseline promoted to main; R6V-R2 final art-direction pass applied.
 
 ## Live
 - Repository: `https://github.com/kavie-cmyk/savrse-report-2`
@@ -21,6 +21,7 @@ Static, offline-friendly CEO-facing **Business Plan / Kế hoạch Kinh doanh** 
 HTML5 + CSS3 + Vanilla JavaScript + local SVG/WebP/PNG assets (including 3 concept illustrations + local SVG icon system). No CDN, framework, runtime API or external content fetch.
 
 ## Status
-- P24-12-WEB-R6V-FULL implementation: technical QA complete.
+- P24-12-WEB-R6V-R2 implementation: technical QA complete.
 - Final CEO / content / visual approval: PENDING USER REVIEW (not self-certified).
+
 
