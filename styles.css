@@ -1460,3 +1460,143 @@ main { display: block; }
 .r6v-fin-col li { font-size: 12.5px; color: var(--ink-700); padding: 2px 0; }
 @media (max-width: 768px) { .r6v-fin-nums { grid-template-columns: 1fr; gap: 12px; } .r6v-fin-vs { text-align: center; } .r6v-fin-four { grid-template-columns: 1fr 1fr; } }
 @media (max-width: 480px) { .r6v-fin-four { grid-template-columns: 1fr; } }
+
+/* ============================================================
+   R6V-R2R — TAIL READABILITY REMEDIATION
+   Bounded layer: CEO full-approval detail, final management
+   clock scene, story-end marker, quiet evidence appendix.
+   ============================================================ */
+
+/* ---- Defect A: CEO full approval matrix (default closed) ---- */
+.r6v-ceo-full-detail {
+  margin-top: 22px;
+  border: 1px solid rgba(255,255,255,0.22);
+  border-radius: 16px;
+  background: rgba(255,255,255,0.05);
+}
+.r6v-ceo-full-detail > summary {
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 16px 20px;
+  font-size: 15px;
+  font-weight: 800;
+  color: #fff;
+}
+.r6v-ceo-full-detail > summary::-webkit-details-marker { display: none; }
+.r6v-ceo-full-detail > summary .r6v-detail-arrow {
+  font-size: 18px;
+  font-weight: 800;
+  color: var(--cyan-300);
+  transition: transform 0.18s ease;
+}
+.r6v-ceo-full-detail[open] > summary .r6v-detail-arrow { transform: rotate(45deg); }
+.r6v-ceo-full-detail .r6v-detail-body {
+  padding: 4px 20px 20px;
+  color: #fff;
+}
+.r6v-ceo-full-detail .r6v-detail-body .ceo-table-wrap {
+  background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(255,255,255,0.16);
+  border-radius: 14px;
+}
+.r6v-ceo-full-detail .r6v-detail-body .ceo-table { color: #fff; }
+.r6v-ceo-full-detail .r6v-detail-body .ceo-table th {
+  background: rgba(255,255,255,0.08);
+  color: #fff;
+}
+.r6v-ceo-full-detail .r6v-detail-body .ceo-table td { color: rgba(255,255,255,0.92); }
+
+/* ---- Defect C: final management clock scene ---- */
+.r6v-final-management {
+  position: relative;
+  padding: 56px 24px 48px;
+  background: radial-gradient(1200px 500px at 50% -10%, rgba(34,211,238,0.14), transparent 60%), linear-gradient(180deg, rgba(13,20,40,0.55), rgba(8,12,28,0.85));
+  border-top: 1px solid rgba(255,255,255,0.14);
+  border-bottom: 1px solid rgba(255,255,255,0.14);
+}
+.r6v-final-management .shell { max-width: 1180px; margin: 0 auto; }
+.r6v-final-management .r6v-clock {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 14px;
+  margin-top: 24px;
+}
+.r6v-final-management .r6v-clock-step { padding: 18px 16px; }
+.r6v-story-end {
+  margin-top: 30px;
+  padding: 14px 0;
+  text-align: center;
+  font-weight: 800;
+  font-size: 15px;
+  letter-spacing: 0.14em;
+  color: rgba(255,255,255,0.82);
+}
+.r6v-story-end::before,
+.r6v-story-end::after {
+  content: "—";
+  margin: 0 12px;
+  color: rgba(255,255,255,0.4);
+}
+
+/* ---- Appendix separator (quiet) ---- */
+.r6v-appendix-separator {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  max-width: 1180px;
+  margin: 30px auto 8px;
+  padding: 0 24px;
+}
+.r6v-appendix-sep-line {
+  flex: 1;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.35), transparent);
+}
+.r6v-appendix-sep-label {
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 0.18em;
+  color: rgba(255,255,255,0.6);
+  white-space: nowrap;
+  text-transform: uppercase;
+}
+
+/* ---- Evidence appendix: quiet treatment (light section) ---- */
+.r6v-evidence-appendix { padding-bottom: 40px; }
+.r6v-evidence-appendix .research-intro { color: var(--ink-900); opacity: 0.75; }
+.r6v-appendix-note {
+  margin-top: 10px;
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--ink-900);
+  opacity: 0.72;
+}
+.r6v-appendix-note-sub {
+  margin-top: 4px;
+  font-size: 12.5px;
+  color: var(--ink-900);
+  opacity: 0.55;
+}
+.r6v-evidence-appendix .disclosure-block {
+  background: #fff;
+  border-color: var(--line);
+}
+.r6v-evidence-appendix .disclosure-block[open] { background: #fff; }
+
+/* ---- responsive ---- */
+@media (max-width: 900px) {
+  .r6v-final-management .r6v-clock {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media (max-width: 560px) {
+  .r6v-final-management .r6v-clock {
+    grid-template-columns: 1fr;
+  }
+  .r6v-appendix-separator { gap: 10px; }
+  .r6v-appendix-sep-label { font-size: 10px; letter-spacing: 0.12em; }
+}
