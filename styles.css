@@ -90,7 +90,6 @@ a:hover { text-decoration: underline; }
 }
 .anchor-nav a:hover { background: #fff; text-decoration: none; box-shadow: var(--shadow-soft); }
 .anchor-nav a.is-active { background: var(--royal-600); color: #fff; }
-.anchor-nav.is-collapsed { display: none; }
 
 /* ---------- Layout primitives ---------- */
 main { display: block; }
@@ -427,6 +426,15 @@ main { display: block; }
 .site-footer a { color: var(--cyan-300); }
 .site-footer a:hover { text-decoration: underline; }
 
+
+/* ---------- CEO diagrams ---------- */
+.ceo-diagram { margin-top: 18px; border: 1px solid var(--line); border-radius: var(--radius-md); overflow: hidden; background: #fff; box-shadow: var(--shadow-soft); }
+.diagram-frame { padding: 16px; }
+.diagram-frame img { width: 100%; height: auto; }
+.ceo-diagram figcaption { font-size: 12.5px; color: var(--ink-500); padding: 10px 16px 12px; border-top: 1px solid var(--line); }
+.finalist-card .ceo-diagram { margin-top: 4px; }
+.finalist-card .ceo-diagram .diagram-frame { padding: 8px; }
+
 /* ============ Responsive ============ */
 @media (max-width: 1024px) {
   .hero { grid-template-columns: 1fr; }
@@ -441,7 +449,6 @@ main { display: block; }
   #nav-toggle { display: inline-flex; }
   .anchor-nav { top: 72px; padding: 8px 20px; }
   .anchor-nav.is-collapsed { display: none; }
-  .site-section { padding: 56px 20px; }
   .section-index { font-size: 12px; }
   .content-grid { grid-template-columns: 1fr; }
   .asset-gallery { grid-template-columns: 1fr; }
